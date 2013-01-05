@@ -1,0 +1,52 @@
+# Search for source files in here
+-cp src
+
+# Entry point
+-main Main
+
+# If you want to compile for Neko, uncomment Neko, if you want php, uncomment php
+-neko DEXOfflineXml.n
+#-php php_tool
+
+# Embed the external templates into the app
+-resource src/templates/Definition.mtt@definition
+-resource src/templates/Inflections.mtt@inflections
+-resource src/templates/XmlHeader.mtt@header
+-resource src/templates/XmlFooter.mtt@footer
+-resource src/templates/BackFrontMatter.mtt@backFrontMatter
+
+
+
+# Compile the EN-RO dictionary
+--next
+-cp src
+-main MainENRO.hx
+-neko ENROXml.n
+-resource src/templates_enro/Definition.mtt@definition
+-resource src/templates_enro/XmlHeader.mtt@header
+-resource src/templates_enro/XmlFooter.mtt@footer
+
+
+
+# Compile the Stardict converter
+--next
+-cp src
+-main MainStarDict.hx
+-neko StardictToXml.n
+-resource src/stardict_templates/Word.mtt@word
+-resource src/stardict_templates/XmlHeader.mtt@header
+-resource src/stardict_templates/XmlFooter.mtt@footer
+
+
+
+# Compile the Stardict converter
+--next
+-cp src
+-main MainHello.hx
+-neko hello.n
+-resource src/templates_hello/Hello.mtt@hello
+-resource src/templates_hello/Letter.mtt@letter
+-resource src/templates_hello/XmlHeader.mtt@header
+-resource src/templates_hello/XmlFooter.mtt@footer
+-resource src/templates_hello/SQLHeader.mtt@sql_header
+-resource src/templates_hello/SQLRecord.mtt@sql_record

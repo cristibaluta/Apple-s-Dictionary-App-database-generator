@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Romania</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ralcr.dictionary.DEXOffline</string>
+	<key>CFBundleName</key>
+	<string>DEX Offline</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>Copyright © 2010 http://ralcr.com, http://dexonline.ro</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Băluță Cristian</string>
+	<key>DCSDictionaryFrontMatterReferenceID</key>
+	<string>front_back_matter</string>
+	<key>DCSDictionaryPrefsHTML</key>
+	<string>Dictionary_prefs.html</string>
+	<key>DCSDictionaryXSL</key>
+	<string>Dictionary.xsl</string>
+	<key>DCSDictionaryDefaultPrefs</key>
+	<dict>
+		<key>source1</key>
+		<string>1</string>
+		<key>source2</key>
+		<string>1</string>
+		<key>source3</key>
+		<string>1</string>
+		<key>source4</key>
+		<string>1</string>
+		<key>source5</key>
+		<string>1</string>
+		<key>source6</key>
+		<string>1</string>
+		<key>source7</key>
+		<string>1</string>
+		<key>source8</key>
+		<string>1</string>
+		<key>source9</key>
+		<string>1</string>
+		<key>source10</key>
+		<string>1</string>
+		<key>source11</key>
+		<string>1</string>
+		<key>source12</key>
+		<string>1</string>
+		<key>source13</key>
+		<string>1</string>
+		<key>source14</key>
+		<string>1</string>
+		<key>source15</key>
+		<string>1</string>
+		<key>source16</key>
+		<string>1</string>
+		<key>source17</key>
+		<string>1</string>
+		<key>source18</key>
+		<string>1</string>
+		<key>source19</key>
+		<string>1</string>
+		<key>source20</key>
+		<string>1</string>
+		<key>source21</key>
+		<string>1</string>
+		<key>source22</key>
+		<string>1</string>
+		<key>source23</key>
+		<string>1</string>
+		<key>source24</key>
+		<string>1</string>
+		<key>source25</key>
+		<string>1</string>
+		<key>source26</key>
+		<string>1</string>
+		<key>version</key>
+		<string>1.1</string>
+	</dict>
+</dict>
+</plist>

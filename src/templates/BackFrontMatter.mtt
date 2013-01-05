@@ -1,0 +1,17 @@
+<d:entry id="front_back_matter" d:title="Front/Back Matter">
+	<h1><b>DEX Offline</b></h1>
+	<h2>Front/Back Matter</h2>
+	<div>
+		<p>DEXonline.ro este cea mai cuprinzătoare resursă lexicografică pe Internet pentru limba română – și un proiect unic prin dimensiuni și accesibilitate. Proiectul a fost creat de Cătălin Frîncu /http://catalin.francu.com/ în 2001 și este susținut de voluntari care culeg și verifică texte, actualizează banca de date și codul-sursă. DEXonline.ro are acum (vara lui 2010) aproape 400 000 de definiții din 27 de dicționare ale limbii române, crește încă într-un ritm lunar de peste 1 000 de definiții și are, zilnic, aproximativ 30 000 de utilizatori cărora le răspunde la peste 180 000 de căutări.</p>
+
+		<p>DEXonline (constituit din baza de definiții și codul sursă, disponibil la /http://dexonline.ro/download/dex-database.sql.gz/) este liber și folosește la rîndu-i aproape numai software liber. Accesul la DEXonline este gratuit. Cea mai mare parte din baza de definiții a DEXonline este disponibilă la /http://dexonline.ro/informatii#database / și poate fi redistribuită și/sau modificată în conformitate cu termenii Licenței Publice Generale GNUversiunea 2 sau orice versiune ulterioară. Editura Litera își rezervă dreptul pentru cele patru dicționare pe care le-a pus gratuit la dispoziția proiectului, restul resurselor sînt © Dexonline 2004-2010.</p>
+
+		<p>Autorul DEXoffline, Cristian Băluță, a preluat baza de date a DEXonline și a transpus-o în formatul de plug-in compatibil cu aplicația Dictionary 2.x, distribuită cu versiunea Leopard (Mac OS 10.5) sau mai nouă a sistemului de operare Apple.</p>
+
+		<p>DEXoffline.app păstrează în mare funcționalitatea originalului și este astfel cea mai cuprinzătoare colecție lexicografică pentru limba română disponibilă offline pentru sistemul de operare Apple.</p>
+
+		<p>Ca și DEXonline, DEXoffline.dict este distribuit cu speranța că vă va fi util, dar fără vreo garanție explicită ori implicită de funcționalitate sau de conformitate cu un scop anumit. Citiți Licența Publică Generală GNU pentru detalii. O copie a GNU se află aici /http://www.gnu.org/copyleft/gpl.html/ și o traducere a ei în limba română aici /http://dexonline.ro/licenta-gpl/</p>
+
+		<p>Autorul DEXoffline, Cristian Băluță /ralcr.com/ îi mulțumește lui Cătălin Frâncu pentru sprijin și voluntarilor DEXonline.ro pentru efortul și generozitatea lor, precum și tuturor utilizatorilor de Apple de la http://www.macuser.ro (și mai ales lui Altero, Cattus Thraex, huk, psergiu și VlAdLitt) care au acordat interes și sprijin la nașterea DEXoffline.dict.</p>
+	</div>
+</d:entry>

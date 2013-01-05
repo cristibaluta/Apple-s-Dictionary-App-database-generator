@@ -1,0 +1,7 @@
+<d:entry id="::id::" d:title="::word_en::">
+	<d:index d:value="::word_en::" d:title="::word_en:: -> ::word_ro::"/>::if bidirectional::<d:index d:value="::word_ro::" d:title="::word_ro:: -> ::word_en::"/>::end::
+	<div>
+		<h1>::word_en::</h1>
+		<p>::word_ro::</p>
+	</div>
+</d:entry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>dictplug</string>
+	<key>LSRequiresCarbon</key>
+	<true/>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleExecutable</key>
+	<string>applet</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>aplt</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>German</string>
+	<key>CFBundleIdentifier</key>
+	<string>de.tekl.dictionary.openThesaurusDeutsch</string>
+	<key>CFBundleName</key>
+	<string>OpenThesaurus Deutsch</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2008.12.09</string>
+	<key>CFBundleVersion</key>
+	<string>2008.12.09</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>Copyright © 2008 Daniel Naber, www.openthesaurus.de / Wolfgang Reszel, www.tekl.de</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Content: © 2008 Daniel Naber, www.openthesaurus.de
+Plugin: © 2008 Wolfgang Reszel, www.tekl.de</string>
+	<key>DCSDictionaryFrontMatterReferenceID</key>
+	<string>front_back_matter</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Wolfgang Reszel (www.tekl.de)</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>DCSDictionaryPrefsHTML</key>
+	<string>OpenThesaurus_prefs.html</string>
+	<key>DCSDictionaryXSL</key>
+	<string>OpenThesaurus.xsl</string>
+	<key>DCSDictionaryDefaultPrefs</key>
+	<dict>
+		<key>CheckForUpdates</key>
+		<string>2</string>
+		<key>ShowCopyright</key>
+		<string>1</string>
+	</dict>
+</dict>
+</plist>

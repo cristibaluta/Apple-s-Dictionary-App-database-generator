@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ralcr.dictionary.EN-RO</string>
+	<key>CFBundleName</key>
+	<string>EN-RO</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>Copyright © 2010 ralcr.com</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>Bălută Cristian</string>
+	<key>DCSDictionaryFrontMatterReferenceID</key>
+	<string>front_back_matter</string>
+	<key>DCSDictionaryPrefsHTML</key>
+	<string>Dictionary_prefs.html</string>
+	<key>DCSDictionaryXSL</key>
+	<string>Dictionary.xsl</string>
+	<key>DCSDictionaryDefaultPrefs</key>
+	<dict>
+		<key>version</key>
+		<string>1</string>
+	</dict>
+</dict>
+</plist>

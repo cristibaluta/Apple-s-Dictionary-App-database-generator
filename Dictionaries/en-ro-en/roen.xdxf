@@ -1,0 +1,7236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xdxf SYSTEM "http://xdxf.sourceforge.net/xdxf_lousy.dtd">
+<xdxf lang_from="RUM" lang_to="ENG" format="visual">
+<full_name>Romanian-English dictionary</full_name>
+<description>Copyright: http://www.freelang.net/dictionary/; Version: 1.0</description>
+<ar><k>Africa</k>
+Africa</ar>
+<ar><k>Africa de Sud</k>
+South Africa</ar>
+<ar><k>Albania</k>
+Albania</ar>
+<ar><k>Alpi</k>
+Alps</ar>
+<ar><k>America</k>
+America</ar>
+<ar><k>America de Nord</k>
+North America</ar>
+<ar><k>America de Sud</k>
+South America</ar>
+<ar><k>Anglia</k>
+England</ar>
+<ar><k>Ardealul</k>
+Transylvania</ar>
+<ar><k>Argentina</k>
+Argentina</ar>
+<ar><k>Asia</k>
+Asia</ar>
+<ar><k>Australia</k>
+Australia</ar>
+<ar><k>Austria</k>
+Austria</ar>
+<ar><k>Banatul</k>
+Banat</ar>
+<ar><k>Belgia</k>
+Belgium</ar>
+<ar><k>Brazilia</k>
+Brazil</ar>
+<ar><k>Bulgaria</k>
+Bulgaria</ar>
+<ar><k>Canada</k>
+Canada</ar>
+<ar><k>Cehia</k>
+Czech Republic</ar>
+<ar><k>China</k>
+China</ar>
+<ar><k>Crăciun</k>
+Christmas</ar>
+<ar><k>Danemarca</k>
+Denmark</ar>
+<ar><k>Decembrie</k>
+December</ar>
+<ar><k>Domnul</k>
+Lord</ar>
+<ar><k>Dumnezeu</k>
+God</ar>
+<ar><k>Dunărea</k>
+Danube</ar>
+<ar><k>Egipt</k>
+Egypt</ar>
+<ar><k>Elveţia</k>
+Switzerland</ar>
+<ar><k>Europa</k>
+Europe</ar>
+<ar><k>Februarie</k>
+February</ar>
+<ar><k>Finlanda</k>
+Finland</ar>
+<ar><k>Franţa</k>
+France</ar>
+<ar><k>Genmania</k>
+Germany</ar>
+<ar><k>Grecia</k>
+Greece</ar>
+<ar><k>India</k>
+India</ar>
+<ar><k>Iran</k>
+Iran</ar>
+<ar><k>Irlanda</k>
+Ireland</ar>
+<ar><k>Islanda</k>
+Iceland</ar>
+<ar><k>Israel</k>
+Israel</ar>
+<ar><k>Italia</k>
+Italy</ar>
+<ar><k>Iugoslavia</k>
+Yugoslavia</ar>
+<ar><k>Japonia</k>
+Japan</ar>
+<ar><k>Londra</k>
+London</ar>
+<ar><k>Marea Britanie</k>
+Great Britain</ar>
+<ar><k>Mexic</k>
+Mexico</ar>
+<ar><k>Moş Crăciun</k>
+Father Christmas</ar>
+<ar><k>Moldova</k>
+Moldavia</ar>
+<ar><k>Moscova</k>
+Moscow</ar>
+<ar><k>Munţii Carpaţi</k>
+Carpathian mountains</ar>
+<ar><k>Muntenia</k>
+Muntenia</ar>
+<ar><k>Norvegia</k>
+Norway</ar>
+<ar><k>Noua Zeelandă</k>
+New Zealand</ar>
+<ar><k>Olanda</k>
+Holland</ar>
+<ar><k>Organizaţia Naţiunilor Unite</k>
+United Nations</ar>
+<ar><k>Orientul</k>
+Middle East</ar>
+<ar><k>Pakistan</k>
+Pakistan</ar>
+<ar><k>Paris</k>
+Paris</ar>
+<ar><k>Paşti</k>
+Easter</ar>
+<ar><k>Polonia</k>
+Poland</ar>
+<ar><k>Portugalia</k>
+Portugal</ar>
+<ar><k>Regatul Unit</k>
+United Kingdom</ar>
+<ar><k>Rinul</k>
+Rhine</ar>
+<ar><k>Roma</k>
+Rome</ar>
+<ar><k>România</k>
+Romania</ar>
+<ar><k>Romînia</k>
+Romania</ar>
+<ar><k>Rusia</k>
+Russia</ar>
+<ar><k>Scoţia</k>
+Scotland</ar>
+<ar><k>Slovacia</k>
+Slovakia</ar>
+<ar><k>Spania</k>
+Spain</ar>
+<ar><k>Statele Unite</k>
+United States</ar>
+<ar><k>Suedia</k>
+Sweden</ar>
+<ar><k>Tamisa</k>
+Thames</ar>
+<ar><k>Transilvania</k>
+Tnansylvania</ar>
+<ar><k>Turcia</k>
+Turkey</ar>
+<ar><k>Ucraina</k>
+Ukraine</ar>
+<ar><k>Ungaria</k>
+Hungary</ar>
+<ar><k>Uniunea Europeană</k>
+European Union</ar>
+<ar><k>Uniunea Sovietică</k>
+Soviet Union</ar>
+<ar><k>Vlad Dracul</k>
+VIad the Devil</ar>
+<ar><k>Vlad Ţepel</k>
+Viad The Impaler</ar>
+<ar><k>şa</k>
+saddle</ar>
+<ar><k>a ţine dreapta</k>
+keep right</ar>
+<ar><k>aşa</k>
+so</ar>
+<ar><k>aşa că</k>
+so that</ar>
+<ar><k>aşa şi aşa</k>
+so so</ar>
+<ar><k>aşadar</k>
+therefore</ar>
+<ar><k>abajur</k>
+lampshade</ar>
+<ar><k>abatere</k>
+deviation</ar>
+<ar><k>abia</k>
+hardly</ar>
+<ar><k>absenţă</k>
+absence</ar>
+<ar><k>absolvi</k>
+graduate</ar>
+<ar><k>absorbi</k>
+absorb</ar>
+<ar><k>abundent</k>
+abundant</ar>
+<ar><k>abur</k>
+steam</ar>
+<ar><k>ac</k>
+needle</ar>
+<ar><k>acasă</k>
+at home</ar>
+<ar><k>accelera</k>
+accelerate</ar>
+<ar><k>accelerat</k>
+fast train</ar>
+<ar><k>accent</k>
+accent</ar>
+<ar><k>accentua</k>
+stress</ar>
+<ar><k>accepta</k>
+accept</ar>
+<ar><k>accident</k>
+accident</ar>
+<ar><k>aceasta</k>
+this</ar>
+<ar><k>aceeaşi</k>
+the same</ar>
+<ar><k>aceiaşi</k>
+the same</ar>
+<ar><k>acel</k>
+that</ar>
+<ar><k>acela</k>
+that</ar>
+<ar><k>acelaşi</k>
+the same</ar>
+<ar><k>aceleaşi</k>
+the same</ar>
+<ar><k>acest</k>
+this</ar>
+<ar><k>acesta</k>
+this thing</ar>
+<ar><k>acţiona</k>
+act</ar>
+<ar><k>acolo</k>
+over there</ar>
+<ar><k>acoperi</k>
+cover</ar>
+<ar><k>acoperit</k>
+covered</ar>
+<ar><k>acord</k>
+agreement</ar>
+<ar><k>acorda</k>
+grant</ar>
+<ar><k>acru</k>
+sour</ar>
+<ar><k>act</k>
+act</ar>
+<ar><k>activitate</k>
+activity</ar>
+<ar><k>actor</k>
+actor</ar>
+<ar><k>actual</k>
+current</ar>
+<ar><k>acum</k>
+now</ar>
+<ar><k>acum o oră</k>
+an hour ago</ar>
+<ar><k>acuza</k>
+accuse</ar>
+<ar><k>acuzativ</k>
+accusative</ar>
+<ar><k>adapta</k>
+adapt</ar>
+<ar><k>adesea</k>
+often</ar>
+<ar><k>adevăr</k>
+truth</ar>
+<ar><k>adevărat</k>
+true</ar>
+<ar><k>adică</k>
+that is to say</ar>
+<ar><k>adineauri</k>
+just now</ar>
+<ar><k>adjectiv</k>
+adjective</ar>
+<ar><k>administraţie</k>
+administration</ar>
+<ar><k>admira</k>
+admire</ar>
+<ar><k>admiraţie</k>
+admiration</ar>
+<ar><k>admis</k>
+admitted</ar>
+<ar><k>admite</k>
+admit</ar>
+<ar><k>adormi</k>
+fall asleep</ar>
+<ar><k>adăpost</k>
+shelter</ar>
+<ar><k>adăposti</k>
+shelter</ar>
+<ar><k>adresă</k>
+address</ar>
+<ar><k>aduce</k>
+bring</ar>
+<ar><k>adăuga</k>
+add</ar>
+<ar><k>adăugat</k>
+added</ar>
+<ar><k>aduna</k>
+gather</ar>
+<ar><k>adunare</k>
+assembly</ar>
+<ar><k>adus</k>
+brought</ar>
+<ar><k>adverb</k>
+adverb</ar>
+<ar><k>adînc</k>
+deep</ar>
+<ar><k>adîncime</k>
+depth</ar>
+<ar><k>aer</k>
+air</ar>
+<ar><k>aeroport</k>
+airport</ar>
+<ar><k>aşeza</k>
+lay</ar>
+<ar><k>afacere</k>
+business</ar>
+<ar><k>afară</k>
+outside</ar>
+<ar><k>afiş</k>
+poster</ar>
+<ar><k>afirma</k>
+assert</ar>
+<ar><k>afla</k>
+find</ar>
+<ar><k>afluent</k>
+tributary</ar>
+<ar><k>africa</k>
+Africa</ar>
+<ar><k>africa de sud</k>
+South Africa</ar>
+<ar><k>afumat</k>
+smoked</ar>
+<ar><k>afunda</k>
+plunge</ar>
+<ar><k>agăţa</k>
+hang up</ar>
+<ar><k>agale</k>
+slowly</ar>
+<ar><k>agasa</k>
+worry</ar>
+<ar><k>agendă</k>
+diary</ar>
+<ar><k>agenţie</k>
+agency</ar>
+<ar><k>agenţie de turism</k>
+travel agency</ar>
+<ar><k>agent</k>
+agent</ar>
+<ar><k>agita</k>
+agitate</ar>
+<ar><k>aglomerat</k>
+crowded</ar>
+<ar><k>agricol</k>
+agricultural</ar>
+<ar><k>ai</k>
+you have</ar>
+<ar><k>aici</k>
+here</ar>
+<ar><k>aţipi</k>
+doze</ar>
+<ar><k>şaisprezece</k>
+sixteen</ar>
+<ar><k>şaisprezecea</k>
+sixteenth</ar>
+<ar><k>şaisprezecelea</k>
+sixteenth</ar>
+<ar><k>aiurit</k>
+scatter brained</ar>
+<ar><k>şaizecea</k>
+sixtieth</ar>
+<ar><k>şaizeci</k>
+sixty</ar>
+<ar><k>şaizecilea</k>
+sixtieth</ar>
+<ar><k>ajunge</k>
+arrive at</ar>
+<ar><k>ajuns</k>
+arrived</ar>
+<ar><k>ajuta</k>
+help</ar>
+<ar><k>ajutor</k>
+help</ar>
+<ar><k>al cincilea</k>
+fifth</ar>
+<ar><k>al doilea</k>
+second</ar>
+<ar><k>al optulea</k>
+eighth</ar>
+<ar><k>al patrulea</k>
+fourth</ar>
+<ar><k>al treilea</k>
+third</ar>
+<ar><k>al una sutălea</k>
+one hundreth</ar>
+<ar><k>al zecelea</k>
+tenth</ar>
+<ar><k>alaltăieri</k>
+day before yesterday</ar>
+<ar><k>alb</k>
+white</ar>
+<ar><k>albania</k>
+Albania</ar>
+<ar><k>albastru</k>
+blue</ar>
+<ar><k>albină</k>
+bee</ar>
+<ar><k>album</k>
+album</ar>
+<ar><k>alcool</k>
+alcohol</ar>
+<ar><k>alcătui</k>
+form</ar>
+<ar><k>alee</k>
+lane</ar>
+<ar><k>alege</k>
+choose</ar>
+<ar><k>alerga</k>
+run</ar>
+<ar><k>ales</k>
+chosen</ar>
+<ar><k>aliat</k>
+allied</ar>
+<ar><k>aliment</k>
+food</ar>
+<ar><k>alimentară</k>
+grocer's</ar>
+<ar><k>alinta</k>
+caress</ar>
+<ar><k>alo</k>
+hello on telephone</ar>
+<ar><k>alpi</k>
+Alps</ar>
+<ar><k>alpin</k>
+alpine</ar>
+<ar><k>alpinism</k>
+climbing</ar>
+<ar><k>alt</k>
+another</ar>
+<ar><k>altar</k>
+altar</ar>
+<ar><k>altceva</k>
+something else</ar>
+<ar><k>altcineva</k>
+somebody else</ar>
+<ar><k>altădată</k>
+some other time</ar>
+<ar><k>altfel</k>
+otherwise</ar>
+<ar><k>altminteri</k>
+otherwise</ar>
+<ar><k>alături</k>
+beside</ar>
+<ar><k>aluat</k>
+dough</ar>
+<ar><k>alună</k>
+hazelnut</ar>
+<ar><k>aluneca</k>
+slip</ar>
+<ar><k>am</k>
+I have</ar>
+<ar><k>am chef să</k>
+I feel like</ar>
+<ar><k>amabil</k>
+amiable</ar>
+<ar><k>amar</k>
+bitten</ar>
+<ar><k>ambasadă</k>
+embassy</ar>
+<ar><k>ambii</k>
+both</ar>
+<ar><k>ambiţios</k>
+ambitious</ar>
+<ar><k>ame nucleare</k>
+nuclear weapons</ar>
+<ar><k>amendă</k>
+a fine</ar>
+<ar><k>amenda</k>
+to fine</ar>
+<ar><k>ameninţa</k>
+threaten</ar>
+<ar><k>america</k>
+America</ar>
+<ar><k>america de nord</k>
+North America</ar>
+<ar><k>america de sud</k>
+South America</ar>
+<ar><k>american</k>
+American</ar>
+<ar><k>amesteca</k>
+mix</ar>
+<ar><k>amfiteatru</k>
+amphitheatre</ar>
+<ar><k>amiază</k>
+noon</ar>
+<ar><k>amic</k>
+friend</ar>
+<ar><k>aminti</k>
+remind</ar>
+<ar><k>amintire</k>
+memory</ar>
+<ar><k>amănunt</k>
+detail</ar>
+<ar><k>amor</k>
+love affair</ar>
+<ar><k>şampanie</k>
+champagne</ar>
+<ar><k>amărît</k>
+downcast</ar>
+<ar><k>amurg</k>
+twilight</ar>
+<ar><k>amîndoi</k>
+both</ar>
+<ar><k>an</k>
+year</ar>
+<ar><k>şanţ</k>
+ditch</ar>
+<ar><k>an bisect</k>
+leap year</ar>
+<ar><k>anapoda</k>
+topsy-turvy</ar>
+<ar><k>anecdotă</k>
+anecdote</ar>
+<ar><k>anglia</k>
+England</ar>
+<ar><k>animal</k>
+animal</ar>
+<ar><k>aniversare</k>
+anniversary</ar>
+<ar><k>anotimp</k>
+season</ar>
+<ar><k>antic</k>
+ancient</ar>
+<ar><k>anticariat</k>
+second-hand bookshop</ar>
+<ar><k>antinevralgic</k>
+headache pill</ar>
+<ar><k>anume</k>
+namely</ar>
+<ar><k>anumit</k>
+a certain</ar>
+<ar><k>anunţa</k>
+announce</ar>
+<ar><k>apă</k>
+water</ar>
+<ar><k>apă minerală</k>
+mineral water</ar>
+<ar><k>aparat</k>
+device</ar>
+<ar><k>aparat de fotografiat</k>
+camera</ar>
+<ar><k>apariţie</k>
+publication</ar>
+<ar><k>aparţine</k>
+belong to</ar>
+<ar><k>apartament</k>
+flat</ar>
+<ar><k>apoi</k>
+then</ar>
+<ar><k>apăra</k>
+defend</ar>
+<ar><k>apărea</k>
+appear</ar>
+<ar><k>aprecia</k>
+appreciate</ar>
+<ar><k>apreciat</k>
+highly regarded</ar>
+<ar><k>aprilie</k>
+April</ar>
+<ar><k>aprinde</k>
+turn on</ar>
+<ar><k>aprins</k>
+lit</ar>
+<ar><k>aproape</k>
+nearby</ar>
+<ar><k>aproape de</k>
+near</ar>
+<ar><k>apropiere</k>
+vicinity</ar>
+<ar><k>apropo</k>
+by the way</ar>
+<ar><k>apărut</k>
+appeared</ar>
+<ar><k>apăsa</k>
+press</ar>
+<ar><k>şapte</k>
+seven</ar>
+<ar><k>şapte sute</k>
+seven hundred</ar>
+<ar><k>şaptea</k>
+seventh</ar>
+<ar><k>şaptelea</k>
+seventh</ar>
+<ar><k>şaptesprezece</k>
+seventeen</ar>
+<ar><k>şaptesprezecea</k>
+seventeenth</ar>
+<ar><k>şaptesprezecelea</k>
+seventeenth</ar>
+<ar><k>şaptezecea</k>
+seventieth</ar>
+<ar><k>şaptezeci</k>
+seventy</ar>
+<ar><k>şaptezecilea</k>
+seventieth</ar>
+<ar><k>apuca</k>
+seize</ar>
+<ar><k>apune</k>
+set (the sun)</ar>
+<ar><k>apus</k>
+set</ar>
+<ar><k>ţară</k>
+country</ar>
+<ar><k>ara</k>
+to plough</ar>
+<ar><k>Ţara Galilor</k>
+Wales</ar>
+<ar><k>Ţara Romînească</k>
+Wallachia</ar>
+<ar><k>ţara galilor</k>
+Wales</ar>
+<ar><k>ţara romînească</k>
+Wallachia</ar>
+<ar><k>aramă</k>
+copper</ar>
+<ar><k>aranja</k>
+arrange</ar>
+<ar><k>aranjament</k>
+arrangement</ar>
+<ar><k>arbone</k>
+tree</ar>
+<ar><k>arde</k>
+burn</ar>
+<ar><k>ardealul</k>
+Transylvania</ar>
+<ar><k>ardei</k>
+pepper</ar>
+<ar><k>ardei gras</k>
+green pepper</ar>
+<ar><k>ardei iute</k>
+chilli pepper</ar>
+<ar><k>are</k>
+he has</ar>
+<ar><k>argentina</k>
+Argentina</ar>
+<ar><k>argint</k>
+silver</ar>
+<ar><k>arhitectură</k>
+architecture</ar>
+<ar><k>aripă</k>
+wing</ar>
+<ar><k>aritmetică</k>
+arithmetic</ar>
+<ar><k>armă</k>
+weapon</ar>
+<ar><k>armată</k>
+army</ar>
+<ar><k>şarpe</k>
+snake</ar>
+<ar><k>ars</k>
+burnt</ar>
+<ar><k>artă</k>
+art</ar>
+<ar><k>arăta</k>
+show</ar>
+<ar><k>articol</k>
+article</ar>
+<ar><k>articol de fond</k>
+editorial</ar>
+<ar><k>artist</k>
+artist</ar>
+<ar><k>artizanat</k>
+handicraft</ar>
+<ar><k>arunca</k>
+throw</ar>
+<ar><k>ascensiune</k>
+climb</ar>
+<ar><k>ascuţi</k>
+sharpen</ar>
+<ar><k>ascuţit</k>
+sharp</ar>
+<ar><k>asculta</k>
+listen to</ar>
+<ar><k>ascunde</k>
+hide</ar>
+<ar><k>ascuns</k>
+hidden</ar>
+<ar><k>şase</k>
+six</ar>
+<ar><k>şase sute</k>
+six hundred</ar>
+<ar><k>şasea</k>
+sixth</ar>
+<ar><k>şaselea</k>
+sixth</ar>
+<ar><k>asemenea</k>
+such</ar>
+<ar><k>asemănare</k>
+resemblance</ar>
+<ar><k>şasezeci</k>
+sixty</ar>
+<ar><k>asfinţit</k>
+sunset</ar>
+<ar><k>asia</k>
+Asia</ar>
+<ar><k>asigura</k>
+assure</ar>
+<ar><k>asigurare</k>
+insurance</ar>
+<ar><k>asociaţie</k>
+association</ar>
+<ar><k>aspect</k>
+aspect</ar>
+<ar><k>aspirator</k>
+vacuum cleaner</ar>
+<ar><k>aspirină</k>
+aspirin</ar>
+<ar><k>aspru</k>
+rough</ar>
+<ar><k>astfel</k>
+thus</ar>
+<ar><k>astăzi</k>
+today</ar>
+<ar><k>asupra</k>
+on</ar>
+<ar><k>ataş</k>
+side car</ar>
+<ar><k>ataca</k>
+attack</ar>
+<ar><k>atare</k>
+such</ar>
+<ar><k>atenţie</k>
+attention</ar>
+<ar><k>atent</k>
+attentive</ar>
+<ar><k>atentat</k>
+attempt</ar>
+<ar><k>atenua</k>
+attenuate</ar>
+<ar><k>aştepta</k>
+wait</ar>
+<ar><k>ateriza</k>
+land</ar>
+<ar><k>aşternut</k>
+bedspread</ar>
+<ar><k>atinge</k>
+touch</ar>
+<ar><k>atins</k>
+touched</ar>
+<ar><k>atitudine</k>
+attitude</ar>
+<ar><k>atlas</k>
+atlas</ar>
+<ar><k>atlet</k>
+athlete</ar>
+<ar><k>atom</k>
+atom</ar>
+<ar><k>atomic</k>
+atomic</ar>
+<ar><k>atracţie</k>
+attraction</ar>
+<ar><k>atrage</k>
+attract</ar>
+<ar><k>atras</k>
+attracted</ar>
+<ar><k>atrăgător</k>
+attractive</ar>
+<ar><k>atroce</k>
+atrocious</ar>
+<ar><k>atu</k>
+trump</ar>
+<ar><k>atunci</k>
+at that time</ar>
+<ar><k>atîrna</k>
+hang</ar>
+<ar><k>atît</k>
+so much</ar>
+<ar><k>au</k>
+they have</ar>
+<ar><k>auditiv</k>
+auditory</ar>
+<ar><k>auditoriu</k>
+audience</ar>
+<ar><k>august</k>
+August</ar>
+<ar><k>aulă</k>
+lecture hall</ar>
+<ar><k>aur</k>
+gold</ar>
+<ar><k>aureolă</k>
+halo</ar>
+<ar><k>aurit</k>
+gilded</ar>
+<ar><k>auriu</k>
+gold-coloured</ar>
+<ar><k>auroră</k>
+dawn</ar>
+<ar><k>austeritate</k>
+austerity</ar>
+<ar><k>austral</k>
+southern</ar>
+<ar><k>australia</k>
+Australia</ar>
+<ar><k>austria</k>
+Austria</ar>
+<ar><k>autentic</k>
+authentic</ar>
+<ar><k>autobuz</k>
+bus</ar>
+<ar><k>autohton</k>
+native</ar>
+<ar><k>autor</k>
+author</ar>
+<ar><k>autoritate</k>
+authority</ar>
+<ar><k>autoservire</k>
+self service</ar>
+<ar><k>auzi</k>
+hear</ar>
+<ar><k>avea</k>
+have</ar>
+<ar><k>avea dreptate</k>
+be right</ar>
+<ar><k>avea grijă de</k>
+take care of</ar>
+<ar><k>avea gust de</k>
+taste of</ar>
+<ar><k>avea noroc</k>
+be lucky</ar>
+<ar><k>avea un dinte contra</k>
+have a grudge against</ar>
+<ar><k>aveţi</k>
+you have</ar>
+<ar><k>avem</k>
+we have</ar>
+<ar><k>avere</k>
+wealth</ar>
+<ar><k>avion</k>
+plane</ar>
+<ar><k>avocat</k>
+lawyer</ar>
+<ar><k>avut</k>
+had</ar>
+<ar><k>azi</k>
+today</ar>
+<ar><k>băţ</k>
+stick</ar>
+<ar><k>babă</k>
+old woman</ar>
+<ar><k>bagaj</k>
+luggage</ar>
+<ar><k>baie</k>
+bathroom</ar>
+<ar><k>balcon</k>
+balcony</ar>
+<ar><k>baltă</k>
+pool</ar>
+<ar><k>ban</k>
+one hundreth of a leu</ar>
+<ar><k>banană</k>
+banana</ar>
+<ar><k>banatul</k>
+Banat</ar>
+<ar><k>banc</k>
+joke</ar>
+<ar><k>bancă</k>
+bench</ar>
+<ar><k>bancnotă</k>
+banknote</ar>
+<ar><k>bandă</k>
+tape</ar>
+<ar><k>bani</k>
+money</ar>
+<ar><k>bar</k>
+bar</ar>
+<ar><k>barbă</k>
+beard</ar>
+<ar><k>barcă</k>
+boat</ar>
+<ar><k>basma</k>
+kerchief</ar>
+<ar><k>bate</k>
+knock</ar>
+<ar><k>bază</k>
+base</ar>
+<ar><k>baza</k>
+base</ar>
+<ar><k>bazin de înot</k>
+swimming pool</ar>
+<ar><k>bea</k>
+drink</ar>
+<ar><k>bec</k>
+light bulb</ar>
+<ar><k>bej</k>
+beige</ar>
+<ar><k>belgia</k>
+Belgium</ar>
+<ar><k>belşug</k>
+abundance</ar>
+<ar><k>benzină</k>
+petrol</ar>
+<ar><k>bere</k>
+beer</ar>
+<ar><k>bestie</k>
+beast</ar>
+<ar><k>beton</k>
+concrete</ar>
+<ar><k>beznă</k>
+dark</ar>
+<ar><k>băga</k>
+put in</ar>
+<ar><k>băiat</k>
+boy</ar>
+<ar><k>biblie</k>
+bible</ar>
+<ar><k>bibliotecă</k>
+library</ar>
+<ar><k>bicicletă</k>
+bicycle</ar>
+<ar><k>biet</k>
+poor</ar>
+<ar><k>biftec</k>
+steak</ar>
+<ar><k>bijuterie</k>
+jewel</ar>
+<ar><k>bilet</k>
+ticket</ar>
+<ar><k>bine</k>
+good</ar>
+<ar><k>bine ai venit</k>
+welcome</ar>
+<ar><k>bine aţi venit</k>
+welcome</ar>
+<ar><k>bine că</k>
+good thing that</ar>
+<ar><k>binecuvîntare</k>
+blessing</ar>
+<ar><k>binefacere</k>
+charity</ar>
+<ar><k>binevenit</k>
+welcome</ar>
+<ar><k>bineînţeles</k>
+of course</ar>
+<ar><k>binişor</k>
+fairly well</ar>
+<ar><k>birou</k>
+study</ar>
+<ar><k>birui</k>
+defeat</ar>
+<ar><k>biruinţă</k>
+victory</ar>
+<ar><k>bisect</k>
+leap</ar>
+<ar><k>biserică</k>
+church</ar>
+<ar><k>blană</k>
+fur</ar>
+<ar><k>blestema</k>
+curse</ar>
+<ar><k>bloc</k>
+block of flats</ar>
+<ar><k>blond</k>
+fair</ar>
+<ar><k>blugi</k>
+blue jeans</ar>
+<ar><k>blînd</k>
+gentle</ar>
+<ar><k>bănui</k>
+suspect</ar>
+<ar><k>boabă</k>
+berry</ar>
+<ar><k>boală</k>
+illness</ar>
+<ar><k>bogat</k>
+rich</ar>
+<ar><k>bogăţie</k>
+wealth</ar>
+<ar><k>boi</k>
+oxen</ar>
+<ar><k>boier</k>
+boyar</ar>
+<ar><k>bolnav</k>
+sick</ar>
+<ar><k>bomboană</k>
+sweet</ar>
+<ar><k>bon</k>
+ticket</ar>
+<ar><k>borcan</k>
+jar</ar>
+<ar><k>bordură</k>
+curb</ar>
+<ar><k>bot</k>
+snout</ar>
+<ar><k>boteza</k>
+baptise</ar>
+<ar><k>bou</k>
+ox</ar>
+<ar><k>braţ</k>
+arm</ar>
+<ar><k>brad</k>
+fir tree</ar>
+<ar><k>bravo</k>
+well done</ar>
+<ar><k>brazilia</k>
+Brazil</ar>
+<ar><k>bărbat</k>
+man</ar>
+<ar><k>bărbie</k>
+chin</ar>
+<ar><k>bărbier</k>
+barber</ar>
+<ar><k>brichetă</k>
+lighter</ar>
+<ar><k>britanic</k>
+British</ar>
+<ar><k>broşă</k>
+brooch</ar>
+<ar><k>broască</k>
+frog</ar>
+<ar><k>broşură</k>
+booklet</ar>
+<ar><k>brusc</k>
+sudden</ar>
+<ar><k>bruse</k>
+sudden</ar>
+<ar><k>brut</k>
+raw</ar>
+<ar><k>brutărie</k>
+bakery</ar>
+<ar><k>brăzda</k>
+to furrow</ar>
+<ar><k>brînză</k>
+cheese</ar>
+<ar><k>bătaie</k>
+beating</ar>
+<ar><k>bătrîn</k>
+old</ar>
+<ar><k>bubui</k>
+thunder</ar>
+<ar><k>buburuză</k>
+ladybird</ar>
+<ar><k>bucată</k>
+piece</ar>
+<ar><k>bucate</k>
+food</ar>
+<ar><k>buchet</k>
+bouquet</ar>
+<ar><k>buclă</k>
+curl</ar>
+<ar><k>bucla</k>
+curl</ar>
+<ar><k>bucluc</k>
+trouble</ar>
+<ar><k>bucătăreasă</k>
+female cook</ar>
+<ar><k>bucătărie</k>
+kitchen</ar>
+<ar><k>bucurie</k>
+joy</ar>
+<ar><k>bucuros</k>
+glad</ar>
+<ar><k>bufni</k>
+bang</ar>
+<ar><k>bufon</k>
+fool</ar>
+<ar><k>buget</k>
+budget</ar>
+<ar><k>buimac</k>
+dizzy</ar>
+<ar><k>buletin</k>
+identity card</ar>
+<ar><k>buletin de ştiri</k>
+news bulletin</ar>
+<ar><k>bulevard</k>
+boulevard</ar>
+<ar><k>bulgaria</k>
+Bulgaria</ar>
+<ar><k>bun</k>
+good</ar>
+<ar><k>bună dimineaţa</k>
+good morning</ar>
+<ar><k>bună seara</k>
+good evening</ar>
+<ar><k>bun venit</k>
+welcome</ar>
+<ar><k>bună ziua</k>
+hello</ar>
+<ar><k>bunic</k>
+grandfather</ar>
+<ar><k>bunică</k>
+grandmother</ar>
+<ar><k>bunătate</k>
+kindness</ar>
+<ar><k>burete</k>
+sponge</ar>
+<ar><k>burtă</k>
+belly</ar>
+<ar><k>băut</k>
+drunk</ar>
+<ar><k>butelie</k>
+bottle</ar>
+<ar><k>butoi</k>
+cask</ar>
+<ar><k>buton</k>
+cuff-link</ar>
+<ar><k>butuc</k>
+log</ar>
+<ar><k>băutură</k>
+drink</ar>
+<ar><k>buză</k>
+lip</ar>
+<ar><k>buzunar</k>
+pocket</ar>
+<ar><k>că</k>
+than</ar>
+<ar><k>ca</k>
+than</ar>
+<ar><k>ca să</k>
+so as to</ar>
+<ar><k>cabană</k>
+chalet</ar>
+<ar><k>cabinet</k>
+surgery</ar>
+<ar><k>cadou</k>
+present</ar>
+<ar><k>cadru</k>
+frame</ar>
+<ar><k>cafea</k>
+coffee</ar>
+<ar><k>caiet</k>
+note book</ar>
+<ar><k>caisă</k>
+apricot</ar>
+<ar><k>cal</k>
+horse</ar>
+<ar><k>calculator</k>
+calculator</ar>
+<ar><k>cald</k>
+warmth</ar>
+<ar><k>cale</k>
+street</ar>
+<ar><k>calitate</k>
+qualitz</ar>
+<ar><k>calorifer</k>
+radiator</ar>
+<ar><k>cam</k>
+rather</ar>
+<ar><k>cameră</k>
+room</ar>
+<ar><k>cană</k>
+jug</ar>
+<ar><k>canada</k>
+Canada</ar>
+<ar><k>canal</k>
+channel</ar>
+<ar><k>cantină</k>
+refectory</ar>
+<ar><k>cantitate</k>
+quantity</ar>
+<ar><k>cap</k>
+head</ar>
+<ar><k>capitală</k>
+capital</ar>
+<ar><k>capitol</k>
+chapter</ar>
+<ar><k>capră</k>
+goat</ar>
+<ar><k>capăt</k>
+end</ar>
+<ar><k>capta</k>
+catch</ar>
+<ar><k>car</k>
+cart</ar>
+<ar><k>care</k>
+which</ar>
+<ar><k>carne</k>
+flesh</ar>
+<ar><k>carnet</k>
+book of tickets</ar>
+<ar><k>carte</k>
+book</ar>
+<ar><k>carte poştală</k>
+postcard</ar>
+<ar><k>cartier</k>
+borough</ar>
+<ar><k>cartof</k>
+potato</ar>
+<ar><k>carton</k>
+cardboard</ar>
+<ar><k>casă</k>
+house</ar>
+<ar><k>casetă</k>
+cassette</ar>
+<ar><k>casetofon</k>
+cassette player</ar>
+<ar><k>casier</k>
+cashier</ar>
+<ar><k>casieriţă</k>
+cashier (female)</ar>
+<ar><k>casnic</k>
+domestic</ar>
+<ar><k>castan</k>
+chestnut tree</ar>
+<ar><k>castaniu</k>
+chestnut</ar>
+<ar><k>castel</k>
+castle</ar>
+<ar><k>castravete</k>
+cucumber</ar>
+<ar><k>categoric</k>
+categorical</ar>
+<ar><k>cauză</k>
+cause</ar>
+<ar><k>caz</k>
+case</ar>
+<ar><k>cazan</k>
+cauldron</ar>
+<ar><k>căci</k>
+because</ar>
+<ar><k>căciulă</k>
+fur cap</ar>
+<ar><k>cădea</k>
+fall</ar>
+<ar><k>ce</k>
+what</ar>
+<ar><k>ce contează</k>
+what does it matter</ar>
+<ar><k>ce fel de</k>
+what kind of</ar>
+<ar><k>ce mai</k>
+how are you?</ar>
+<ar><k>ce mai faceţi</k>
+how are you</ar>
+<ar><k>ce mai faci?</k>
+how are you?</ar>
+<ar><k>ceaţă</k>
+fog</ar>
+<ar><k>ceaşcă</k>
+cup</ar>
+<ar><k>ceai</k>
+tea</ar>
+<ar><k>ceapă</k>
+onion</ar>
+<ar><k>ceară</k>
+wax</ar>
+<ar><k>ceartă</k>
+quarrel</ar>
+<ar><k>ceas</k>
+watch</ar>
+<ar><k>cec</k>
+cheque</ar>
+<ar><k>ceda</k>
+give up</ar>
+<ar><k>ceh</k>
+Czech</ar>
+<ar><k>cehia</k>
+Czech Republic</ar>
+<ar><k>cel</k>
+the</ar>
+<ar><k>cel mai bine</k>
+best of all</ar>
+<ar><k>cel mai bun</k>
+the best</ar>
+<ar><k>celebra</k>
+celebrate</ar>
+<ar><k>celebritate</k>
+fame</ar>
+<ar><k>celebru</k>
+famous</ar>
+<ar><k>celest</k>
+heavenly</ar>
+<ar><k>celiatar</k>
+bachelor</ar>
+<ar><k>celibatară</k>
+spinster</ar>
+<ar><k>celălalt</k>
+other</ar>
+<ar><k>celulă</k>
+cell</ar>
+<ar><k>central</k>
+central</ar>
+<ar><k>centru</k>
+centre</ar>
+<ar><k>centură</k>
+belt</ar>
+<ar><k>cenuşă</k>
+ashes</ar>
+<ar><k>ceţos</k>
+misty</ar>
+<ar><k>cep</k>
+plug</ar>
+<ar><k>cer</k>
+sky</ar>
+<ar><k>ceramică</k>
+pottery</ar>
+<ar><k>cerb</k>
+stag</ar>
+<ar><k>cerc</k>
+circle</ar>
+<ar><k>cerc polar</k>
+polar circle</ar>
+<ar><k>cerceta</k>
+examine</ar>
+<ar><k>cere</k>
+ask for</ar>
+<ar><k>cereală</k>
+cereal</ar>
+<ar><k>cerere</k>
+request</ar>
+<ar><k>ceresc</k>
+heavenly</ar>
+<ar><k>cerşetoare</k>
+beggar</ar>
+<ar><k>cerşetor</k>
+beggar</ar>
+<ar><k>cerşi</k>
+beg</ar>
+<ar><k>cerinţa</k>
+need</ar>
+<ar><k>cerne</k>
+sift</ar>
+<ar><k>cerneală</k>
+ink</ar>
+<ar><k>cert</k>
+sure</ar>
+<ar><k>certa</k>
+rebuke</ar>
+<ar><k>certifica</k>
+certify</ar>
+<ar><k>cerui</k>
+wax</ar>
+<ar><k>cerut</k>
+requested</ar>
+<ar><k>cetate</k>
+citadel</ar>
+<ar><k>cetăţean</k>
+citizen</ar>
+<ar><k>ceva</k>
+something</ar>
+<ar><k>chef</k>
+party</ar>
+<ar><k>chei</k>
+quay</ar>
+<ar><k>cheie</k>
+key</ar>
+<ar><k>chelner</k>
+waiter</ar>
+<ar><k>cheltui</k>
+spend</ar>
+<ar><k>chema</k>
+call</ar>
+<ar><k>chestiune</k>
+problem</ar>
+<ar><k>chiar</k>
+even</ar>
+<ar><k>chibrit</k>
+match</ar>
+<ar><k>chiflă</k>
+roll</ar>
+<ar><k>chimie</k>
+chemistry</ar>
+<ar><k>china</k>
+China</ar>
+<ar><k>chinui</k>
+torture</ar>
+<ar><k>chioşc</k>
+kiosk</ar>
+<ar><k>chip</k>
+image</ar>
+<ar><k>chitanţă</k>
+receipt</ar>
+<ar><k>ci</k>
+but (after negative)</ar>
+<ar><k>cifră</k>
+figure</ar>
+<ar><k>cincea</k>
+fifth</ar>
+<ar><k>cinci</k>
+five</ar>
+<ar><k>cinci sute</k>
+five hundred</ar>
+<ar><k>cincilea</k>
+fifth</ar>
+<ar><k>cincime</k>
+fifth</ar>
+<ar><k>cincisprezece</k>
+fifteen</ar>
+<ar><k>cincisprezecea</k>
+fifteenth</ar>
+<ar><k>cincisprezecelea</k>
+fifteenth</ar>
+<ar><k>cincizecea</k>
+fiftieth</ar>
+<ar><k>cincizeci</k>
+fifty</ar>
+<ar><k>cincizecilea</k>
+fiftieth</ar>
+<ar><k>cine</k>
+who</ar>
+<ar><k>cinema</k>
+cinema</ar>
+<ar><k>cinematograf</k>
+cinema</ar>
+<ar><k>cineva</k>
+somebody</ar>
+<ar><k>cinste</k>
+honour</ar>
+<ar><k>cinstit</k>
+honest</ar>
+<ar><k>cioban</k>
+shepherd</ar>
+<ar><k>cioc</k>
+beak</ar>
+<ar><k>ciocolată</k>
+chocolate</ar>
+<ar><k>ciocîrlie</k>
+skylark</ar>
+<ar><k>ciorbă</k>
+borsch</ar>
+<ar><k>circ</k>
+circus</ar>
+<ar><k>circula</k>
+move about</ar>
+<ar><k>circulaţie</k>
+traffic</ar>
+<ar><k>cireaşă</k>
+cherry</ar>
+<ar><k>citi</k>
+read</ar>
+<ar><k>cititor</k>
+reader</ar>
+<ar><k>citronadă</k>
+lemonade</ar>
+<ar><k>ciudă</k>
+anger</ar>
+<ar><k>ciudat</k>
+strange</ar>
+<ar><k>ciupercă</k>
+mushroom</ar>
+<ar><k>cizmă</k>
+boot</ar>
+<ar><k>clar</k>
+clear</ar>
+<ar><k>clasă</k>
+classroom</ar>
+<ar><k>căldură</k>
+heat</ar>
+<ar><k>client</k>
+client</ar>
+<ar><k>climă</k>
+climate</ar>
+<ar><k>clipă</k>
+moment</ar>
+<ar><k>clopot</k>
+bell</ar>
+<ar><k>călător</k>
+traveller</ar>
+<ar><k>călători</k>
+travel</ar>
+<ar><k>călătorie</k>
+journey</ar>
+<ar><k>cămaşă</k>
+shirt</ar>
+<ar><k>cămară</k>
+cupboard</ar>
+<ar><k>cămin</k>
+hostel</ar>
+<ar><k>coş</k>
+basket</ar>
+<ar><k>coace</k>
+cook</ar>
+<ar><k>coadă</k>
+queue</ar>
+<ar><k>coafa</k>
+have one?s hair styled</ar>
+<ar><k>coafor</k>
+ladies? hairdresser</ar>
+<ar><k>coajă</k>
+peel</ar>
+<ar><k>şcoală</k>
+school</ar>
+<ar><k>coapsă</k>
+thigh</ar>
+<ar><k>coasă</k>
+scythe</ar>
+<ar><k>coase</k>
+sew</ar>
+<ar><k>coastă</k>
+coast</ar>
+<ar><k>coborî</k>
+alight</ar>
+<ar><k>cocoş</k>
+cock</ar>
+<ar><k>cocor</k>
+crane</ar>
+<ar><k>codru</k>
+thick forest</ar>
+<ar><k>cofetărie</k>
+coffee shop</ar>
+<ar><k>cojoc</k>
+sheepskin coat</ar>
+<ar><k>colţ</k>
+corner</ar>
+<ar><k>coleg</k>
+colleague</ar>
+<ar><k>colet</k>
+parcel</ar>
+<ar><k>colind</k>
+carol</ar>
+<ar><k>comanda</k>
+order</ar>
+<ar><k>comedic</k>
+comedy</ar>
+<ar><k>comenta</k>
+comment upon</ar>
+<ar><k>comerţ</k>
+trade</ar>
+<ar><k>comitet</k>
+committee</ar>
+<ar><k>comoară</k>
+treasure</ar>
+<ar><k>companie</k>
+company</ar>
+<ar><k>compara</k>
+compare</ar>
+<ar><k>compartiment</k>
+compartment</ar>
+<ar><k>completa</k>
+fill in</ar>
+<ar><k>comportare</k>
+behaviour</ar>
+<ar><k>compot</k>
+tinned fruit</ar>
+<ar><k>concediu</k>
+leave</ar>
+<ar><k>concert</k>
+concert</ar>
+<ar><k>concluzie</k>
+conclusion</ar>
+<ar><k>concurenţă</k>
+rivalry</ar>
+<ar><k>concurs</k>
+competition</ar>
+<ar><k>condamna</k>
+condemn</ar>
+<ar><k>condiţie</k>
+condition</ar>
+<ar><k>condiţional</k>
+conditional</ar>
+<ar><k>conduce</k>
+drive</ar>
+<ar><k>condus</k>
+driven</ar>
+<ar><k>confecţii</k>
+ready-made clothes</ar>
+<ar><k>congres</k>
+congress</ar>
+<ar><k>coniac</k>
+cognac</ar>
+<ar><k>conţinut</k>
+contents</ar>
+<ar><k>conjuncţie</k>
+conjunction</ar>
+<ar><k>conopidă</k>
+cauliflower</ar>
+<ar><k>consiliu</k>
+council</ar>
+<ar><k>consola</k>
+comfort</ar>
+<ar><k>consolida</k>
+strengthen</ar>
+<ar><k>constata</k>
+notice</ar>
+<ar><k>construi</k>
+construct</ar>
+<ar><k>cont</k>
+account</ar>
+<ar><k>conta pe</k>
+count on</ar>
+<ar><k>contabil</k>
+accountant</ar>
+<ar><k>contemporan</k>
+contemporary</ar>
+<ar><k>conştient</k>
+conscious</ar>
+<ar><k>conştiinţă</k>
+conscience</ar>
+<ar><k>conştiincios</k>
+conscientious</ar>
+<ar><k>continua</k>
+continue</ar>
+<ar><k>contra</k>
+against</ar>
+<ar><k>contrast</k>
+contrast</ar>
+<ar><k>contrazice</k>
+contradict</ar>
+<ar><k>contrazis</k>
+contradicted</ar>
+<ar><k>controla</k>
+inspect</ar>
+<ar><k>conveni</k>
+suit</ar>
+<ar><k>conversaţie</k>
+conversation</ar>
+<ar><k>convinge</k>
+persuade</ar>
+<ar><k>convins</k>
+persuaded</ar>
+<ar><k>convorbire</k>
+talk</ar>
+<ar><k>copac</k>
+tree</ar>
+<ar><k>copie</k>
+copy</ar>
+<ar><k>copii</k>
+children</ar>
+<ar><k>copil</k>
+child</ar>
+<ar><k>copilărie</k>
+childhood</ar>
+<ar><k>copt</k>
+ripe</ar>
+<ar><k>cor</k>
+choir</ar>
+<ar><k>corabie</k>
+sailing ship</ar>
+<ar><k>corb</k>
+raven</ar>
+<ar><k>corect</k>
+correct</ar>
+<ar><k>coridor</k>
+corridor</ar>
+<ar><k>corn</k>
+horn</ar>
+<ar><k>corp</k>
+body</ar>
+<ar><k>cort</k>
+tent</ar>
+<ar><k>costă</k>
+costs</ar>
+<ar><k>costum</k>
+suit</ar>
+<ar><k>cot</k>
+elbow</ar>
+<ar><k>cotizaţie</k>
+subscription</ar>
+<ar><k>covor</k>
+carpet</ar>
+<ar><k>căprui</k>
+brown</ar>
+<ar><k>căpăta</k>
+obtain</ar>
+<ar><k>căpşună</k>
+strawberry</ar>
+<ar><k>cărare</k>
+path</ar>
+<ar><k>cratiţă</k>
+saucepan</ar>
+<ar><k>cravată</k>
+tie</ar>
+<ar><k>cărbune</k>
+coal</ar>
+<ar><k>crăciun</k>
+Christmas</ar>
+<ar><k>crea</k>
+create</ar>
+<ar><k>creangă</k>
+branch</ar>
+<ar><k>creastă</k>
+ridge</ar>
+<ar><k>crede</k>
+think</ar>
+<ar><k>credinţă</k>
+belief</ar>
+<ar><k>creier</k>
+brain</ar>
+<ar><k>creion</k>
+pencil</ar>
+<ar><k>cremă</k>
+cream</ar>
+<ar><k>crescut</k>
+grown</ar>
+<ar><k>creşte</k>
+grow</ar>
+<ar><k>creştin</k>
+Christian</ar>
+<ar><k>cretin</k>
+idiot</ar>
+<ar><k>crezut</k>
+believed</ar>
+<ar><k>cric</k>
+winch</ar>
+<ar><k>crimă</k>
+serious crime</ar>
+<ar><k>crin</k>
+lily</ar>
+<ar><k>crispa</k>
+contract</ar>
+<ar><k>critică</k>
+criticism</ar>
+<ar><k>criză</k>
+crisis</ar>
+<ar><k>cronică</k>
+chronicle</ar>
+<ar><k>cronologie</k>
+chronology</ar>
+<ar><k>cronometra</k>
+time</ar>
+<ar><k>cruţa</k>
+spare</ar>
+<ar><k>cruce</k>
+cross</ar>
+<ar><k>crud</k>
+cruel</ar>
+<ar><k>crunt</k>
+savage</ar>
+<ar><k>cruzime</k>
+cruelty</ar>
+<ar><k>căsătorie</k>
+marriage</ar>
+<ar><k>către</k>
+towards</ar>
+<ar><k>cu</k>
+with</ar>
+<ar><k>cu bucata</k>
+by the piece</ar>
+<ar><k>cu grijă</k>
+carefully</ar>
+<ar><k>cu voce scăzută</k>
+in a low voice</ar>
+<ar><k>cub</k>
+cube</ar>
+<ar><k>cuc</k>
+cuckoo</ar>
+<ar><k>cuceri</k>
+conquer</ar>
+<ar><k>cucoană</k>
+lady</ar>
+<ar><k>cui</k>
+nail</ar>
+<ar><k>cuib</k>
+nest</ar>
+<ar><k>cuţit</k>
+knife</ar>
+<ar><k>culca</k>
+put to bed</ar>
+<ar><k>culcat</k>
+lying (down)</ar>
+<ar><k>culege</k>
+pick</ar>
+<ar><k>cules</k>
+picked</ar>
+<ar><k>culme</k>
+summit</ar>
+<ar><k>culoare</k>
+colour</ar>
+<ar><k>cultiva</k>
+cultivate</ar>
+<ar><k>cultură</k>
+culture</ar>
+<ar><k>cultural</k>
+cultural</ar>
+<ar><k>cum</k>
+how</ar>
+<ar><k>cum se spune pe româneşte</k>
+how do you say in Romanian</ar>
+<ar><k>cuminte</k>
+well-behaved</ar>
+<ar><k>cumnat</k>
+brother-in-law</ar>
+<ar><k>cumnată</k>
+sister-in-law .</ar>
+<ar><k>cumpăra</k>
+buy</ar>
+<ar><k>cumpărătură</k>
+purchase</ar>
+<ar><k>cumva</k>
+by any chance</ar>
+<ar><k>cunoaşte</k>
+know</ar>
+<ar><k>cunoştinţă</k>
+knowledge</ar>
+<ar><k>cunună</k>
+wreath</ar>
+<ar><k>cuprinde</k>
+contain</ar>
+<ar><k>cuprins</k>
+contained</ar>
+<ar><k>cuptor</k>
+oven</ar>
+<ar><k>curăţa</k>
+peel</ar>
+<ar><k>curaj</k>
+courage</ar>
+<ar><k>curat</k>
+clean</ar>
+<ar><k>curea</k>
+belt</ar>
+<ar><k>curent</k>
+current</ar>
+<ar><k>curge</k>
+flow</ar>
+<ar><k>curios</k>
+odd</ar>
+<ar><k>curs</k>
+lesson</ar>
+<ar><k>curte</k>
+yard</ar>
+<ar><k>curînd</k>
+soon</ar>
+<ar><k>cusur</k>
+defect</ar>
+<ar><k>căuta</k>
+look for</ar>
+<ar><k>căutare</k>
+search</ar>
+<ar><k>cutare</k>
+so and so</ar>
+<ar><k>cutie</k>
+box</ar>
+<ar><k>cutie poştală</k>
+post box</ar>
+<ar><k>cutremur</k>
+earthquake</ar>
+<ar><k>cuvenit</k>
+fitting</ar>
+<ar><k>cuvînt</k>
+word</ar>
+<ar><k>cîţi</k>
+how many</ar>
+<ar><k>cîine</k>
+dog</ar>
+<ar><k>cîţiva</k>
+some</ar>
+<ar><k>cîmp</k>
+field</ar>
+<ar><k>cîmpie</k>
+plain</ar>
+<ar><k>cînd</k>
+when</ar>
+<ar><k>cînta</k>
+sing</ar>
+<ar><k>cîntar</k>
+scales</ar>
+<ar><k>cîntec</k>
+song</ar>
+<ar><k>cîrnat</k>
+sausage</ar>
+<ar><k>cît</k>
+how much</ar>
+<ar><k>cît e ceasul</k>
+what is the time</ar>
+<ar><k>cît e ora</k>
+what is the time</ar>
+<ar><k>cîteodata</k>
+sometimes</ar>
+<ar><k>cîştiga</k>
+earn</ar>
+<ar><k>dă</k>
+gives</ar>
+<ar><k>da</k>
+yes</ar>
+<ar><k>da frîu liber</k>
+give rein to</ar>
+<ar><k>da greş</k>
+fail</ar>
+<ar><k>da un telefon</k>
+phone</ar>
+<ar><k>da voie</k>
+allow</ar>
+<ar><k>dacă</k>
+if</ar>
+<ar><k>dacă nu vă supăraţi</k>
+if you do not mind</ar>
+<ar><k>dactilografă</k>
+typist</ar>
+<ar><k>dai</k>
+you give</ar>
+<ar><k>daţi</k>
+give</ar>
+<ar><k>danemarca</k>
+Denmark</ar>
+<ar><k>dar</k>
+but</ar>
+<ar><k>dat</k>
+given</ar>
+<ar><k>dativ</k>
+dative</ar>
+<ar><k>datora</k>
+owe</ar>
+<ar><k>datorie</k>
+duty</ar>
+<ar><k>datorită</k>
+due to</ar>
+<ar><k>dau</k>
+they give</ar>
+<ar><k>de</k>
+of</ar>
+<ar><k>de aceea</k>
+therefore</ar>
+<ar><k>de ajuns</k>
+sufficient</ar>
+<ar><k>de altfel</k>
+as a matter of fact</ar>
+<ar><k>de asemenea</k>
+similarly</ar>
+<ar><k>de atunci</k>
+since then</ar>
+<ar><k>de bun augur</k>
+favourable</ar>
+<ar><k>de ce</k>
+why</ar>
+<ar><k>de către</k>
+by</ar>
+<ar><k>de cînd</k>
+since when</ar>
+<ar><k>de demult</k>
+former</ar>
+<ar><k>de dinapoi</k>
+hind</ar>
+<ar><k>de la</k>
+from</ar>
+<ar><k>de lemn</k>
+wooden</ar>
+<ar><k>de loc</k>
+not at all</ar>
+<ar><k>de mult</k>
+for a long time</ar>
+<ar><k>de obicei</k>
+usually</ar>
+<ar><k>de puţin timp</k>
+not very long</ar>
+<ar><k>de rău augur</k>
+ominous</ar>
+<ar><k>de unde</k>
+where from</ar>
+<ar><k>de vînzare</k>
+for sale</ar>
+<ar><k>de-a lungul</k>
+along</ar>
+<ar><k>deal</k>
+hill</ar>
+<ar><k>deasupra</k>
+above</ar>
+<ar><k>debit de tutun</k>
+tobacconist's kiosk</ar>
+<ar><k>decădere</k>
+decadence</ar>
+<ar><k>decembrie</k>
+December</ar>
+<ar><k>deci</k>
+so</ar>
+<ar><k>decide</k>
+decide</ar>
+<ar><k>decis</k>
+decided</ar>
+<ar><k>declara</k>
+declare</ar>
+<ar><k>decor</k>
+setting</ar>
+<ar><k>decret</k>
+decree</ar>
+<ar><k>decît</k>
+than</ar>
+<ar><k>defect</k>
+defect</ar>
+<ar><k>degeaba</k>
+in vain</ar>
+<ar><k>deget</k>
+finger</ar>
+<ar><k>deşi</k>
+although</ar>
+<ar><k>deja</k>
+already</ar>
+<ar><k>delicat</k>
+delicate</ar>
+<ar><k>delicatesă</k>
+delicatessen</ar>
+<ar><k>deltă</k>
+delta</ar>
+<ar><k>demnitate</k>
+dignity</ar>
+<ar><k>demola</k>
+demolish</ar>
+<ar><k>demonstra</k>
+prove</ar>
+<ar><k>demonstraţie</k>
+demonstration</ar>
+<ar><k>demonstrativ</k>
+demonstrative</ar>
+<ar><k>demonta</k>
+dismantle</ar>
+<ar><k>demult</k>
+long ago</ar>
+<ar><k>denatura</k>
+distort</ar>
+<ar><k>denigra</k>
+denigrate</ar>
+<ar><k>denota</k>
+denote</ar>
+<ar><k>dens</k>
+thick</ar>
+<ar><k>densitate</k>
+density</ar>
+<ar><k>dentar</k>
+dental</ar>
+<ar><k>dentist</k>
+dentist</ar>
+<ar><k>denumi</k>
+name</ar>
+<ar><k>denunţa</k>
+denounce</ar>
+<ar><k>denunţător</k>
+denouncer</ar>
+<ar><k>deoarece</k>
+because</ar>
+<ar><k>deocamdată</k>
+for the time being</ar>
+<ar><k>deodată</k>
+suddenly</ar>
+<ar><k>deoparte</k>
+aside</ar>
+<ar><k>deopotrivă</k>
+equally</ar>
+<ar><k>deosebi</k>
+distinguish</ar>
+<ar><k>deosebire</k>
+difference</ar>
+<ar><k>deosebit</k>
+special</ar>
+<ar><k>depaşi</k>
+outrun</ar>
+<ar><k>departă</k>
+remove</ar>
+<ar><k>departe</k>
+far</ar>
+<ar><k>dependenţă</k>
+dependence</ar>
+<ar><k>dependent</k>
+dependent</ar>
+<ar><k>depăşi</k>
+outrun</ar>
+<ar><k>depinde de</k>
+depend on</ar>
+<ar><k>depăşire</k>
+overtaking</ar>
+<ar><k>deplasa</k>
+displace</ar>
+<ar><k>deplasare</k>
+change of place</ar>
+<ar><k>deplasat</k>
+improper</ar>
+<ar><k>deplin</k>
+full</ar>
+<ar><k>deplorabil</k>
+lamentable</ar>
+<ar><k>deplînge</k>
+lament</ar>
+<ar><k>depăna</k>
+spin</ar>
+<ar><k>deporta</k>
+deport</ar>
+<ar><k>depou</k>
+depot</ar>
+<ar><k>depoziţie</k>
+testimony</ar>
+<ar><k>depozit</k>
+warehouse</ar>
+<ar><k>depozita</k>
+store</ar>
+<ar><k>depravare</k>
+coruption</ar>
+<ar><k>depravat</k>
+depraved</ar>
+<ar><k>deprecia</k>
+depreciate</ar>
+<ar><k>deprima</k>
+depress</ar>
+<ar><k>depărta</k>
+remove</ar>
+<ar><k>depărtare</k>
+distance</ar>
+<ar><k>depărtat</k>
+distant</ar>
+<ar><k>depune</k>
+deposit</ar>
+<ar><k>depus</k>
+deposited</ar>
+<ar><k>deranja</k>
+upset</ar>
+<ar><k>des</k>
+often</ar>
+<ar><k>deschide</k>
+open</ar>
+<ar><k>deschis</k>
+open</ar>
+<ar><k>descoperi</k>
+discover</ar>
+<ar><k>descărca</k>
+unload</ar>
+<ar><k>descrie</k>
+describe</ar>
+<ar><k>descris</k>
+described</ar>
+<ar><k>desculţ</k>
+barefoot</ar>
+<ar><k>descurca</k>
+disentangle</ar>
+<ar><k>desen</k>
+drawing</ar>
+<ar><k>deseori</k>
+often</ar>
+<ar><k>desert</k>
+dessert</ar>
+<ar><k>desface</k>
+undo</ar>
+<ar><k>desfiinţa</k>
+abolish</ar>
+<ar><k>desigur</k>
+certainly</ar>
+<ar><k>despica</k>
+split</ar>
+<ar><k>despre</k>
+about</ar>
+<ar><k>despărţi</k>
+separate</ar>
+<ar><k>destul</k>
+enough</ar>
+<ar><k>deştept</k>
+clever</ar>
+<ar><k>deştepta</k>
+wake up</ar>
+<ar><k>deşteptător</k>
+alarm clock</ar>
+<ar><k>detesta</k>
+detest</ar>
+<ar><k>deunăzi</k>
+the other day</ar>
+<ar><k>deveni</k>
+become</ar>
+<ar><k>devreme</k>
+early</ar>
+<ar><k>dezbinare</k>
+discord</ar>
+<ar><k>dezbrăca</k>
+undress</ar>
+<ar><k>dezbrăcat</k>
+undressed</ar>
+<ar><k>dezerta</k>
+desert</ar>
+<ar><k>dezertare</k>
+desertion</ar>
+<ar><k>dezertor</k>
+deserter</ar>
+<ar><k>dezgheţ</k>
+thaw</ar>
+<ar><k>dezgheţa</k>
+thaw</ar>
+<ar><k>dezgoli</k>
+uncover</ar>
+<ar><k>dezgropa</k>
+dig</ar>
+<ar><k>dezgusta</k>
+disgust</ar>
+<ar><k>dezgustat</k>
+sick of</ar>
+<ar><k>dezice</k>
+deny</ar>
+<ar><k>dezintegrare</k>
+disintegration</ar>
+<ar><k>dezinteres</k>
+lack of interest</ar>
+<ar><k>dezlega</k>
+untie</ar>
+<ar><k>dezvolta</k>
+develop</ar>
+<ar><k>dezvoltare</k>
+development</ar>
+<ar><k>dialog</k>
+dialogue</ar>
+<ar><k>diavol</k>
+devil</ar>
+<ar><k>dicţionar</k>
+dictionary</ar>
+<ar><k>diferenţă</k>
+difference</ar>
+<ar><k>diferit</k>
+various</ar>
+<ar><k>dificultate</k>
+difficulty</ar>
+<ar><k>dimineaţă</k>
+morning</ar>
+<ar><k>din</k>
+from (in) (de + în)</ar>
+<ar><k>din cînd in</k>
+from time to time</ar>
+<ar><k>din greşeala</k>
+by mistake</ar>
+<ar><k>din nou</k>
+again</ar>
+<ar><k>din partea</k>
+on behalf of</ar>
+<ar><k>din păcate</k>
+unfortunately</ar>
+<ar><k>din senin</k>
+out of the blue</ar>
+<ar><k>din tot sufletul</k>
+from the bottom of one's heart</ar>
+<ar><k>din întîmplare</k>
+by chance</ar>
+<ar><k>dinadins</k>
+on purpose</ar>
+<ar><k>dinaintea</k>
+before</ar>
+<ar><k>dinamic</k>
+dynamic</ar>
+<ar><k>dinamică</k>
+dynamics</ar>
+<ar><k>dinamită</k>
+dynamite</ar>
+<ar><k>dinapoi</k>
+behind</ar>
+<ar><k>dinapoia</k>
+behind</ar>
+<ar><k>dinastie</k>
+dynasty</ar>
+<ar><k>dincoace</k>
+here</ar>
+<ar><k>dincolo</k>
+there</ar>
+<ar><k>dincolo de</k>
+beyond</ar>
+<ar><k>dineu</k>
+dinner party</ar>
+<ar><k>dinspre</k>
+from the direction of</ar>
+<ar><k>dinte</k>
+tooth</ar>
+<ar><k>dinte de lapte</k>
+milk tooth</ar>
+<ar><k>dintre</k>
+between</ar>
+<ar><k>dintîi</k>
+first</ar>
+<ar><k>dinăuntru</k>
+inside</ar>
+<ar><k>diplomă</k>
+diploma</ar>
+<ar><k>diplomat</k>
+diplomat</ar>
+<ar><k>direcţie</k>
+direction</ar>
+<ar><k>direct</k>
+direct</ar>
+<ar><k>dirijor</k>
+conductor</ar>
+<ar><k>disc</k>
+record</ar>
+<ar><k>discordie</k>
+discord</ar>
+<ar><k>discret</k>
+discrete</ar>
+<ar><k>discuţie</k>
+discussion</ar>
+<ar><k>discuta</k>
+discuss</ar>
+<ar><k>dispărea</k>
+disappear</ar>
+<ar><k>dispărut</k>
+disappeared</ar>
+<ar><k>dispus</k>
+inclined</ar>
+<ar><k>distanţă</k>
+distance</ar>
+<ar><k>distinge</k>
+distinguish</ar>
+<ar><k>distins</k>
+distinguished</ar>
+<ar><k>distruge</k>
+destroy</ar>
+<ar><k>distrus</k>
+destroyed</ar>
+<ar><k>divan</k>
+sofa</ar>
+<ar><k>divide</k>
+divide</ar>
+<ar><k>dăm</k>
+we give</ar>
+<ar><k>doamnă</k>
+lady</ar>
+<ar><k>doar</k>
+only</ar>
+<ar><k>dobitoc</k>
+blockhead</ar>
+<ar><k>dobîndă</k>
+interest (money)</ar>
+<ar><k>dobîndi</k>
+acquire</ar>
+<ar><k>doctor</k>
+doctor</ar>
+<ar><k>doctoriţă</k>
+female doctor</ar>
+<ar><k>doctoriţa</k>
+woman doctor</ar>
+<ar><k>doctorie</k>
+medicine</ar>
+<ar><k>document</k>
+document</ar>
+<ar><k>doi</k>
+two</ar>
+<ar><k>doilea</k>
+second</ar>
+<ar><k>doină</k>
+elegiac folksong</ar>
+<ar><k>doisprezece</k>
+twelve</ar>
+<ar><k>doisprezecelea</k>
+twelfth</ar>
+<ar><k>dolar</k>
+dollar</ar>
+<ar><k>doliu</k>
+grief</ar>
+<ar><k>domn</k>
+gentleman</ar>
+<ar><k>domni</k>
+rule</ar>
+<ar><k>domnie</k>
+reign</ar>
+<ar><k>domnişoară</k>
+miss</ar>
+<ar><k>domnitor</k>
+ruler</ar>
+<ar><k>domnul</k>
+Lord</ar>
+<ar><k>dop</k>
+cork</ar>
+<ar><k>dor</k>
+longing</ar>
+<ar><k>dori</k>
+wish</ar>
+<ar><k>dorinţă</k>
+wish</ar>
+<ar><k>dorm</k>
+I sleep</ar>
+<ar><k>dormi</k>
+sleep</ar>
+<ar><k>dormitor</k>
+bedroom</ar>
+<ar><k>dos</k>
+back</ar>
+<ar><k>dosar</k>
+folder</ar>
+<ar><k>două</k>
+two</ar>
+<ar><k>două mii</k>
+two thousand</ar>
+<ar><k>două ori</k>
+twice</ar>
+<ar><k>două sute</k>
+two hundred</ar>
+<ar><k>două treimi</k>
+two thirds</ar>
+<ar><k>doua</k>
+second fem.</ar>
+<ar><k>douăsprezece</k>
+twelve</ar>
+<ar><k>douăsprezecea</k>
+twelfth fem.</ar>
+<ar><k>douăzecea</k>
+twentieth fem.</ar>
+<ar><k>douăzeci</k>
+twenty</ar>
+<ar><k>douăzecilea</k>
+twentieth</ar>
+<ar><k>dovadă</k>
+proof</ar>
+<ar><k>dovedi</k>
+prove</ar>
+<ar><k>drac</k>
+devil</ar>
+<ar><k>drag</k>
+dear</ar>
+<ar><k>dragoste</k>
+love</ar>
+<ar><k>dramaturg</k>
+playwright</ar>
+<ar><k>drăcui</k>
+curse</ar>
+<ar><k>dreaptă</k>
+right hand</ar>
+<ar><k>dreapta</k>
+right</ar>
+<ar><k>drege</k>
+put right</ar>
+<ar><k>drena</k>
+drain</ar>
+<ar><k>drept</k>
+straight</ar>
+<ar><k>dreptate</k>
+justice</ar>
+<ar><k>dres</k>
+put right</ar>
+<ar><k>dresa</k>
+train</ar>
+<ar><k>dresat</k>
+trained</ar>
+<ar><k>dresor</k>
+trainer</ar>
+<ar><k>drăgălaş</k>
+sweet</ar>
+<ar><k>drăguţ</k>
+kind</ar>
+<ar><k>dric</k>
+hearse</ar>
+<ar><k>dricar</k>
+undertaker</ar>
+<ar><k>drog</k>
+drug</ar>
+<ar><k>drogherie</k>
+chemist's</ar>
+<ar><k>droiae</k>
+crowd</ar>
+<ar><k>drojdia societăţii</k>
+dregs of society</ar>
+<ar><k>drojdie</k>
+yeast</ar>
+<ar><k>drum</k>
+journey</ar>
+<ar><k>drum bun</k>
+bon voyage</ar>
+<ar><k>drumeţ</k>
+traveller</ar>
+<ar><k>dărîma</k>
+demolish</ar>
+<ar><k>duş</k>
+shower</ar>
+<ar><k>dubios</k>
+doubtful</ar>
+<ar><k>dubiu</k>
+doubt</ar>
+<ar><k>dubla</k>
+double</ar>
+<ar><k>dublu</k>
+double</ar>
+<ar><k>dublură</k>
+lining</ar>
+<ar><k>duce</k>
+carry</ar>
+<ar><k>dud</k>
+mulberry tree</ar>
+<ar><k>dudă</k>
+mulberry</ar>
+<ar><k>duh</k>
+spirit</ar>
+<ar><k>duios</k>
+sorrowful</ar>
+<ar><k>dulap</k>
+wardrobe</ar>
+<ar><k>dulce</k>
+sweet</ar>
+<ar><k>duşman</k>
+enemy</ar>
+<ar><k>duminică</k>
+Sunday</ar>
+<ar><k>dumneaei</k>
+she</ar>
+<ar><k>dumnealor</k>
+they</ar>
+<ar><k>dumnealui</k>
+he</ar>
+<ar><k>dumneata</k>
+you</ar>
+<ar><k>dumneavoastră</k>
+you</ar>
+<ar><k>dumnezeu</k>
+God</ar>
+<ar><k>duşmăni</k>
+hate</ar>
+<ar><k>dungă</k>
+stripe</ar>
+<ar><k>dunărea</k>
+Danube</ar>
+<ar><k>după</k>
+after</ar>
+<ar><k>după aceea</k>
+afterwards</ar>
+<ar><k>după amiază</k>
+afternoon</ar>
+<ar><k>după ce</k>
+after</ar>
+<ar><k>după-masă</k>
+in the afternoon</ar>
+<ar><k>dura</k>
+last</ar>
+<ar><k>durea</k>
+hurt</ar>
+<ar><k>durere</k>
+pain</ar>
+<ar><k>duşumea</k>
+floor</ar>
+<ar><k>e</k>
+is</ar>
+<ar><k>e departe pînă la Bucureşti</k>
+it is a long way to Bucharest</ar>
+<ar><k>e departe pînă la bucureşti</k>
+it is a long way to Bucharest</ar>
+<ar><k>ea</k>
+she</ar>
+<ar><k>ebraic</k>
+Hebrew</ar>
+<ar><k>ebrietate</k>
+state of intoxication</ar>
+<ar><k>ecartement</k>
+gauge</ar>
+<ar><k>echer</k>
+square</ar>
+<ar><k>echilateral</k>
+equilateral</ar>
+<ar><k>echilibru</k>
+equilibrium</ar>
+<ar><k>echinocţiu</k>
+equinox</ar>
+<ar><k>echipă</k>
+team</ar>
+<ar><k>echipa</k>
+equip</ar>
+<ar><k>echipaj</k>
+crew</ar>
+<ar><k>echipament</k>
+equipment</ar>
+<ar><k>ecou</k>
+echo</ar>
+<ar><k>ecran</k>
+screen</ar>
+<ar><k>şedea</k>
+sit</ar>
+<ar><k>ediţie</k>
+edition</ar>
+<ar><k>şedinţă</k>
+meeting</ar>
+<ar><k>editură</k>
+publishing house</ar>
+<ar><k>şef</k>
+chief</ar>
+<ar><k>efect</k>
+effect</ar>
+<ar><k>efort</k>
+effort</ar>
+<ar><k>egalitate</k>
+equality</ar>
+<ar><k>egipt</k>
+Egypt</ar>
+<ar><k>ei</k>
+they</ar>
+<ar><k>şei</k>
+saddles</ar>
+<ar><k>el</k>
+he</ar>
+<ar><k>ţel</k>
+aim</ar>
+<ar><k>ele</k>
+they</ar>
+<ar><k>electrician</k>
+electrician</ar>
+<ar><k>elegant</k>
+elegant</ar>
+<ar><k>element</k>
+element</ar>
+<ar><k>elev</k>
+schoolboy</ar>
+<ar><k>elevă</k>
+schoolgirl</ar>
+<ar><k>elibera</k>
+free</ar>
+<ar><k>elveţia</k>
+Switzerland</ar>
+<ar><k>emigra</k>
+emigrate</ar>
+<ar><k>şemineu</k>
+fireplace</ar>
+<ar><k>emoţie</k>
+excitement</ar>
+<ar><k>emoţionat</k>
+excited</ar>
+<ar><k>energie</k>
+energy</ar>
+<ar><k>englez</k>
+English</ar>
+<ar><k>englezesc</k>
+English</ar>
+<ar><k>englezeşte</k>
+in English</ar>
+<ar><k>englezoaică</k>
+Englishwoman</ar>
+<ar><k>şenilă</k>
+caterpillar</ar>
+<ar><k>enorm</k>
+enormous</ar>
+<ar><k>episcop</k>
+bishop</ar>
+<ar><k>epocă</k>
+epoch</ar>
+<ar><k>şeptel</k>
+livestock</ar>
+<ar><k>epuizat</k>
+out of stock</ar>
+<ar><k>eră</k>
+era</ar>
+<ar><k>şerb</k>
+serf</ar>
+<ar><k>şerif</k>
+sheriff</ar>
+<ar><k>erou</k>
+hero</ar>
+<ar><k>şerveţel</k>
+napkin</ar>
+<ar><k>şes</k>
+plain</ar>
+<ar><k>ţese</k>
+weave</ar>
+<ar><k>est</k>
+east</ar>
+<ar><k>este</k>
+is</ar>
+<ar><k>ţesut</k>
+woven</ar>
+<ar><k>etaj</k>
+floor</ar>
+<ar><k>etaj - la</k>
+upstairs</ar>
+<ar><k>eşti</k>
+you are</ar>
+<ar><k>etichetă</k>
+label</ar>
+<ar><k>eu</k>
+I</ar>
+<ar><k>eu înţeleg</k>
+I understand</ar>
+<ar><k>europa</k>
+Europe</ar>
+<ar><k>evada</k>
+escape</ar>
+<ar><k>eveniment</k>
+event</ar>
+<ar><k>eventual</k>
+possible</ar>
+<ar><k>evita</k>
+avoid</ar>
+<ar><k>evreu</k>
+Jew</ar>
+<ar><k>exact</k>
+exact</ar>
+<ar><k>examen</k>
+examination</ar>
+<ar><k>excelent</k>
+excellent</ar>
+<ar><k>excursie</k>
+excursion</ar>
+<ar><k>exemplar</k>
+copy</ar>
+<ar><k>exemplu</k>
+example</ar>
+<ar><k>exerciţiu</k>
+exercise</ar>
+<ar><k>expedia</k>
+send</ar>
+<ar><k>experienţă</k>
+experience</ar>
+<ar><k>explica</k>
+explain</ar>
+<ar><k>expresie</k>
+expression</ar>
+<ar><k>exterior</k>
+exterior</ar>
+<ar><k>extern</k>
+foreign</ar>
+<ar><k>şezlong</k>
+deck chair</ar>
+<ar><k>şezut</k>
+sat</ar>
+<ar><k>faţă</k>
+face</ar>
+<ar><k>faţă de masă</k>
+tablecloth</ar>
+<ar><k>fabrică</k>
+factory</ar>
+<ar><k>fac</k>
+I do</ar>
+<ar><k>face</k>
+do</ar>
+<ar><k>face coadă</k>
+queue up</ar>
+<ar><k>face dreptate</k>
+do justice</ar>
+<ar><k>face o cerere</k>
+make an application</ar>
+<ar><k>face o greşeală</k>
+make a mistake</ar>
+<ar><k>face plata</k>
+pay the bill</ar>
+<ar><k>face un duş</k>
+have a shower</ar>
+<ar><k>face un număr</k>
+dial a number</ar>
+<ar><k>facem</k>
+we do</ar>
+<ar><k>facultate</k>
+faculty</ar>
+<ar><k>fag</k>
+beech tree</ar>
+<ar><k>faimă</k>
+fame</ar>
+<ar><k>familie</k>
+family</ar>
+<ar><k>fapt</k>
+fact</ar>
+<ar><k>faptă</k>
+deed</ar>
+<ar><k>fapte diverse</k>
+news in brief</ar>
+<ar><k>far</k>
+lighthouse</ar>
+<ar><k>farda</k>
+make oneslf up</ar>
+<ar><k>farfurie</k>
+plate</ar>
+<ar><k>farmacie</k>
+pharmacy</ar>
+<ar><k>farmacist</k>
+pharmacist</ar>
+<ar><k>farmacistă</k>
+female pharmacist</ar>
+<ar><k>farmec</k>
+charm</ar>
+<ar><k>fasole</k>
+beans</ar>
+<ar><k>fată</k>
+girl</ar>
+<ar><k>fazan</k>
+pheasant</ar>
+<ar><k>făcut</k>
+done</ar>
+<ar><k>februarie</k>
+February</ar>
+<ar><k>fecior</k>
+boy</ar>
+<ar><k>fel</k>
+kind</ar>
+<ar><k>felicita</k>
+congratulate</ar>
+<ar><k>felicitare</k>
+greetings card</ar>
+<ar><k>felie</k>
+slice</ar>
+<ar><k>felinar</k>
+lamp post</ar>
+<ar><k>femeie</k>
+woman</ar>
+<ar><k>feminin</k>
+feminine</ar>
+<ar><k>fereastră</k>
+window</ar>
+<ar><k>feri</k>
+avoid</ar>
+<ar><k>fericire</k>
+happiness</ar>
+<ar><k>fericit</k>
+happy</ar>
+<ar><k>ferigă</k>
+fern</ar>
+<ar><k>fermeca</k>
+enchant</ar>
+<ar><k>fertil</k>
+fertile</ar>
+<ar><k>fetiţă</k>
+little girl</ar>
+<ar><k>făgădui</k>
+promise</ar>
+<ar><k>făţiş</k>
+openly .</ar>
+<ar><k>fi</k>
+be</ar>
+<ar><k>fi de folos</k>
+be of use</ar>
+<ar><k>fi frînt de oboseală</k>
+be done for</ar>
+<ar><k>fi pe ducă</k>
+be ready to start</ar>
+<ar><k>fi sătul pînă îin gît de</k>
+be fed up of</ar>
+<ar><k>ficat</k>
+liver</ar>
+<ar><k>fie... fie</k>
+either... or (clauses)</ar>
+<ar><k>fiecare</k>
+each</ar>
+<ar><k>fier</k>
+iron</ar>
+<ar><k>fierbe</k>
+boil</ar>
+<ar><k>fierbinte</k>
+hot</ar>
+<ar><k>fiert</k>
+boiled</ar>
+<ar><k>figură</k>
+form</ar>
+<ar><k>fiică</k>
+daughter</ar>
+<ar><k>fiindcă</k>
+because</ar>
+<ar><k>fileu</k>
+net</ar>
+<ar><k>film</k>
+film</ar>
+<ar><k>filtrare</k>
+filtration</ar>
+<ar><k>făină</k>
+flour</ar>
+<ar><k>fină</k>
+goddaughter</ar>
+<ar><k>finlanda</k>
+Finland</ar>
+<ar><k>fir</k>
+thread</ar>
+<ar><k>fire</k>
+nature</ar>
+<ar><k>firesc</k>
+natural</ar>
+<ar><k>fireşte</k>
+naturally</ar>
+<ar><k>firmă</k>
+firm</ar>
+<ar><k>fiu</k>
+son</ar>
+<ar><k>fix</k>
+exactly</ar>
+<ar><k>flacără</k>
+flame</ar>
+<ar><k>flămînd</k>
+hungry</ar>
+<ar><k>floare</k>
+flower</ar>
+<ar><k>fluviu</k>
+river</ar>
+<ar><k>foaie</k>
+leaf</ar>
+<ar><k>foame</k>
+hunger</ar>
+<ar><k>foarte</k>
+very</ar>
+<ar><k>foc</k>
+fine</ar>
+<ar><k>folos</k>
+use</ar>
+<ar><k>folosi</k>
+use</ar>
+<ar><k>folositor</k>
+useful</ar>
+<ar><k>fond</k>
+background</ar>
+<ar><k>fondul problemei</k>
+the essence of the problem</ar>
+<ar><k>fonetic</k>
+phonetic</ar>
+<ar><k>fonetică</k>
+phonetics</ar>
+<ar><k>forţă</k>
+force</ar>
+<ar><k>fora</k>
+to drill</ar>
+<ar><k>foraj</k>
+drilling</ar>
+<ar><k>formă</k>
+form</ar>
+<ar><k>forma</k>
+form</ar>
+<ar><k>formaţie</k>
+group</ar>
+<ar><k>formal</k>
+formal</ar>
+<ar><k>formular</k>
+form</ar>
+<ar><k>fost</k>
+former</ar>
+<ar><k>fotbal</k>
+football</ar>
+<ar><k>fotografie</k>
+photograph</ar>
+<ar><k>fotoliu</k>
+armchair</ar>
+<ar><k>fără</k>
+without</ar>
+<ar><k>fără dinţi</k>
+toothless</ar>
+<ar><k>fără greş</k>
+faultlessly</ar>
+<ar><k>fără limită</k>
+unlimited</ar>
+<ar><k>franţa</k>
+France</ar>
+<ar><k>francez</k>
+French</ar>
+<ar><k>franţuzesc</k>
+French</ar>
+<ar><k>franţuzeşte</k>
+in French</ar>
+<ar><k>frate</k>
+brother</ar>
+<ar><k>frază</k>
+phrase</ar>
+<ar><k>freca</k>
+rub</ar>
+<ar><k>frescă</k>
+fresco</ar>
+<ar><k>frică</k>
+fear</ar>
+<ar><k>frig</k>
+cold</ar>
+<ar><k>frige</k>
+roast</ar>
+<ar><k>frigider</k>
+fridge</ar>
+<ar><k>fript</k>
+roast</ar>
+<ar><k>friptură</k>
+roast meat</ar>
+<ar><k>frizer</k>
+barber</ar>
+<ar><k>frizerie</k>
+hairdresser?s</ar>
+<ar><k>frontieră</k>
+frontier</ar>
+<ar><k>fruct</k>
+fruit</ar>
+<ar><k>frumos</k>
+beautiful</ar>
+<ar><k>frumuseţe</k>
+beauty</ar>
+<ar><k>frunte</k>
+forehead</ar>
+<ar><k>frunză</k>
+leaf</ar>
+<ar><k>frînă</k>
+nrake</ar>
+<ar><k>frîna</k>
+brake</ar>
+<ar><k>frînge</k>
+break</ar>
+<ar><k>frînghie</k>
+rope</ar>
+<ar><k>frînt</k>
+broken</ar>
+<ar><k>frîu</k>
+rein</ar>
+<ar><k>fugi</k>
+flee .</ar>
+<ar><k>fular</k>
+scarf</ar>
+<ar><k>fulg</k>
+flake</ar>
+<ar><k>fum</k>
+smoke</ar>
+<ar><k>fuma</k>
+smoke</ar>
+<ar><k>funcţionar</k>
+civil servant</ar>
+<ar><k>funcţionară</k>
+female civil servant</ar>
+<ar><k>fund</k>
+bottom</ar>
+<ar><k>funie</k>
+rope</ar>
+<ar><k>fura</k>
+steal</ar>
+<ar><k>furculiţă</k>
+fork</ar>
+<ar><k>furie</k>
+fury</ar>
+<ar><k>furnică</k>
+ant</ar>
+<ar><k>fustă</k>
+skirt</ar>
+<ar><k>fîntînă</k>
+fountain</ar>
+<ar><k>galben</k>
+yellow</ar>
+<ar><k>galerie</k>
+gallery</ar>
+<ar><k>gară</k>
+station</ar>
+<ar><k>garanţie</k>
+guarantee</ar>
+<ar><k>gard</k>
+fence</ar>
+<ar><k>gardă</k>
+guard</ar>
+<ar><k>gata</k>
+ready</ar>
+<ar><k>gaz</k>
+gas</ar>
+<ar><k>gazdă</k>
+host</ar>
+<ar><k>geam</k>
+window pane</ar>
+<ar><k>geamantan</k>
+suitcase</ar>
+<ar><k>geană</k>
+eyelash</ar>
+<ar><k>gem</k>
+jam</ar>
+<ar><k>general</k>
+general</ar>
+<ar><k>genitiv</k>
+genitive</ar>
+<ar><k>genmania</k>
+Germany</ar>
+<ar><k>genunchi</k>
+knee</ar>
+<ar><k>geografic</k>
+geographic</ar>
+<ar><k>geografie</k>
+geography</ar>
+<ar><k>ger</k>
+frost</ar>
+<ar><k>gheaţă</k>
+ice</ar>
+<ar><k>gheară</k>
+claw</ar>
+<ar><k>ghici</k>
+guess</ar>
+<ar><k>ghid</k>
+guidebook</ar>
+<ar><k>ghişeu</k>
+position</ar>
+<ar><k>ghinion</k>
+misfortune</ar>
+<ar><k>ginere</k>
+son-in-law</ar>
+<ar><k>glas</k>
+voice</ar>
+<ar><k>găleată</k>
+bucket</ar>
+<ar><k>gloată</k>
+crowd</ar>
+<ar><k>glob</k>
+globe</ar>
+<ar><k>global</k>
+global</ar>
+<ar><k>glonţ</k>
+bullet</ar>
+<ar><k>glorie</k>
+glory</ar>
+<ar><k>glumă</k>
+joke</ar>
+<ar><k>glumi</k>
+joke</ar>
+<ar><k>gogoaşă</k>
+doughnut</ar>
+<ar><k>gol</k>
+empty</ar>
+<ar><k>golf</k>
+gulf</ar>
+<ar><k>goli</k>
+empty</ar>
+<ar><k>goni</k>
+chase away</ar>
+<ar><k>grabă</k>
+haste</ar>
+<ar><k>grad</k>
+grade</ar>
+<ar><k>grai</k>
+speech</ar>
+<ar><k>graţia</k>
+pardon</ar>
+<ar><k>graţie</k>
+thanks to</ar>
+<ar><k>graţiere</k>
+pardon</ar>
+<ar><k>gram</k>
+gram</ar>
+<ar><k>gramatică</k>
+grammar</ar>
+<ar><k>graniţă</k>
+frontier</ar>
+<ar><k>gras</k>
+fat</ar>
+<ar><k>gratie</k>
+bar</ar>
+<ar><k>gratifacaţie</k>
+bonus</ar>
+<ar><k>gratis</k>
+free of charge</ar>
+<ar><k>gratuit</k>
+free</ar>
+<ar><k>graur</k>
+starling</ar>
+<ar><k>grav</k>
+serious</ar>
+<ar><k>grava</k>
+engrave</ar>
+<ar><k>gravidă</k>
+pregnant</ar>
+<ar><k>graviditate</k>
+pregnancy</ar>
+<ar><k>gravita</k>
+gravitate</ar>
+<ar><k>gravitaţie</k>
+gravity</ar>
+<ar><k>gravitate</k>
+gravity</ar>
+<ar><k>grăbit</k>
+in a hurry</ar>
+<ar><k>grădină</k>
+garden</ar>
+<ar><k>greaţă</k>
+disgust</ar>
+<ar><k>greacă</k>
+Greek</ar>
+<ar><k>greblă</k>
+rake</ar>
+<ar><k>grebla</k>
+rake</ar>
+<ar><k>grec</k>
+Greek</ar>
+<ar><k>grecia</k>
+Greece</ar>
+<ar><k>grecoaică</k>
+Greek woman</ar>
+<ar><k>greşeală</k>
+mistake</ar>
+<ar><k>grefa</k>
+graft</ar>
+<ar><k>greşi</k>
+make a mistake</ar>
+<ar><k>greşi drumul</k>
+take the wrong road</ar>
+<ar><k>greşi ţinta</k>
+miss the target</ar>
+<ar><k>grenadă</k>
+grenade</ar>
+<ar><k>greoi</k>
+heavy</ar>
+<ar><k>grepfrut</k>
+grapefruit</ar>
+<ar><k>gresa</k>
+oil</ar>
+<ar><k>greu</k>
+heavy</ar>
+<ar><k>greutate</k>
+weight</ar>
+<ar><k>gri</k>
+grey</ar>
+<ar><k>griş</k>
+semolina</ar>
+<ar><k>grijă</k>
+care</ar>
+<ar><k>grimasă</k>
+grimace</ar>
+<ar><k>grindă</k>
+beam</ar>
+<ar><k>gripă</k>
+influenza</ar>
+<ar><k>grămadă</k>
+heap</ar>
+<ar><k>grănicer</k>
+passport officer</ar>
+<ar><k>groapă</k>
+ditch</ar>
+<ar><k>groază</k>
+fear</ar>
+<ar><k>groaznic</k>
+terrible</ar>
+<ar><k>gros</k>
+thick</ar>
+<ar><k>grosime</k>
+thickness</ar>
+<ar><k>grozav</k>
+terrific</ar>
+<ar><k>grozav de</k>
+terribly</ar>
+<ar><k>grozăvie</k>
+horror</ar>
+<ar><k>grăsime</k>
+fat</ar>
+<ar><k>grătar</k>
+grill</ar>
+<ar><k>grumaz</k>
+neck</ar>
+<ar><k>grup</k>
+group</ar>
+<ar><k>grupă</k>
+group</ar>
+<ar><k>grîu</k>
+wheat</ar>
+<ar><k>găsi</k>
+find</ar>
+<ar><k>găti</k>
+cook</ar>
+<ar><k>guler</k>
+collar</ar>
+<ar><k>gunoi</k>
+dirt</ar>
+<ar><k>gură</k>
+mouth</ar>
+<ar><k>gust</k>
+taste</ar>
+<ar><k>gusta</k>
+taste</ar>
+<ar><k>gustare</k>
+snack</ar>
+<ar><k>gustos</k>
+tasty</ar>
+<ar><k>guturai</k>
+runny nose</ar>
+<ar><k>guvern</k>
+government</ar>
+<ar><k>gîdila</k>
+tickle</ar>
+<ar><k>gînd</k>
+thought</ar>
+<ar><k>gîndac</k>
+beetle</ar>
+<ar><k>gîndi</k>
+think</ar>
+<ar><k>gîndire</k>
+thought</ar>
+<ar><k>gînditor</k>
+thinker</ar>
+<ar><k>gînguri</k>
+babble</ar>
+<ar><k>gîscă</k>
+goose</ar>
+<ar><k>gît</k>
+neck</ar>
+<ar><k>hai</k>
+come on</ar>
+<ar><k>haide</k>
+come on</ar>
+<ar><k>haideţi</k>
+come on</ar>
+<ar><k>haidem</k>
+come on</ar>
+<ar><k>hain</k>
+wicked</ar>
+<ar><k>haină</k>
+coat</ar>
+<ar><k>hal</k>
+plight</ar>
+<ar><k>halat</k>
+dressing gown</ar>
+<ar><k>hamal</k>
+porter</ar>
+<ar><k>hambar</k>
+barn</ar>
+<ar><k>han</k>
+inn</ar>
+<ar><k>haos</k>
+chaos</ar>
+<ar><k>haotic</k>
+chaotic</ar>
+<ar><k>harnic</k>
+industrious</ar>
+<ar><k>hartă</k>
+map</ar>
+<ar><k>haz</k>
+joy</ar>
+<ar><k>hoţ</k>
+thief</ar>
+<ar><k>hohot</k>
+loud burst (laughter or tears)</ar>
+<ar><k>hol</k>
+hall</ar>
+<ar><k>horă</k>
+round dance</ar>
+<ar><k>hotar</k>
+border</ar>
+<ar><k>hotel</k>
+hotel</ar>
+<ar><k>hotărî</k>
+decide</ar>
+<ar><k>hotărîre</k>
+decision</ar>
+<ar><k>hrană</k>
+food</ar>
+<ar><k>hrăni</k>
+feed</ar>
+<ar><k>hîrtie</k>
+paper</ar>
+<ar><k>şi</k>
+and</ar>
+<ar><k>şi ... şi</k>
+both ... and</ar>
+<ar><k>şi aduce</k>
+remember</ar>
+<ar><k>şi aminti</k>
+remember</ar>
+<ar><k>şi arăta dinţii</k>
+show one's teeth</ar>
+<ar><k>şi drege glasul</k>
+clear oneîs throat</ar>
+<ar><k>şi frînge mîinile</k>
+wring one's hands</ar>
+<ar><k>şi imagina</k>
+imagine</ar>
+<ar><k>şi lua răspunderea</k>
+assume responsibility</ar>
+<ar><k>şi... şi</k>
+both... and</ar>
+<ar><k>ia</k>
+takes</ar>
+<ar><k>iad</k>
+hell</ar>
+<ar><k>iahnie</k>
+ragout</ar>
+<ar><k>ianuarie</k>
+January</ar>
+<ar><k>iar</k>
+and</ar>
+<ar><k>iarbă</k>
+grass</ar>
+<ar><k>iarăşi</k>
+again</ar>
+<ar><k>iarnă</k>
+winter</ar>
+<ar><k>iată</k>
+look!</ar>
+<ar><k>iaurt</k>
+yoghurt</ar>
+<ar><k>ibric</k>
+pot</ar>
+<ar><k>şic</k>
+elegant</ar>
+<ar><k>icoană</k>
+icon</ar>
+<ar><k>icre negne</k>
+caviar</ar>
+<ar><k>idee</k>
+idea</ar>
+<ar><k>ie</k>
+embroidered peasant blouse</ar>
+<ar><k>ieftin</k>
+cheap</ar>
+<ar><k>iei</k>
+you take</ar>
+<ar><k>ieşi</k>
+go out</ar>
+<ar><k>ieşire</k>
+exit</ar>
+<ar><k>iepure</k>
+hare</ar>
+<ar><k>ieri</k>
+yesterday</ar>
+<ar><k>ierta</k>
+forgive</ar>
+<ar><k>iese</k>
+goes out</ar>
+<ar><k>ţigan</k>
+gipsy</ar>
+<ar><k>ţigară</k>
+cigarette</ar>
+<ar><k>imagina</k>
+imagine</ar>
+<ar><k>imagine</k>
+image</ar>
+<ar><k>imediat</k>
+straightaway</ar>
+<ar><k>imens</k>
+immense</ar>
+<ar><k>imita</k>
+imitate</ar>
+<ar><k>impacheta</k>
+pack</ar>
+<ar><k>imperiu</k>
+empire</ar>
+<ar><k>impodobi</k>
+adorn</ar>
+<ar><k>importanţă</k>
+importance</ar>
+<ar><k>important</k>
+important</ar>
+<ar><k>impotniva</k>
+against</ar>
+<ar><k>impozit</k>
+tax</ar>
+<ar><k>impresie</k>
+impression</ar>
+<ar><k>impune</k>
+impose</ar>
+<ar><k>impunător</k>
+impressive</ar>
+<ar><k>impus</k>
+imposed</ar>
+<ar><k>in</k>
+flax</ar>
+<ar><k>in timpul</k>
+during</ar>
+<ar><k>inamic</k>
+enemy</ar>
+<ar><k>incultură</k>
+lack of education</ar>
+<ar><k>incît</k>
+that</ar>
+<ar><k>independent</k>
+independence</ar>
+<ar><k>india</k>
+India</ar>
+<ar><k>individ</k>
+guy</ar>
+<ar><k>ţine</k>
+hold</ar>
+<ar><k>ţine minte</k>
+remember</ar>
+<ar><k>inel</k>
+ring</ar>
+<ar><k>influenţa</k>
+influence</ar>
+<ar><k>influent</k>
+influential</ar>
+<ar><k>informaţie</k>
+information</ar>
+<ar><k>inginer</k>
+engineer</ar>
+<ar><k>iniţiativă</k>
+initiative</ar>
+<ar><k>inimă</k>
+heart</ar>
+<ar><k>insemnat</k>
+important</ar>
+<ar><k>insista</k>
+insist</ar>
+<ar><k>instala</k>
+install</ar>
+<ar><k>instalator</k>
+plumber</ar>
+<ar><k>instrument</k>
+instrument</ar>
+<ar><k>insulă</k>
+island</ar>
+<ar><k>inteligent</k>
+intelligent</ar>
+<ar><k>intenţie</k>
+intention</ar>
+<ar><k>interes</k>
+interest</ar>
+<ar><k>interesa</k>
+interest</ar>
+<ar><k>interesant</k>
+interesting</ar>
+<ar><k>intern</k>
+internal</ar>
+<ar><k>interpret</k>
+interpreter</ar>
+<ar><k>interveni</k>
+intervene</ar>
+<ar><k>interzice</k>
+forbid</ar>
+<ar><k>interzis</k>
+forbidden</ar>
+<ar><k>intra</k>
+enter</ar>
+<ar><k>intrare</k>
+entrance</ar>
+<ar><k>introduce</k>
+introduce</ar>
+<ar><k>introducere</k>
+introduction</ar>
+<ar><k>introdus</k>
+introduced</ar>
+<ar><k>intîi</k>
+first.</ar>
+<ar><k>intîrziere</k>
+delay</ar>
+<ar><k>inunda</k>
+flood</ar>
+<ar><k>inăuntrul</k>
+inside</ar>
+<ar><k>ţinut</k>
+region</ar>
+<ar><k>inutil</k>
+useless</ar>
+<ar><k>invada</k>
+invade</ar>
+<ar><k>invazie</k>
+invasion</ar>
+<ar><k>invita</k>
+invite</ar>
+<ar><k>invitaţie</k>
+invitation</ar>
+<ar><k>ţipa</k>
+scream</ar>
+<ar><k>ţipăt</k>
+scream</ar>
+<ar><k>şir</k>
+series</ar>
+<ar><k>iran</k>
+Iran</ar>
+<ar><k>irlanda</k>
+Ireland</ar>
+<ar><k>iscoadă</k>
+lookout</ar>
+<ar><k>iscodi</k>
+pry into</ar>
+<ar><k>iscoditor</k>
+prying</ar>
+<ar><k>iscusinţă</k>
+skill</ar>
+<ar><k>iscusit</k>
+skilful</ar>
+<ar><k>islanda</k>
+Iceland</ar>
+<ar><k>islaz</k>
+common</ar>
+<ar><k>ispăşi</k>
+atone for</ar>
+<ar><k>ispăşire</k>
+expatiation</ar>
+<ar><k>ispită</k>
+temptation</ar>
+<ar><k>ispiti</k>
+tempt</ar>
+<ar><k>ispititor</k>
+tempting</ar>
+<ar><k>ispravă</k>
+success</ar>
+<ar><k>isprăvi</k>
+terminate</ar>
+<ar><k>israel</k>
+Israel</ar>
+<ar><k>istoric</k>
+historian</ar>
+<ar><k>istorie</k>
+history</ar>
+<ar><k>istorisi</k>
+narrate</ar>
+<ar><k>istorisire</k>
+narration</ar>
+<ar><k>istovi</k>
+exhaust</ar>
+<ar><k>istovit</k>
+exhausted</ar>
+<ar><k>istovitor</k>
+exhausting</ar>
+<ar><k>italia</k>
+Italy</ar>
+<ar><k>italian</k>
+Italian</ar>
+<ar><k>iubi</k>
+love</ar>
+<ar><k>iubire</k>
+love</ar>
+<ar><k>iubit</k>
+lover</ar>
+<ar><k>iugoslavia</k>
+Yugoslavia</ar>
+<ar><k>iulie</k>
+July</ar>
+<ar><k>iunie</k>
+June</ar>
+<ar><k>iute</k>
+quickly</ar>
+<ar><k>izbi</k>
+strike</ar>
+<ar><k>izbucni</k>
+break out</ar>
+<ar><k>izola</k>
+isolate</ar>
+<ar><k>izvor</k>
+spring</ar>
+<ar><k>jale</k>
+sadness</ar>
+<ar><k>japonia</k>
+Japan</ar>
+<ar><k>jefui</k>
+plunder</ar>
+<ar><k>jertfă</k>
+sacrifice</ar>
+<ar><k>jigni</k>
+offend</ar>
+<ar><k>joc</k>
+play</ar>
+<ar><k>joi</k>
+Thursday</ar>
+<ar><k>jos</k>
+low</ar>
+<ar><k>juca</k>
+play</ar>
+<ar><k>jucărie</k>
+toy</ar>
+<ar><k>judeţ</k>
+county</ar>
+<ar><k>judeca</k>
+judge</ar>
+<ar><k>jumătate</k>
+half</ar>
+<ar><k>jupui</k>
+graze</ar>
+<ar><k>jura</k>
+swear</ar>
+<ar><k>katedră</k>
+chair (university)</ar>
+<ar><k>kilogram</k>
+kilogram</ar>
+<ar><k>kilometru</k>
+kilometre</ar>
+<ar><k>la</k>
+at</ar>
+<ar><k>laş</k>
+coward</ar>
+<ar><k>la curent cu</k>
+informed about</ar>
+<ar><k>la dreapta</k>
+on the right</ar>
+<ar><k>la fel</k>
+the same</ar>
+<ar><k>la naiba</k>
+damn</ar>
+<ar><k>la nord</k>
+in the North</ar>
+<ar><k>la parter</k>
+downstairs</ar>
+<ar><k>la revedere</k>
+goodbye</ar>
+<ar><k>la sud</k>
+in the south</ar>
+<ar><k>la timp</k>
+on time</ar>
+<ar><k>labă</k>
+paw</ar>
+<ar><k>lac</k>
+lake</ar>
+<ar><k>lacrimă</k>
+tear</ar>
+<ar><k>ladă</k>
+box</ar>
+<ar><k>lamă</k>
+blade</ar>
+<ar><k>lampă</k>
+lamp</ar>
+<ar><k>lan</k>
+field</ar>
+<ar><k>lanţ</k>
+chain</ar>
+<ar><k>lapte</k>
+milk</ar>
+<ar><k>larg</k>
+wide</ar>
+<ar><k>lat</k>
+wide</ar>
+<ar><k>laudă</k>
+praise</ar>
+<ar><k>lăcomie</k>
+greed</ar>
+<ar><k>lăcătuş</k>
+locksmith</ar>
+<ar><k>lăcui</k>
+varnish</ar>
+<ar><k>lăcustă</k>
+grasshopper</ar>
+<ar><k>leş</k>
+corpse</ar>
+<ar><k>leac</k>
+remedy</ar>
+<ar><k>leafă</k>
+salary</ar>
+<ar><k>leal</k>
+loyal</ar>
+<ar><k>lebădă</k>
+swan</ar>
+<ar><k>lecţia</k>
+lesson</ar>
+<ar><k>lecţie</k>
+lesson</ar>
+<ar><k>lefter</k>
+penniless</ar>
+<ar><k>lega</k>
+tie</ar>
+<ar><k>legal</k>
+legal</ar>
+<ar><k>legalitate</k>
+legality</ar>
+<ar><k>legaliza</k>
+legalize</ar>
+<ar><k>legatar</k>
+heir</ar>
+<ar><k>lege</k>
+law</ar>
+<ar><k>legendă</k>
+legend</ar>
+<ar><k>legendar</k>
+legendary</ar>
+<ar><k>legislaţie</k>
+legislation</ar>
+<ar><k>legislativ</k>
+legislative</ar>
+<ar><k>legitim</k>
+legitimate</ar>
+<ar><k>legăna</k>
+swing</ar>
+<ar><k>legătură</k>
+connection</ar>
+<ar><k>legumă</k>
+vegetable</ar>
+<ar><k>leşie</k>
+lye</ar>
+<ar><k>leşin</k>
+swoon</ar>
+<ar><k>leşina</k>
+faint</ar>
+<ar><k>lemn</k>
+wood</ar>
+<ar><k>lene</k>
+laziness</ar>
+<ar><k>leneş</k>
+lazy</ar>
+<ar><k>lent</k>
+slow</ar>
+<ar><k>lentilă</k>
+lens</ar>
+<ar><k>leoaică</k>
+lioness</ar>
+<ar><k>lepăda</k>
+drop</ar>
+<ar><k>lepră</k>
+leprosy</ar>
+<ar><k>lepros</k>
+leper</ar>
+<ar><k>lesne</k>
+easily</ar>
+<ar><k>lesnicios</k>
+easy</ar>
+<ar><k>lespede</k>
+slab</ar>
+<ar><k>lest</k>
+ballast</ar>
+<ar><k>letargie</k>
+lethargy</ar>
+<ar><k>letopişet</k>
+chroicle</ar>
+<ar><k>leu</k>
+lion</ar>
+<ar><k>lăţi</k>
+widen</ar>
+<ar><k>liber</k>
+free</ar>
+<ar><k>libera</k>
+free</ar>
+<ar><k>libertate</k>
+freedom</ar>
+<ar><k>librărie</k>
+bookshop</ar>
+<ar><k>liceu</k>
+secondary school</ar>
+<ar><k>lichid</k>
+liquid</ar>
+<ar><k>lift</k>
+lift</ar>
+<ar><k>limbă</k>
+language</ar>
+<ar><k>limbaj</k>
+language</ar>
+<ar><k>limbut</k>
+chatterbox</ar>
+<ar><k>lăţime</k>
+width</ar>
+<ar><k>limfă</k>
+lymph</ar>
+<ar><k>limită</k>
+limit</ar>
+<ar><k>limita</k>
+limit</ar>
+<ar><k>limitare</k>
+limitationţ</ar>
+<ar><k>limitat</k>
+limited</ar>
+<ar><k>limonadă</k>
+lemonade</ar>
+<ar><k>limpede</k>
+clear</ar>
+<ar><k>limpezi</k>
+clarify</ar>
+<ar><k>lin</k>
+gently</ar>
+<ar><k>linguşi</k>
+flatter</ar>
+<ar><k>linguşire</k>
+flattery</ar>
+<ar><k>linguşitor</k>
+flattering</ar>
+<ar><k>lingură</k>
+spoon</ar>
+<ar><k>linguriţă</k>
+teaspoon</ar>
+<ar><k>lingvist</k>
+linguist</ar>
+<ar><k>lingvistic</k>
+linguistic</ar>
+<ar><k>lingvistică</k>
+linguistics</ar>
+<ar><k>linie</k>
+line</ar>
+<ar><k>linioară</k>
+hyphen</ar>
+<ar><k>linişte</k>
+quiet</ar>
+<ar><k>linişti</k>
+quiet</ar>
+<ar><k>liniştit</k>
+calm</ar>
+<ar><k>lipi</k>
+stick</ar>
+<ar><k>lipsi</k>
+be missing</ar>
+<ar><k>liră sterlină</k>
+pound sterling</ar>
+<ar><k>listă</k>
+list</ar>
+<ar><k>literă</k>
+letter</ar>
+<ar><k>literatură</k>
+literature</ar>
+<ar><k>litoral</k>
+seaside</ar>
+<ar><k>litru</k>
+litre</ar>
+<ar><k>liturghie</k>
+liturgy</ar>
+<ar><k>livadă</k>
+orchard</ar>
+<ar><k>lămuri</k>
+elucidate</ar>
+<ar><k>loc</k>
+place</ar>
+<ar><k>local</k>
+local</ar>
+<ar><k>localitate</k>
+locality</ar>
+<ar><k>locui</k>
+live</ar>
+<ar><k>locuinţă</k>
+household</ar>
+<ar><k>locuitor</k>
+inhabitant</ar>
+<ar><k>logodnic</k>
+fiance</ar>
+<ar><k>logodnică</k>
+fiancee</ar>
+<ar><k>londra</k>
+London</ar>
+<ar><k>lor</k>
+their</ar>
+<ar><k>lăţos</k>
+shaggy</ar>
+<ar><k>lovi</k>
+hit</ar>
+<ar><k>lărgi</k>
+widen</ar>
+<ar><k>lărgime</k>
+width</ar>
+<ar><k>lăsa</k>
+leave</ar>
+<ar><k>lătra</k>
+bark</ar>
+<ar><k>lătrat</k>
+barking</ar>
+<ar><k>lua</k>
+take</ar>
+<ar><k>lua masă</k>
+hava a meal</ar>
+<ar><k>luaţi</k>
+you take</ar>
+<ar><k>luci</k>
+sparkle</ar>
+<ar><k>lucra</k>
+work</ar>
+<ar><k>lucrare</k>
+project</ar>
+<ar><k>lucru</k>
+thing</ar>
+<ar><k>lăudabil</k>
+laudable</ar>
+<ar><k>lui</k>
+his</ar>
+<ar><k>luăm</k>
+wetake</ar>
+<ar><k>lume</k>
+people</ar>
+<ar><k>lumină</k>
+light</ar>
+<ar><k>lumînare</k>
+candle</ar>
+<ar><k>lună</k>
+moon</ar>
+<ar><k>lung</k>
+long</ar>
+<ar><k>lungime</k>
+length</ar>
+<ar><k>luni</k>
+Monday</ar>
+<ar><k>lup</k>
+wolf</ar>
+<ar><k>luptă</k>
+fight</ar>
+<ar><k>lupta</k>
+to fight</ar>
+<ar><k>lăutar</k>
+gipsy fiddler</ar>
+<ar><k>lînă</k>
+wool</ar>
+<ar><k>lîngă</k>
+beside</ar>
+<ar><k>mă bucur mult de cunoştintă</k>
+pleased to meet you</ar>
+<ar><k>magazin</k>
+shop</ar>
+<ar><k>maghiar</k>
+Hungarian</ar>
+<ar><k>magnetofon</k>
+tape recorder</ar>
+<ar><k>mahala</k>
+seedy district</ar>
+<ar><k>mai</k>
+May</ar>
+<ar><k>mai ales</k>
+especially</ar>
+<ar><k>mai mult</k>
+more</ar>
+<ar><k>maică</k>
+mother</ar>
+<ar><k>maşină</k>
+car</ar>
+<ar><k>mal</k>
+bank</ar>
+<ar><k>mamă</k>
+mother</ar>
+<ar><k>manual</k>
+text book</ar>
+<ar><k>manuscris</k>
+manuscript</ar>
+<ar><k>mare</k>
+big</ar>
+<ar><k>marea britanie</k>
+Great Britain</ar>
+<ar><k>marfă</k>
+goods</ar>
+<ar><k>margine</k>
+edge</ar>
+<ar><k>marţi</k>
+Tuesday</ar>
+<ar><k>maro</k>
+brown</ar>
+<ar><k>martie</k>
+March</ar>
+<ar><k>masă</k>
+table</ar>
+<ar><k>masculin</k>
+masculine</ar>
+<ar><k>matematică</k>
+maths</ar>
+<ar><k>mazăre</k>
+peas</ar>
+<ar><k>măduvă</k>
+marrow</ar>
+<ar><k>mea</k>
+my</ar>
+<ar><k>medic</k>
+doctor</ar>
+<ar><k>medicament</k>
+medicine</ar>
+<ar><k>medicină</k>
+medical science</ar>
+<ar><k>mei</k>
+my</ar>
+<ar><k>melc</k>
+snail</ar>
+<ar><k>membru</k>
+member</ar>
+<ar><k>memora</k>
+memorize</ar>
+<ar><k>memorie</k>
+memory</ar>
+<ar><k>menaj</k>
+household</ar>
+<ar><k>menţine</k>
+maintain</ar>
+<ar><k>menţiona</k>
+mention</ar>
+<ar><k>mentă</k>
+mint</ar>
+<ar><k>mereu</k>
+continually</ar>
+<ar><k>merge</k>
+go</ar>
+<ar><k>merita</k>
+deserve</ar>
+<ar><k>mers</k>
+gone</ar>
+<ar><k>mesaj</k>
+message</ar>
+<ar><k>meserie</k>
+trade</ar>
+<ar><k>meşter</k>
+foreman</ar>
+<ar><k>meşteşug</k>
+handicraft</ar>
+<ar><k>metru</k>
+metre</ar>
+<ar><k>meu</k>
+my</ar>
+<ar><k>mexic</k>
+Mexico</ar>
+<ar><k>mezeluri</k>
+wurst</ar>
+<ar><k>măgar</k>
+ass</ar>
+<ar><k>măguli</k>
+flatter</ar>
+<ar><k>mia</k>
+thousandth</ar>
+<ar><k>miazănoapte</k>
+north</ar>
+<ar><k>miazăzi</k>
+south</ar>
+<ar><k>mic</k>
+small</ar>
+<ar><k>mişca</k>
+move</ar>
+<ar><k>mişcare</k>
+movement</ar>
+<ar><k>mie</k>
+thousand</ar>
+<ar><k>miel</k>
+lamb</ar>
+<ar><k>mielea</k>
+thousandth</ar>
+<ar><k>miercuri</k>
+Wednesday</ar>
+<ar><k>miere</k>
+honey</ar>
+<ar><k>mierlă</k>
+blackbird</ar>
+<ar><k>miez</k>
+middle</ar>
+<ar><k>migdală</k>
+almond</ar>
+<ar><k>mijloc</k>
+middle</ar>
+<ar><k>milă</k>
+mile</ar>
+<ar><k>miliard</k>
+thousand million</ar>
+<ar><k>milion</k>
+million</ar>
+<ar><k>mincinos</k>
+deceitful</ar>
+<ar><k>minciună</k>
+lie</ar>
+<ar><k>mineral</k>
+mineral</ar>
+<ar><k>minge</k>
+ball</ar>
+<ar><k>minţi</k>
+lie</ar>
+<ar><k>minister</k>
+ministry</ar>
+<ar><k>ministru</k>
+minister</ar>
+<ar><k>minoritate</k>
+minority</ar>
+<ar><k>minte</k>
+mind</ar>
+<ar><k>minuna</k>
+astonish</ar>
+<ar><k>minunat</k>
+wonderful</ar>
+<ar><k>minune</k>
+miracle</ar>
+<ar><k>minut</k>
+minute</ar>
+<ar><k>mirare</k>
+astonishment</ar>
+<ar><k>mire</k>
+bridegroom</ar>
+<ar><k>mireasă</k>
+bride</ar>
+<ar><k>mirosi</k>
+smell</ar>
+<ar><k>mitropolit</k>
+metropolitan bishop</ar>
+<ar><k>mlaştina</k>
+marsh</ar>
+<ar><k>mămăligă</k>
+polenta</ar>
+<ar><k>mănăstire</k>
+monastery</ar>
+<ar><k>mănuşă</k>
+glove</ar>
+<ar><k>moş</k>
+old man</ar>
+<ar><k>moţ</k>
+tuft</ar>
+<ar><k>moş crăciun</k>
+Father Christmas</ar>
+<ar><k>moale</k>
+soft</ar>
+<ar><k>moară</k>
+mill</ar>
+<ar><k>moarte</k>
+death</ar>
+<ar><k>moţat</k>
+crested</ar>
+<ar><k>mobilă</k>
+furniture</ar>
+<ar><k>mod</k>
+manner</ar>
+<ar><k>modă</k>
+fashion</ar>
+<ar><k>model</k>
+pattern</ar>
+<ar><k>modern</k>
+modern</ar>
+<ar><k>modifica</k>
+modify</ar>
+<ar><k>moi</k>
+soft</ar>
+<ar><k>moşie</k>
+estate</ar>
+<ar><k>moldova</k>
+Moldavia</ar>
+<ar><k>moment</k>
+moment</ar>
+<ar><k>mondial</k>
+world</ar>
+<ar><k>monedă</k>
+coin</ar>
+<ar><k>monument</k>
+monument</ar>
+<ar><k>morală</k>
+morals</ar>
+<ar><k>moravuri</k>
+customs</ar>
+<ar><k>morcov</k>
+carrot</ar>
+<ar><k>mormînt</k>
+tomb</ar>
+<ar><k>mort</k>
+dead</ar>
+<ar><k>morun</k>
+sturgeon</ar>
+<ar><k>moscova</k>
+Moscow</ar>
+<ar><k>motan</k>
+tomcat</ar>
+<ar><k>moşteni</k>
+inherit</ar>
+<ar><k>moştenitoare</k>
+heiress</ar>
+<ar><k>moştenitor</k>
+heir</ar>
+<ar><k>motiv</k>
+reason</ar>
+<ar><k>motiva</k>
+motivate</ar>
+<ar><k>motivare</k>
+motivation</ar>
+<ar><k>moto</k>
+motto</ar>
+<ar><k>motocicletă</k>
+motorczcle</ar>
+<ar><k>motor</k>
+engine</ar>
+<ar><k>motorină</k>
+diesel oil</ar>
+<ar><k>mototoli</k>
+crumple</ar>
+<ar><k>mov</k>
+mauve</ar>
+<ar><k>măr</k>
+apple</ar>
+<ar><k>mări</k>
+increase</ar>
+<ar><k>mărime</k>
+size</ar>
+<ar><k>mărturisi</k>
+confess</ar>
+<ar><k>măslină</k>
+olive</ar>
+<ar><k>măsură</k>
+measure</ar>
+<ar><k>mătase</k>
+silk</ar>
+<ar><k>mătuşă</k>
+aunt</ar>
+<ar><k>mătură</k>
+broom</ar>
+<ar><k>mătura</k>
+sweep</ar>
+<ar><k>muc</k>
+end</ar>
+<ar><k>muşca</k>
+bite</ar>
+<ar><k>mucalit</k>
+funny</ar>
+<ar><k>muced</k>
+mouldy</ar>
+<ar><k>mucegai</k>
+mould</ar>
+<ar><k>muşchi</k>
+sirloin steak</ar>
+<ar><k>muchie</k>
+edge</ar>
+<ar><k>muia</k>
+dip</ar>
+<ar><k>muiere</k>
+woman</ar>
+<ar><k>mujdei</k>
+crushed garlic</ar>
+<ar><k>mulge</k>
+milk</ar>
+<ar><k>mulţi</k>
+many</ar>
+<ar><k>mulţime</k>
+large quantity</ar>
+<ar><k>mult</k>
+much</ar>
+<ar><k>mulţumesc</k>
+thank you</ar>
+<ar><k>mulţumi</k>
+thank</ar>
+<ar><k>mulţumit</k>
+satisfied</ar>
+<ar><k>mulţumită</k>
+thanks to</ar>
+<ar><k>muncă</k>
+worlclabour</ar>
+<ar><k>munci</k>
+work hard</ar>
+<ar><k>muncitoare</k>
+female worker</ar>
+<ar><k>muncitor</k>
+worker</ar>
+<ar><k>munţii carpaţi</k>
+Carpathian mountains</ar>
+<ar><k>munte</k>
+mountain</ar>
+<ar><k>muntenia</k>
+Muntenia</ar>
+<ar><k>murdar</k>
+dirty</ar>
+<ar><k>muri</k>
+die</ar>
+<ar><k>muri de foame</k>
+die of hunger</ar>
+<ar><k>musafir</k>
+guest</ar>
+<ar><k>muscă</k>
+fly</ar>
+<ar><k>mustaţă</k>
+moustache</ar>
+<ar><k>mustra</k>
+scold</ar>
+<ar><k>mut</k>
+dumb</ar>
+<ar><k>muta</k>
+move</ar>
+<ar><k>muştar</k>
+mustard</ar>
+<ar><k>muzeu</k>
+museum</ar>
+<ar><k>muzică</k>
+music</ar>
+<ar><k>mîine</k>
+tomorrow</ar>
+<ar><k>mînă</k>
+hand</ar>
+<ar><k>mînca</k>
+eat</ar>
+<ar><k>mîncare</k>
+food</ar>
+<ar><k>mîndrie</k>
+pride</ar>
+<ar><k>mîndru</k>
+proud</ar>
+<ar><k>mîngîia</k>
+caress</ar>
+<ar><k>mînie</k>
+anger</ar>
+<ar><k>naş</k>
+godfather</ar>
+<ar><k>naşă</k>
+godmother</ar>
+<ar><k>nadă</k>
+bait</ar>
+<ar><k>nadir</k>
+nadir</ar>
+<ar><k>nai</k>
+pan pipe</ar>
+<ar><k>nailon</k>
+nylon</ar>
+<ar><k>naţional</k>
+national</ar>
+<ar><k>naţiune</k>
+nation</ar>
+<ar><k>naiv</k>
+naive</ar>
+<ar><k>nalbă</k>
+mallow</ar>
+<ar><k>namilă</k>
+giant</ar>
+<ar><k>nap</k>
+turnip</ar>
+<ar><k>nară</k>
+nostril</ar>
+<ar><k>nas</k>
+nose</ar>
+<ar><k>nasture</k>
+button</ar>
+<ar><k>natalitate</k>
+birthrate</ar>
+<ar><k>naşte</k>
+give birth</ar>
+<ar><k>naştere</k>
+birth</ar>
+<ar><k>natriu</k>
+sodium</ar>
+<ar><k>natură</k>
+nature</ar>
+<ar><k>natural</k>
+natural</ar>
+<ar><k>nădejde</k>
+hope</ar>
+<ar><k>năduşi</k>
+sweat</ar>
+<ar><k>nea</k>
+snow</ar>
+<ar><k>neam</k>
+people</ar>
+<ar><k>neamţ</k>
+German</ar>
+<ar><k>neapărat</k>
+without fail</ar>
+<ar><k>neascultätor</k>
+disobedient</ar>
+<ar><k>neastîmpărat</k>
+restless</ar>
+<ar><k>neaşteptat</k>
+unexpected</ar>
+<ar><k>nebun</k>
+mad</ar>
+<ar><k>nebunie</k>
+madness</ar>
+<ar><k>necaz</k>
+trouble</ar>
+<ar><k>necesar</k>
+necessary</ar>
+<ar><k>necăji</k>
+vextrouble</ar>
+<ar><k>nedreptate</k>
+injustice</ar>
+<ar><k>nedumerire</k>
+surprise</ar>
+<ar><k>nefolositor</k>
+useless</ar>
+<ar><k>negru</k>
+black</ar>
+<ar><k>negură</k>
+mist</ar>
+<ar><k>negustor</k>
+dealer</ar>
+<ar><k>nemaipomenit</k>
+unprecedented</ar>
+<ar><k>nemţeşte</k>
+in German</ar>
+<ar><k>nenorocire</k>
+misfortune</ar>
+<ar><k>nenorocit</k>
+wretched</ar>
+<ar><k>neplăcut</k>
+unpleasant</ar>
+<ar><k>nepoată</k>
+granddaughter</ar>
+<ar><k>nepot</k>
+grandson</ar>
+<ar><k>nerăbdare</k>
+impatience</ar>
+<ar><k>nesimţitor</k>
+inconsiderate</ar>
+<ar><k>neted</k>
+smooth</ar>
+<ar><k>neutru</k>
+neutral</ar>
+<ar><k>nevastă</k>
+wife</ar>
+<ar><k>nevinovat</k>
+innocent</ar>
+<ar><k>nevoie</k>
+need</ar>
+<ar><k>nevăzut</k>
+unseen</ar>
+<ar><k>neîntrecut</k>
+unsurpassed</ar>
+<ar><k>nici</k>
+nor</ar>
+<ar><k>nici nu... nici</k>
+neither... nor</ar>
+<ar><k>nicăieri</k>
+nowhere</ar>
+<ar><k>niciodată</k>
+never</ar>
+<ar><k>niciunul</k>
+none</ar>
+<ar><k>şniţel</k>
+schnitzel</ar>
+<ar><k>nimeni</k>
+nobody</ar>
+<ar><k>nimic</k>
+nothing</ar>
+<ar><k>ninge</k>
+snow</ar>
+<ar><k>ninsoare</k>
+falling snow</ar>
+<ar><k>nisip</k>
+sand</ar>
+<ar><k>nişte</k>
+some</ar>
+<ar><k>nivel</k>
+level</ar>
+<ar><k>nămol</k>
+mud</ar>
+<ar><k>noapte</k>
+night</ar>
+<ar><k>noapte bună</k>
+goodnight</ar>
+<ar><k>nod</k>
+knot</ar>
+<ar><k>noi</k>
+we</ar>
+<ar><k>noiembrie</k>
+November</ar>
+<ar><k>nominativ</k>
+nominative</ar>
+<ar><k>nor</k>
+cloud</ar>
+<ar><k>noră</k>
+daughter-in-law</ar>
+<ar><k>nord</k>
+north</ar>
+<ar><k>nord-vest</k>
+north west</ar>
+<ar><k>noroc</k>
+cheers</ar>
+<ar><k>noroi</k>
+mud</ar>
+<ar><k>norvegia</k>
+Norway</ar>
+<ar><k>nostim</k>
+nice</ar>
+<ar><k>nostru</k>
+our</ar>
+<ar><k>nota</k>
+note</ar>
+<ar><k>notä</k>
+note</ar>
+<ar><k>nou</k>
+new</ar>
+<ar><k>nouă</k>
+nine</ar>
+<ar><k>nouă sute</k>
+nine hundred</ar>
+<ar><k>noua</k>
+ninth</ar>
+<ar><k>noua zeelandă</k>
+New Zealand</ar>
+<ar><k>nouălea</k>
+ninth</ar>
+<ar><k>nouăsprezece</k>
+nineteen</ar>
+<ar><k>nouăsprezecea</k>
+nineteenth</ar>
+<ar><k>nouăsprezecelea</k>
+nineteenth</ar>
+<ar><k>nouăzecea</k>
+ninetieth</ar>
+<ar><k>nouăzeci</k>
+ninety</ar>
+<ar><k>nouăzecilea</k>
+ninetieth</ar>
+<ar><k>născut</k>
+born</ar>
+<ar><k>nu</k>
+no</ar>
+<ar><k>nu am chef</k>
+I don't feel like it</ar>
+<ar><k>nu avea dreptate</k>
+be wrong</ar>
+<ar><k>nuanţa</k>
+shade</ar>
+<ar><k>nuc</k>
+walnut tree</ar>
+<ar><k>nucă</k>
+walnut</ar>
+<ar><k>nucleu</k>
+nuclear</ar>
+<ar><k>nud</k>
+nude</ar>
+<ar><k>nufăr</k>
+water lily</ar>
+<ar><k>nuia</k>
+rod</ar>
+<ar><k>nul</k>
+draw</ar>
+<ar><k>numai</k>
+only</ar>
+<ar><k>numaidecît</k>
+immediately</ar>
+<ar><k>nume</k>
+name</ar>
+<ar><k>număr</k>
+number</ar>
+<ar><k>număra</k>
+count</ar>
+<ar><k>nuntă</k>
+wedding</ar>
+<ar><k>nurcă</k>
+mink</ar>
+<ar><k>nutri</k>
+cherish</ar>
+<ar><k>nutritiv</k>
+nourishing</ar>
+<ar><k>nuvelă</k>
+short story</ar>
+<ar><k>nuvelist</k>
+story teller</ar>
+<ar><k>năvăli</k>
+attack</ar>
+<ar><k>o</k>
+a</ar>
+<ar><k>o dată</k>
+once</ar>
+<ar><k>oacheş</k>
+swarthy</ar>
+<ar><k>oaie</k>
+sheep</ar>
+<ar><k>oală</k>
+bowl</ar>
+<ar><k>oameni</k>
+men</ar>
+<ar><k>oară</k>
+occasion</ar>
+<ar><k>şoarece</k>
+mouse</ar>
+<ar><k>oarecum</k>
+a certain extent</ar>
+<ar><k>obicei</k>
+custom</ar>
+<ar><k>obidă</k>
+bitterness</ar>
+<ar><k>obidi</k>
+oppress</ar>
+<ar><k>obiect</k>
+object</ar>
+<ar><k>obţine</k>
+obtain</ar>
+<ar><k>obişnui - se</k>
+get accustomed</ar>
+<ar><k>obişnuit</k>
+usual</ar>
+<ar><k>obţinut</k>
+obtained</ar>
+<ar><k>obliga</k>
+oblige</ar>
+<ar><k>obligaţie</k>
+obligation</ar>
+<ar><k>obligatoriu</k>
+obligatory</ar>
+<ar><k>oblitera</k>
+rase</ar>
+<ar><k>obosi</k>
+tire</ar>
+<ar><k>obosit</k>
+tired</ar>
+<ar><k>obraz</k>
+cheek</ar>
+<ar><k>obraznic</k>
+cheeky</ar>
+<ar><k>occupat</k>
+busy</ar>
+<ar><k>ochelari</k>
+glasses</ar>
+<ar><k>ochi</k>
+eye</ar>
+<ar><k>ocol</k>
+detour</ar>
+<ar><k>ocroti</k>
+protect</ar>
+<ar><k>octombrie</k>
+October</ar>
+<ar><k>ocupa</k>
+occupy</ar>
+<ar><k>ocupat</k>
+busy</ar>
+<ar><k>odaie</k>
+room</ar>
+<ar><k>odată</k>
+once</ar>
+<ar><k>odihnă</k>
+rest</ar>
+<ar><k>odinioară</k>
+formerly</ar>
+<ar><k>odor</k>
+jewel</ar>
+<ar><k>oţet</k>
+vinegar</ar>
+<ar><k>şofer</k>
+driver</ar>
+<ar><k>oferi</k>
+offer</ar>
+<ar><k>oficiu poştal</k>
+post office</ar>
+<ar><k>oglindă</k>
+mirror</ar>
+<ar><k>oglindi</k>
+reflect</ar>
+<ar><k>oi</k>
+sheep</ar>
+<ar><k>olanda</k>
+Holland</ar>
+<ar><k>olog</k>
+lame</ar>
+<ar><k>om</k>
+man</ar>
+<ar><k>om de afaceri</k>
+businessman</ar>
+<ar><k>omenesc</k>
+human</ar>
+<ar><k>omenie</k>
+kindness</ar>
+<ar><k>omenire</k>
+mankind</ar>
+<ar><k>omidă</k>
+caterpillar</ar>
+<ar><k>omis</k>
+omitted</ar>
+<ar><k>omite</k>
+omit</ar>
+<ar><k>omor</k>
+murder</ar>
+<ar><k>omorî</k>
+kill</ar>
+<ar><k>onoare</k>
+honour</ar>
+<ar><k>operă</k>
+worlcopera</ar>
+<ar><k>opinie</k>
+opinion</ar>
+<ar><k>opiu</k>
+opium</ar>
+<ar><k>opri</k>
+stop</ar>
+<ar><k>oprit</k>
+forbidden</ar>
+<ar><k>opt</k>
+eight</ar>
+<ar><k>opt sute</k>
+eight hundred</ar>
+<ar><k>opta</k>
+eighth</ar>
+<ar><k>optim</k>
+best</ar>
+<ar><k>optimist</k>
+optimistic</ar>
+<ar><k>optsprezece</k>
+eighteen</ar>
+<ar><k>optsprezecea</k>
+eighteenth</ar>
+<ar><k>optsprezecelea</k>
+eighteenth</ar>
+<ar><k>optulea</k>
+eighth</ar>
+<ar><k>optzecea</k>
+eightieth</ar>
+<ar><k>optzeci</k>
+eighty</ar>
+<ar><k>optzecilea</k>
+eightieth</ar>
+<ar><k>opus</k>
+opposite</ar>
+<ar><k>oră</k>
+hour</ar>
+<ar><k>oraş</k>
+town</ar>
+<ar><k>orar</k>
+timetable</ar>
+<ar><k>orb</k>
+blind</ar>
+<ar><k>orbi</k>
+to blind</ar>
+<ar><k>orchestră</k>
+orchestra</ar>
+<ar><k>ordine</k>
+order</ar>
+<ar><k>ordona</k>
+give an order to</ar>
+<ar><k>orez</k>
+rice</ar>
+<ar><k>organizaţia naţiunilor unite</k>
+United Nations</ar>
+<ar><k>organizaţie</k>
+organisation</ar>
+<ar><k>orgolios</k>
+conceited</ar>
+<ar><k>ori - ori</k>
+either... or</ar>
+<ar><k>oricare</k>
+any</ar>
+<ar><k>orice</k>
+any</ar>
+<ar><k>oricine</k>
+anyone</ar>
+<ar><k>oricînd</k>
+anytime</ar>
+<ar><k>orientul</k>
+Middle East</ar>
+<ar><k>origine</k>
+origin</ar>
+<ar><k>orizont</k>
+horizon</ar>
+<ar><k>ortodox</k>
+Orthodox</ar>
+<ar><k>orz</k>
+barley</ar>
+<ar><k>os</k>
+bone</ar>
+<ar><k>şosea</k>
+main road</ar>
+<ar><k>ospitalier</k>
+hospitable</ar>
+<ar><k>osîndi</k>
+condemn</ar>
+<ar><k>otravă</k>
+poison</ar>
+<ar><k>ou</k>
+egg</ar>
+<ar><k>ovăz</k>
+oats</ar>
+<ar><k>paşaport</k>
+passport</ar>
+<ar><k>pace</k>
+peace</ar>
+<ar><k>pachebot</k>
+steamboat</ar>
+<ar><k>pachet</k>
+packet</ar>
+<ar><k>pacient</k>
+patient</ar>
+<ar><k>pagină</k>
+page</ar>
+<ar><k>pagubă</k>
+loss</ar>
+<ar><k>pahar</k>
+glass</ar>
+<ar><k>pai</k>
+straw</ar>
+<ar><k>paisprezece</k>
+fourteen</ar>
+<ar><k>paisprezecea</k>
+fourteenth</ar>
+<ar><k>paisprezecelea</k>
+fourteenth</ar>
+<ar><k>pakistan</k>
+Pakistan</ar>
+<ar><k>pal</k>
+pale</ar>
+<ar><k>palat</k>
+palace</ar>
+<ar><k>palmă</k>
+palm</ar>
+<ar><k>palmares</k>
+record</ar>
+<ar><k>palpita</k>
+thrill</ar>
+<ar><k>palton</k>
+overcoat</ar>
+<ar><k>pană</k>
+feather</ar>
+<ar><k>pancreas</k>
+pancreas</ar>
+<ar><k>panică</k>
+panic</ar>
+<ar><k>paşnic</k>
+peaceful</ar>
+<ar><k>panou</k>
+panel</ar>
+<ar><k>pansa</k>
+dress</ar>
+<ar><k>pansament</k>
+dressing</ar>
+<ar><k>pantă</k>
+slope</ar>
+<ar><k>pantaloni</k>
+trousers</ar>
+<ar><k>pantof</k>
+shoe</ar>
+<ar><k>pantofar</k>
+shoemaker</ar>
+<ar><k>papetărie</k>
+stationer?s</ar>
+<ar><k>papuc</k>
+slipper</ar>
+<ar><k>par</k>
+pole</ar>
+<ar><k>pară</k>
+pear</ar>
+<ar><k>para</k>
+penny</ar>
+<ar><k>parc</k>
+park</ar>
+<ar><k>parcă</k>
+probably</ar>
+<ar><k>parca</k>
+park</ar>
+<ar><k>pardesiu</k>
+light overcoat</ar>
+<ar><k>paris</k>
+Paris</ar>
+<ar><k>parte</k>
+part</ar>
+<ar><k>parter</k>
+ground floor</ar>
+<ar><k>participa</k>
+participate</ar>
+<ar><k>particular</k>
+private</ar>
+<ar><k>partid</k>
+political party</ar>
+<ar><k>pas</k>
+pace</ar>
+<ar><k>pasager</k>
+passenger</ar>
+<ar><k>pasăre</k>
+bird</ar>
+<ar><k>pastă</k>
+paste</ar>
+<ar><k>pat</k>
+bed</ar>
+<ar><k>pată</k>
+stain</ar>
+<ar><k>paşti</k>
+Easter</ar>
+<ar><k>patinaj</k>
+skating</ar>
+<ar><k>patra</k>
+fourth</ar>
+<ar><k>patrie</k>
+fatherland</ar>
+<ar><k>patru</k>
+four</ar>
+<ar><k>patru sute</k>
+four hundred</ar>
+<ar><k>patrulea</k>
+fourth</ar>
+<ar><k>patruzecea</k>
+fortieth</ar>
+<ar><k>patruzeci</k>
+forty</ar>
+<ar><k>patruzecilea</k>
+fortieth</ar>
+<ar><k>pauză</k>
+pause</ar>
+<ar><k>păcat</k>
+sin</ar>
+<ar><k>păduche</k>
+louse</ar>
+<ar><k>pădure</k>
+forest</ar>
+<ar><k>pe</k>
+on</ar>
+<ar><k>pe curînd</k>
+see you soon</ar>
+<ar><k>pe la</k>
+about</ar>
+<ar><k>pe şleau</k>
+plainly</ar>
+<ar><k>pe lîngă</k>
+as well as</ar>
+<ar><k>pe rind</k>
+in turn</ar>
+<ar><k>pe rînd</k>
+in turn</ar>
+<ar><k>pe urmă</k>
+then</ar>
+<ar><k>pedeapsă</k>
+punishment</ar>
+<ar><k>peisaj</k>
+landscape</ar>
+<ar><k>pensie</k>
+pension</ar>
+<ar><k>pentru</k>
+for</ar>
+<ar><k>pentru că</k>
+because</ar>
+<ar><k>pepene</k>
+melon</ar>
+<ar><k>pepsi</k>
+pepsi</ar>
+<ar><k>pereche</k>
+pair</ar>
+<ar><k>perete</k>
+wall</ar>
+<ar><k>perfect</k>
+perfect</ar>
+<ar><k>pericol</k>
+danger</ar>
+<ar><k>perie</k>
+brush</ar>
+<ar><k>permis</k>
+permit</ar>
+<ar><k>permis de conducere</k>
+driving licence</ar>
+<ar><k>permite</k>
+allow</ar>
+<ar><k>pernă</k>
+pillow</ar>
+<ar><k>peron</k>
+platform</ar>
+<ar><k>persoană</k>
+person</ar>
+<ar><k>peste</k>
+over</ar>
+<ar><k>peşte</k>
+fish</ar>
+<ar><k>petrece</k>
+spend (time)</ar>
+<ar><k>petrecere</k>
+party</ar>
+<ar><k>petrecut</k>
+spent (time)</ar>
+<ar><k>petrol</k>
+oil</ar>
+<ar><k>păţi</k>
+endure</ar>
+<ar><k>piaţă</k>
+square</ar>
+<ar><k>piatră</k>
+stone</ar>
+<ar><k>pica</k>
+drop</ar>
+<ar><k>picior</k>
+leg</ar>
+<ar><k>picătură</k>
+drop</ar>
+<ar><k>pictură</k>
+picture</ar>
+<ar><k>picup</k>
+record player</ar>
+<ar><k>piele</k>
+skin</ar>
+<ar><k>piept</k>
+chest</ar>
+<ar><k>pieptene</k>
+comb</ar>
+<ar><k>pieptăna</k>
+comb</ar>
+<ar><k>pierde</k>
+lose</ar>
+<ar><k>pierdut</k>
+lost</ar>
+<ar><k>piersică</k>
+peach</ar>
+<ar><k>piesă</k>
+play</ar>
+<ar><k>pieton</k>
+pedestrian</ar>
+<ar><k>pildă</k>
+model</ar>
+<ar><k>pilulă</k>
+pill</ar>
+<ar><k>pin</k>
+pine tree</ar>
+<ar><k>piper</k>
+pepper</ar>
+<ar><k>pisică</k>
+cat</ar>
+<ar><k>pistol</k>
+pistol</ar>
+<ar><k>pix</k>
+ballpoint pen</ar>
+<ar><k>plafon</k>
+ceiling</ar>
+<ar><k>plajă</k>
+beach</ar>
+<ar><k>plan</k>
+plan</ar>
+<ar><k>plans</k>
+cried</ar>
+<ar><k>plantă</k>
+plant</ar>
+<ar><k>planta</k>
+to plant</ar>
+<ar><k>plapumă</k>
+quilt</ar>
+<ar><k>plată</k>
+payment</ar>
+<ar><k>plăcea</k>
+like</ar>
+<ar><k>plăcere</k>
+pleasure</ar>
+<ar><k>plăcut</k>
+pleasant</ar>
+<ar><k>pleca</k>
+leave</ar>
+<ar><k>plecare</k>
+departure</ar>
+<ar><k>plic</k>
+envelope</ar>
+<ar><k>plictisitor</k>
+boring</ar>
+<ar><k>plimbare</k>
+walk</ar>
+<ar><k>plin</k>
+full</ar>
+<ar><k>plămîn</k>
+lung</ar>
+<ar><k>ploaie</k>
+rain</ar>
+<ar><k>ploua</k>
+rain</ar>
+<ar><k>pălărie</k>
+hat</ar>
+<ar><k>plăti</k>
+pay</ar>
+<ar><k>plural</k>
+plural</ar>
+<ar><k>pluti</k>
+float</ar>
+<ar><k>pläcere</k>
+pleasure</ar>
+<ar><k>plînge</k>
+cry</ar>
+<ar><k>pămînt</k>
+earth</ar>
+<ar><k>poartă</k>
+gate</ar>
+<ar><k>pod</k>
+bridge</ar>
+<ar><k>podea</k>
+floor</ar>
+<ar><k>poezie</k>
+poem</ar>
+<ar><k>poftă</k>
+appetite</ar>
+<ar><k>pofti</k>
+invite</ar>
+<ar><k>poftiţi</k>
+here you are</ar>
+<ar><k>poftim</k>
+pardon</ar>
+<ar><k>poftim?</k>
+pardon?</ar>
+<ar><k>poimîine</k>
+day after tomorrow</ar>
+<ar><k>policlinică</k>
+clinic</ar>
+<ar><k>poliţist</k>
+policeman</ar>
+<ar><k>politeţe</k>
+politeness</ar>
+<ar><k>politică</k>
+politics</ar>
+<ar><k>politicos</k>
+polite</ar>
+<ar><k>polonia</k>
+Poland</ar>
+<ar><k>pom</k>
+tree</ar>
+<ar><k>pomeni</k>
+mention</ar>
+<ar><k>pompier</k>
+fireman</ar>
+<ar><k>popă</k>
+pope</ar>
+<ar><k>popor</k>
+people</ar>
+<ar><k>populaţie</k>
+population</ar>
+<ar><k>porc</k>
+pig</ar>
+<ar><k>poreclit</k>
+nicknamed</ar>
+<ar><k>porni</k>
+set out</ar>
+<ar><k>port</k>
+port</ar>
+<ar><k>portocală</k>
+orange</ar>
+<ar><k>portofel</k>
+wallet</ar>
+<ar><k>portugalia</k>
+Portugal</ar>
+<ar><k>porumb</k>
+corn</ar>
+<ar><k>poruncă</k>
+order</ar>
+<ar><k>posibil</k>
+possible</ar>
+<ar><k>poştă</k>
+post</ar>
+<ar><k>poşta</k>
+to post</ar>
+<ar><k>potrivit</k>
+suitable</ar>
+<ar><k>poveste</k>
+story</ar>
+<ar><k>povesti</k>
+relate</ar>
+<ar><k>poză</k>
+photograph</ar>
+<ar><k>poziţie</k>
+position</ar>
+<ar><k>păpuşă</k>
+doll</ar>
+<ar><k>păr</k>
+hair</ar>
+<ar><k>praf</k>
+dust</ar>
+<ar><k>preţ</k>
+price</ar>
+<ar><k>părea</k>
+seem</ar>
+<ar><k>prea</k>
+too</ar>
+<ar><k>prefera</k>
+prefer</ar>
+<ar><k>pregăti</k>
+prepare</ar>
+<ar><k>preşidinte</k>
+president</ar>
+<ar><k>prelungi</k>
+prolong</ar>
+<ar><k>premiu</k>
+reward</ar>
+<ar><k>preot</k>
+priest</ar>
+<ar><k>părere</k>
+opinion</ar>
+<ar><k>presă</k>
+press</ar>
+<ar><k>prestigiu</k>
+prestige</ar>
+<ar><k>presupune</k>
+suppose</ar>
+<ar><k>presupus</k>
+supposed</ar>
+<ar><k>pretutindeni</k>
+everywhere</ar>
+<ar><k>prezenta</k>
+introduce</ar>
+<ar><k>şpriţ</k>
+Spritz</ar>
+<ar><k>pricepe</k>
+understand</ar>
+<ar><k>priceput</k>
+understood</ar>
+<ar><k>pricină</k>
+reason</ar>
+<ar><k>prieten</k>
+friend</ar>
+<ar><k>prietenie</k>
+friendship</ar>
+<ar><k>prim</k>
+first</ar>
+<ar><k>prima</k>
+first</ar>
+<ar><k>primar</k>
+mayor</ar>
+<ar><k>primejdie</k>
+danger</ar>
+<ar><k>primi</k>
+receive</ar>
+<ar><k>primul</k>
+first</ar>
+<ar><k>primăvară</k>
+spring</ar>
+<ar><k>primăvarä</k>
+spring</ar>
+<ar><k>prin</k>
+through</ar>
+<ar><k>prin avion</k>
+by air mail</ar>
+<ar><k>prinde</k>
+catch</ar>
+<ar><k>prins</k>
+caught</ar>
+<ar><k>părinte</k>
+parent</ar>
+<ar><k>printre</k>
+among</ar>
+<ar><k>privelişte</k>
+view</ar>
+<ar><k>privi</k>
+look at</ar>
+<ar><k>privinţă</k>
+respect</ar>
+<ar><k>priză</k>
+electric point</ar>
+<ar><k>prăji</k>
+fry</ar>
+<ar><k>prăjitură</k>
+cake</ar>
+<ar><k>proaspăt</k>
+fresh</ar>
+<ar><k>proba</k>
+try</ar>
+<ar><k>probabil</k>
+probable</ar>
+<ar><k>problemă</k>
+problem</ar>
+<ar><k>procent</k>
+percentage</ar>
+<ar><k>proces</k>
+case</ar>
+<ar><k>produce</k>
+produce</ar>
+<ar><k>producţie</k>
+production</ar>
+<ar><k>produs</k>
+produced</ar>
+<ar><k>profesionist</k>
+professional</ar>
+<ar><k>profesoară</k>
+teacher</ar>
+<ar><k>profesor</k>
+teacher</ar>
+<ar><k>profit</k>
+profit</ar>
+<ar><k>profita</k>
+profit</ar>
+<ar><k>program</k>
+programme</ar>
+<ar><k>progres</k>
+progress</ar>
+<ar><k>proiect</k>
+plan</ar>
+<ar><k>promis</k>
+promised</ar>
+<ar><k>promite</k>
+promise</ar>
+<ar><k>pronostic</k>
+weather forecast</ar>
+<ar><k>propoziţie</k>
+sentence</ar>
+<ar><k>proprietar</k>
+proprietor</ar>
+<ar><k>prosop</k>
+towel</ar>
+<ar><k>prost</k>
+poorly</ar>
+<ar><k>prostie</k>
+stupidity</ar>
+<ar><k>provincie</k>
+province</ar>
+<ar><k>părăsi</k>
+abandon</ar>
+<ar><k>prună</k>
+plum</ar>
+<ar><k>părut</k>
+appeared</ar>
+<ar><k>prăvălie</k>
+shop</ar>
+<ar><k>prînz</k>
+lunch</ar>
+<ar><k>păstra</k>
+keep</ar>
+<ar><k>păta</k>
+stain</ar>
+<ar><k>pătrat</k>
+square</ar>
+<ar><k>pătrime</k>
+one fourth</ar>
+<ar><k>pătrunde</k>
+penetrate</ar>
+<ar><k>pătruns</k>
+penetrated</ar>
+<ar><k>public</k>
+public</ar>
+<ar><k>publicitate</k>
+publicity</ar>
+<ar><k>puşcă</k>
+rifle</ar>
+<ar><k>puhoi</k>
+torrent</ar>
+<ar><k>pui</k>
+chicken</ar>
+<ar><k>puţin</k>
+a little</ar>
+<ar><k>puţini</k>
+few</ar>
+<ar><k>pulover</k>
+pullover</ar>
+<ar><k>pumn</k>
+fist</ar>
+<ar><k>pun</k>
+I put</ar>
+<ar><k>punct</k>
+point</ar>
+<ar><k>pune</k>
+put</ar>
+<ar><k>pune frîna</k>
+put on the brake</ar>
+<ar><k>pune masă</k>
+lay the table</ar>
+<ar><k>pungă</k>
+plastic bag</ar>
+<ar><k>pur</k>
+pure</ar>
+<ar><k>purice</k>
+flea</ar>
+<ar><k>purta</k>
+wean</ar>
+<ar><k>purtare</k>
+behaviour</ar>
+<ar><k>pus</k>
+put</ar>
+<ar><k>pustiu</k>
+desert</ar>
+<ar><k>putea</k>
+be able</ar>
+<ar><k>putere</k>
+power</ar>
+<ar><k>puternic</k>
+powerful</ar>
+<ar><k>putrezit</k>
+rotten</ar>
+<ar><k>păzi</k>
+guard</ar>
+<ar><k>pîine</k>
+bread</ar>
+<ar><k>pînă</k>
+until</ar>
+<ar><k>pînă Ia</k>
+as far as</ar>
+<ar><k>pînă cînd</k>
+until</ar>
+<ar><k>pînă ia</k>
+as far as</ar>
+<ar><k>pînă le</k>
+as far as</ar>
+<ar><k>pînză</k>
+cloth</ar>
+<ar><k>raţă</k>
+duck</ar>
+<ar><k>rachetă</k>
+rocket</ar>
+<ar><k>rade</k>
+shave</ar>
+<ar><k>radiator</k>
+radiator</ar>
+<ar><k>radio</k>
+radio</ar>
+<ar><k>raft</k>
+shelf</ar>
+<ar><k>rai</k>
+paradise</ar>
+<ar><k>raţiune</k>
+reason</ar>
+<ar><k>ramă</k>
+frame</ar>
+<ar><k>ramură</k>
+branch</ar>
+<ar><k>ţăran</k>
+peasant</ar>
+<ar><k>raport</k>
+report</ar>
+<ar><k>rar</k>
+rare</ar>
+<ar><k>ras</k>
+shave</ar>
+<ar><k>rază</k>
+ray</ar>
+<ar><k>răbdare</k>
+patience</ar>
+<ar><k>răceală</k>
+cold</ar>
+<ar><k>răci</k>
+catch cold</ar>
+<ar><k>răcoare</k>
+coolness</ar>
+<ar><k>rădăcină</k>
+root</ar>
+<ar><k>reacţie</k>
+reaction</ar>
+<ar><k>realitate</k>
+reality</ar>
+<ar><k>realmente</k>
+really</ar>
+<ar><k>rece</k>
+cold</ar>
+<ar><k>recepţie</k>
+reception</ar>
+<ar><k>reclamă</k>
+advertisement</ar>
+<ar><k>recomanda</k>
+recommend</ar>
+<ar><k>recomandat</k>
+registered</ar>
+<ar><k>recunoaşte</k>
+recognise</ar>
+<ar><k>recunoscător</k>
+grateful</ar>
+<ar><k>recunoscut</k>
+recognised</ar>
+<ar><k>reduce</k>
+reduce</ar>
+<ar><k>redus</k>
+reduced</ar>
+<ar><k>reţetă</k>
+prescription</ar>
+<ar><k>regatul unit</k>
+United Kingdom</ar>
+<ar><k>rege</k>
+king</ar>
+<ar><k>regim</k>
+diet</ar>
+<ar><k>regină</k>
+queen</ar>
+<ar><k>regiune</k>
+region</ar>
+<ar><k>regulă</k>
+rule</ar>
+<ar><k>regularitate</k>
+regularity</ar>
+<ar><k>regulat</k>
+regular</ar>
+<ar><k>reţine</k>
+retain</ar>
+<ar><k>reţinut</k>
+retained</ar>
+<ar><k>relaţie</k>
+relation</ar>
+<ar><k>relief</k>
+relief</ar>
+<ar><k>relua</k>
+take up</ar>
+<ar><k>remarca</k>
+remark</ar>
+<ar><k>remorca</k>
+tow</ar>
+<ar><k>ren</k>
+reindeer</ar>
+<ar><k>renaştere</k>
+renaissance</ar>
+<ar><k>rentabil</k>
+profitable</ar>
+<ar><k>renumit</k>
+famous</ar>
+<ar><k>reşou</k>
+electric ring</ar>
+<ar><k>repara</k>
+repair</ar>
+<ar><k>repede</k>
+quick</ar>
+<ar><k>repeta</k>
+repeat</ar>
+<ar><k>reprezenta</k>
+represent</ar>
+<ar><k>reprezentant</k>
+representative</ar>
+<ar><k>reproş</k>
+reproach</ar>
+<ar><k>reproşa</k>
+reproach</ar>
+<ar><k>reptilă</k>
+reptile</ar>
+<ar><k>republica</k>
+republic</ar>
+<ar><k>respinge</k>
+reject</ar>
+<ar><k>respins</k>
+rejected</ar>
+<ar><k>respira</k>
+breath</ar>
+<ar><k>rest</k>
+change</ar>
+<ar><k>restaurant</k>
+restaurant</ar>
+<ar><k>resursă</k>
+resource</ar>
+<ar><k>retrage</k>
+withdraw</ar>
+<ar><k>retras</k>
+withdrawn</ar>
+<ar><k>reuşi</k>
+succeed</ar>
+<ar><k>reuşită</k>
+success</ar>
+<ar><k>revistă</k>
+magazine</ar>
+<ar><k>rezerva</k>
+reserve</ar>
+<ar><k>rezervat</k>
+reserved</ar>
+<ar><k>rezolva</k>
+solve</ar>
+<ar><k>rezultat</k>
+result</ar>
+<ar><k>ridica</k>
+lift up</ar>
+<ar><k>rinichi</k>
+kidney</ar>
+<ar><k>rinul</k>
+Rhine</ar>
+<ar><k>ris</k>
+laughed</ar>
+<ar><k>risc</k>
+risk</ar>
+<ar><k>risca</k>
+risk</ar>
+<ar><k>ţărm</k>
+coast</ar>
+<ar><k>rămîne</k>
+remain</ar>
+<ar><k>rănit</k>
+injured</ar>
+<ar><k>rob</k>
+slave</ar>
+<ar><k>rochie</k>
+a dress</ar>
+<ar><k>rod</k>
+fruit</ar>
+<ar><k>roşie</k>
+tomato</ar>
+<ar><k>rol</k>
+role</ar>
+<ar><k>roma</k>
+Rome</ar>
+<ar><k>roman</k>
+novel</ar>
+<ar><k>român</k>
+Romanian</ar>
+<ar><k>românesc</k>
+Romanian</ar>
+<ar><k>româneşte</k>
+in Romanian</ar>
+<ar><k>românia</k>
+Romania</ar>
+<ar><k>romîn</k>
+Romanian man</ar>
+<ar><k>romîncă</k>
+Romanian woman</ar>
+<ar><k>romînesc</k>
+Romanian</ar>
+<ar><k>romîneşte</k>
+in Romanian</ar>
+<ar><k>romînia</k>
+Romania</ar>
+<ar><k>rost</k>
+meaning</ar>
+<ar><k>rotund</k>
+round</ar>
+<ar><k>roşu</k>
+red</ar>
+<ar><k>rouă</k>
+dew</ar>
+<ar><k>roz</k>
+pink</ar>
+<ar><k>răscoală</k>
+uprising</ar>
+<ar><k>răsplată</k>
+reward</ar>
+<ar><k>răspunde</k>
+reply</ar>
+<ar><k>răspundere</k>
+responsibility</ar>
+<ar><k>răspuns</k>
+response</ar>
+<ar><k>răspunzător</k>
+responsible</ar>
+<ar><k>răspîndi</k>
+spread</ar>
+<ar><k>răspîndit</k>
+widespread</ar>
+<ar><k>răsări</k>
+rise</ar>
+<ar><k>răsărit</k>
+east</ar>
+<ar><k>răstigni</k>
+crucify</ar>
+<ar><k>răstimp</k>
+interval</ar>
+<ar><k>răstit</k>
+rude</ar>
+<ar><k>răstălmăci</k>
+distort</ar>
+<ar><k>răsturna</k>
+turn over</ar>
+<ar><k>rătăci</k>
+wander</ar>
+<ar><k>rău</k>
+bad</ar>
+<ar><k>rudă</k>
+relative</ar>
+<ar><k>ruga</k>
+ask (to do)</ar>
+<ar><k>rugăciune</k>
+prayer</ar>
+<ar><k>rugină</k>
+rust</ar>
+<ar><k>rugăminte</k>
+request</ar>
+<ar><k>ruşine</k>
+shame</ar>
+<ar><k>rus</k>
+Russian man</ar>
+<ar><k>rusesc</k>
+Russian</ar>
+<ar><k>ruseşte</k>
+in Russian</ar>
+<ar><k>rusia</k>
+Russia</ar>
+<ar><k>răutate</k>
+wickedness</ar>
+<ar><k>răzbate</k>
+make one's way</ar>
+<ar><k>război</k>
+war</ar>
+<ar><k>răzgîndi - se</k>
+change one's mind</ar>
+<ar><k>rînd</k>
+row</ar>
+<ar><k>rîs</k>
+laughter</ar>
+<ar><k>sac</k>
+sack</ar>
+<ar><k>sacoşă</k>
+grip bag</ar>
+<ar><k>sală</k>
+hail</ar>
+<ar><k>salam</k>
+salami</ar>
+<ar><k>salariat</k>
+employee</ar>
+<ar><k>salariu</k>
+salary</ar>
+<ar><k>salată verde</k>
+lettuce</ar>
+<ar><k>salcie</k>
+willow tree</ar>
+<ar><k>salon</k>
+drawing room</ar>
+<ar><k>salt</k>
+leap</ar>
+<ar><k>saluta</k>
+greet</ar>
+<ar><k>salva</k>
+save</ar>
+<ar><k>sanie</k>
+sledge</ar>
+<ar><k>sapă</k>
+hoe</ar>
+<ar><k>sarcină</k>
+burden</ar>
+<ar><k>sare</k>
+salt</ar>
+<ar><k>sat</k>
+village</ar>
+<ar><k>sau</k>
+or</ar>
+<ar><k>sau... sau</k>
+either... or</ar>
+<ar><k>scandal</k>
+scandal</ar>
+<ar><k>scară</k>
+ladder</ar>
+<ar><k>scaun</k>
+chair</ar>
+<ar><k>scădea</k>
+reduce</ar>
+<ar><k>scădere</k>
+diminuation</ar>
+<ar><k>scelerat</k>
+criminal</ar>
+<ar><k>scenă</k>
+scene</ar>
+<ar><k>scenariu</k>
+scenario</ar>
+<ar><k>scenetă</k>
+sketch</ar>
+<ar><k>sceptru</k>
+sceptre</ar>
+<ar><k>scăfîrlie</k>
+skull</ar>
+<ar><k>schelă</k>
+scaffolding</ar>
+<ar><k>schelărie</k>
+scaffolding</ar>
+<ar><k>schemă</k>
+scheme</ar>
+<ar><k>scheuna</k>
+yelp</ar>
+<ar><k>scheunat</k>
+yelp</ar>
+<ar><k>schi</k>
+ski</ar>
+<ar><k>schia</k>
+ski</ar>
+<ar><k>schijă</k>
+splinter</ar>
+<ar><k>schilod</k>
+cripple</ar>
+<ar><k>schimb</k>
+exchange</ar>
+<ar><k>schimba</k>
+change</ar>
+<ar><k>scălda</k>
+bathe</ar>
+<ar><k>scămoşa</k>
+fray</ar>
+<ar><k>scămoşat</k>
+frayed</ar>
+<ar><k>scoate</k>
+get out</ar>
+<ar><k>scoţia</k>
+Scotland</ar>
+<ar><k>scop</k>
+purpose</ar>
+<ar><k>scos</k>
+taken out</ar>
+<ar><k>scăpa</k>
+escape</ar>
+<ar><k>scăpare</k>
+escape</ar>
+<ar><k>scăpăra</k>
+send out</ar>
+<ar><k>scăpăta</k>
+grow poor</ar>
+<ar><k>scrie</k>
+write</ar>
+<ar><k>scriitor</k>
+writer</ar>
+<ar><k>scris</k>
+written</ar>
+<ar><k>scrisoare</k>
+letter</ar>
+<ar><k>scărpina</k>
+scratch</ar>
+<ar><k>scărpinat</k>
+scratching</ar>
+<ar><k>scuipa</k>
+spit</ar>
+<ar><k>scump</k>
+affectionate</ar>
+<ar><k>scund</k>
+low</ar>
+<ar><k>scurt</k>
+short</ar>
+<ar><k>scurta</k>
+shorten</ar>
+<ar><k>scutura</k>
+shake</ar>
+<ar><k>scuză</k>
+excuse</ar>
+<ar><k>scuzaţi</k>
+sorrz</ar>
+<ar><k>scăzut</k>
+reduced</ar>
+<ar><k>scînteia</k>
+sparkle</ar>
+<ar><k>se aburi</k>
+steam up</ar>
+<ar><k>se adresa</k>
+address oneself to</ar>
+<ar><k>se aşeza</k>
+sit down</ar>
+<ar><k>se află</k>
+there is</ar>
+<ar><k>se afla</k>
+be situated</ar>
+<ar><k>se apleca</k>
+bend down</ar>
+<ar><k>se apropria</k>
+approach</ar>
+<ar><k>se bronza</k>
+get a tan</ar>
+<ar><k>se bucura</k>
+be glad</ar>
+<ar><k>se coafa</k>
+have one?s hair styled</ar>
+<ar><k>se concentra</k>
+concentrate</ar>
+<ar><k>se căsători</k>
+get married</ar>
+<ar><k>se culca</k>
+go to bed</ar>
+<ar><k>se depărta</k>
+move off</ar>
+<ar><k>se descurca</k>
+manage</ar>
+<ar><k>se dezbrăca</k>
+get undressed</ar>
+<ar><k>se dezlega</k>
+come undone</ar>
+<ar><k>se distra</k>
+enjoy oneself</ar>
+<ar><k>se duce</k>
+go</ar>
+<ar><k>se fofila în</k>
+steal into</ar>
+<ar><k>se grăbi</k>
+hurry</ar>
+<ar><k>se găsi</k>
+be available</ar>
+<ar><k>se gîndi</k>
+think</ar>
+<ar><k>se holba</k>
+stare</ar>
+<ar><k>se hotărî</k>
+decide</ar>
+<ar><k>se intîlni cu</k>
+meet (up with)</ar>
+<ar><k>se ivi</k>
+appear</ar>
+<ar><k>se juca</k>
+play</ar>
+<ar><k>se lăbărţa</k>
+get out of shape</ar>
+<ar><k>se legăna</k>
+swing</ar>
+<ar><k>se lepăda de un obicei</k>
+get out of a habit</ar>
+<ar><k>se limita</k>
+limit oneself</ar>
+<ar><k>se logodi</k>
+become engaged</ar>
+<ar><k>se lărgi</k>
+expand</ar>
+<ar><k>se lupta</k>
+fight</ar>
+<ar><k>se mişca</k>
+move</ar>
+<ar><k>se minuna</k>
+be astonished</ar>
+<ar><k>se naşte</k>
+be born</ar>
+<ar><k>se numi</k>
+be named</ar>
+<ar><k>se odihni</k>
+rest</ar>
+<ar><k>se opri</k>
+stop</ar>
+<ar><k>se petrece</k>
+take place</ar>
+<ar><k>se plimba</k>
+go for a walk</ar>
+<ar><k>se plînge</k>
+complain</ar>
+<ar><k>se părea</k>
+seem</ar>
+<ar><k>se prieptăna</k>
+comb hair</ar>
+<ar><k>se rade</k>
+shave</ar>
+<ar><k>se răspîndi</k>
+spread</ar>
+<ar><k>se răsti</k>
+shout</ar>
+<ar><k>se rătăci</k>
+wander</ar>
+<ar><k>se ruga</k>
+pray</ar>
+<ar><k>se scălda</k>
+bath</ar>
+<ar><k>se scula</k>
+get up</ar>
+<ar><k>se scumpi</k>
+become more expensive</ar>
+<ar><k>se scutura</k>
+shake</ar>
+<ar><k>se simţi</k>
+feel</ar>
+<ar><k>se spăla</k>
+wash</ar>
+<ar><k>se sătura</k>
+have enough</ar>
+<ar><k>se teme</k>
+fear</ar>
+<ar><k>se topi</k>
+melt</ar>
+<ar><k>se trezi</k>
+wake up</ar>
+<ar><k>se tunde</k>
+have a haircut</ar>
+<ar><k>se uita</k>
+look at</ar>
+<ar><k>se urca</k>
+climb</ar>
+<ar><k>se îmbogăti</k>
+grow rich</ar>
+<ar><k>se îmbolnăvi</k>
+fall ill</ar>
+<ar><k>se îmbrăca</k>
+get dressed</ar>
+<ar><k>se închina</k>
+make the sign of the cross</ar>
+<ar><k>se încălzi</k>
+get warm</ar>
+<ar><k>se încurca</k>
+get confused</ar>
+<ar><k>se îndoi</k>
+doubt</ar>
+<ar><k>se îngrozi</k>
+be terrified</ar>
+<ar><k>se înjosi</k>
+humble oneself</ar>
+<ar><k>se înmuia</k>
+thaw</ar>
+<ar><k>se înscrie</k>
+enrol</ar>
+<ar><k>se însura</k>
+marry (men)</ar>
+<ar><k>se întoarce</k>
+return</ar>
+<ar><k>se întreba</k>
+wonder</ar>
+<ar><k>se întuneca</k>
+become dark</ar>
+<ar><k>se întîlni</k>
+meet</ar>
+<ar><k>se întîmpla</k>
+happen</ar>
+<ar><k>se învecina cu</k>
+be bordered by</ar>
+<ar><k>se învîrti</k>
+spin</ar>
+<ar><k>seară</k>
+evening</ar>
+<ar><k>sec</k>
+dry</ar>
+<ar><k>secară</k>
+rye</ar>
+<ar><k>secera</k>
+reap</ar>
+<ar><k>secol</k>
+century</ar>
+<ar><k>semafor</k>
+traffic lights</ar>
+<ar><k>semn</k>
+sign</ar>
+<ar><k>semăna</k>
+resemble</ar>
+<ar><k>semna</k>
+sign</ar>
+<ar><k>senin</k>
+bright blue</ar>
+<ar><k>sentiment</k>
+feeling</ar>
+<ar><k>septembrie</k>
+September</ar>
+<ar><k>serie</k>
+series</ar>
+<ar><k>serios</k>
+serious</ar>
+<ar><k>servi</k>
+serve</ar>
+<ar><k>serviciu</k>
+job</ar>
+<ar><k>sesiune</k>
+session</ar>
+<ar><k>sete</k>
+thirst</ar>
+<ar><k>sfeclă</k>
+beetroot</ar>
+<ar><k>sfert</k>
+quarter</ar>
+<ar><k>sflare</k>
+breathing</ar>
+<ar><k>sforăi</k>
+snore</ar>
+<ar><k>sfătui</k>
+advise</ar>
+<ar><k>sfînt</k>
+holy</ar>
+<ar><k>sfîrşit</k>
+end</ar>
+<ar><k>sifon</k>
+soda water</ar>
+<ar><k>sigur</k>
+certain</ar>
+<ar><k>siguranţă</k>
+safety</ar>
+<ar><k>sili</k>
+force</ar>
+<ar><k>simţ</k>
+feeling</ar>
+<ar><k>simţi</k>
+feel</ar>
+<ar><k>simpatic</k>
+nice</ar>
+<ar><k>simplu</k>
+simple</ar>
+<ar><k>sincer</k>
+sincere</ar>
+<ar><k>sindicat</k>
+union</ar>
+<ar><k>singular</k>
+singular</ar>
+<ar><k>singur</k>
+single</ar>
+<ar><k>singuratic</k>
+lonely</ar>
+<ar><k>sirop</k>
+syrup</ar>
+<ar><k>sirop de tuse</k>
+cough syrup</ar>
+<ar><k>sistem</k>
+system</ar>
+<ar><k>situaţie</k>
+situation</ar>
+<ar><k>situat</k>
+situated</ar>
+<ar><k>slab</k>
+weak</ar>
+<ar><k>slavă</k>
+glory</ar>
+<ar><k>sălbatic</k>
+wild</ar>
+<ar><k>slăbi</k>
+lose weight</ar>
+<ar><k>slăbiciune</k>
+weakness</ar>
+<ar><k>slovacia</k>
+Slovakia</ar>
+<ar><k>slujbă</k>
+religious service</ar>
+<ar><k>smochină</k>
+fig</ar>
+<ar><k>sămînţă</k>
+seed</ar>
+<ar><k>smîntînă</k>
+sour cream</ar>
+<ar><k>sănătate</k>
+health</ar>
+<ar><k>sănătos</k>
+healthy</ar>
+<ar><k>soţ</k>
+husband</ar>
+<ar><k>soacră</k>
+mother-in-law</ar>
+<ar><k>soare</k>
+sun</ar>
+<ar><k>soartă</k>
+fate</ar>
+<ar><k>sobă</k>
+stove</ar>
+<ar><k>social</k>
+social</ar>
+<ar><k>socialist</k>
+socialist</ar>
+<ar><k>socoteală</k>
+calculation</ar>
+<ar><k>socoti</k>
+reckon</ar>
+<ar><k>socri</k>
+parents in law</ar>
+<ar><k>socru</k>
+father in law</ar>
+<ar><k>soţie</k>
+wife</ar>
+<ar><k>soldat</k>
+soldier</ar>
+<ar><k>somn</k>
+sleep</ar>
+<ar><k>soră</k>
+sister</ar>
+<ar><k>sorbi</k>
+sip</ar>
+<ar><k>sosi</k>
+arrive</ar>
+<ar><k>săpa</k>
+dig</ar>
+<ar><k>spaimă</k>
+dread</ar>
+<ar><k>spania</k>
+Spain</ar>
+<ar><k>sparge</k>
+break</ar>
+<ar><k>spart</k>
+broken</ar>
+<ar><k>spate</k>
+back</ar>
+<ar><k>special</k>
+special</ar>
+<ar><k>spectacol</k>
+show</ar>
+<ar><k>speculaţie</k>
+speculation</ar>
+<ar><k>speculant</k>
+speculator</ar>
+<ar><k>speologie</k>
+speleology</ar>
+<ar><k>sper că da</k>
+I hope so</ar>
+<ar><k>sper că nu</k>
+I hope not</ar>
+<ar><k>spera</k>
+hope</ar>
+<ar><k>speranţă</k>
+hope</ar>
+<ar><k>speria</k>
+frighten</ar>
+<ar><k>sperietură</k>
+fright</ar>
+<ar><k>sperios</k>
+easily frightened</ar>
+<ar><k>sperjur</k>
+perjuror</ar>
+<ar><k>spin</k>
+thorn</ar>
+<ar><k>spinare</k>
+back</ar>
+<ar><k>spinos</k>
+thorny</ar>
+<ar><k>spirit</k>
+spirit</ar>
+<ar><k>spiritual</k>
+witty</ar>
+<ar><k>spirt</k>
+spirit</ar>
+<ar><k>spital</k>
+hospital</ar>
+<ar><k>spăla</k>
+wash</ar>
+<ar><k>spălat</k>
+washing</ar>
+<ar><k>splendid</k>
+splendid</ar>
+<ar><k>splendoare</k>
+splendour</ar>
+<ar><k>splină</k>
+spleen</ar>
+<ar><k>spoi</k>
+paint</ar>
+<ar><k>spor</k>
+spore</ar>
+<ar><k>spori</k>
+increase</ar>
+<ar><k>sporire</k>
+increase</ar>
+<ar><k>sporovăi</k>
+chatter</ar>
+<ar><k>sport</k>
+sport</ar>
+<ar><k>spre</k>
+towards</ar>
+<ar><k>sprijini</k>
+support</ar>
+<ar><k>sprinten</k>
+agile</ar>
+<ar><k>sprînceană</k>
+eyebrow</ar>
+<ar><k>săptămînă</k>
+week</ar>
+<ar><k>spulbera</k>
+sweep off</ar>
+<ar><k>spumă</k>
+foam</ar>
+<ar><k>spumega</k>
+foam</ar>
+<ar><k>săpun</k>
+soap</ar>
+<ar><k>spune</k>
+say</ar>
+<ar><k>spus</k>
+said</ar>
+<ar><k>spînzura</k>
+hang</ar>
+<ar><k>sărac</k>
+poor</ar>
+<ar><k>sărbătoare</k>
+celebration</ar>
+<ar><k>sărbători</k>
+celebrate</ar>
+<ar><k>sărăcie</k>
+poverty</ar>
+<ar><k>sări</k>
+jump</ar>
+<ar><k>săruta</k>
+kiss</ar>
+<ar><k>sta</k>
+stand</ar>
+<ar><k>sta jos</k>
+sit down</ar>
+<ar><k>stabili</k>
+establish</ar>
+<ar><k>staţie</k>
+bus stop</ar>
+<ar><k>staţiune</k>
+holiday resort</ar>
+<ar><k>stare</k>
+state</ar>
+<ar><k>stat</k>
+state</ar>
+<ar><k>statele unite</k>
+United States</ar>
+<ar><k>statuie</k>
+statue</ar>
+<ar><k>stea</k>
+star</ar>
+<ar><k>steag</k>
+flag</ar>
+<ar><k>stejar</k>
+oak tree</ar>
+<ar><k>sticlă</k>
+bottle</ar>
+<ar><k>stil</k>
+style</ar>
+<ar><k>stilou</k>
+fountain pen</ar>
+<ar><k>stimă</k>
+respect</ar>
+<ar><k>stimat</k>
+esteemed</ar>
+<ar><k>stinge</k>
+put out</ar>
+<ar><k>stins</k>
+extinguished</ar>
+<ar><k>stoarce</k>
+squeeze</ar>
+<ar><k>stofă</k>
+cloth</ar>
+<ar><k>stomac</k>
+stomach</ar>
+<ar><k>stăpîni</k>
+control</ar>
+<ar><k>stradă</k>
+street</ar>
+<ar><k>străbun</k>
+ancestor</ar>
+<ar><k>strica</k>
+damage</ar>
+<ar><k>striga</k>
+call out</ar>
+<ar><k>străin</k>
+foreign</ar>
+<ar><k>strop</k>
+drop</ar>
+<ar><k>strugure</k>
+grape</ar>
+<ar><k>strîmba din nas</k>
+turn up one's nose</ar>
+<ar><k>strîmt</k>
+narrow</ar>
+<ar><k>strînge</k>
+gather</ar>
+<ar><k>strîns</k>
+gathered</ar>
+<ar><k>student</k>
+student</ar>
+<ar><k>studentă</k>
+female student</ar>
+<ar><k>studiu</k>
+study</ar>
+<ar><k>sătul</k>
+satiated</ar>
+<ar><k>stîng</k>
+left</ar>
+<ar><k>stînga</k>
+left side</ar>
+<ar><k>său</k>
+his</ar>
+<ar><k>sub</k>
+under</ar>
+<ar><k>subiect</k>
+subject</ar>
+<ar><k>subţire</k>
+thin</ar>
+<ar><k>substantiv</k>
+noun</ar>
+<ar><k>suc</k>
+fruit juice</ar>
+<ar><k>succes</k>
+success</ar>
+<ar><k>succesiv</k>
+succesive</ar>
+<ar><k>succesor</k>
+succesor</ar>
+<ar><k>succinct</k>
+concise</ar>
+<ar><k>suci</k>
+twist</ar>
+<ar><k>sucit</k>
+twisted</ar>
+<ar><k>suculent</k>
+juicy</ar>
+<ar><k>sucursală</k>
+branch</ar>
+<ar><k>sud</k>
+south</ar>
+<ar><k>sud-vest</k>
+south west</ar>
+<ar><k>suda</k>
+solder</ar>
+<ar><k>sudoare</k>
+sweat</ar>
+<ar><k>suedez</k>
+Swede</ar>
+<ar><k>suedeză</k>
+Swedish woman</ar>
+<ar><k>suedia</k>
+Sweden</ar>
+<ar><k>suferi</k>
+suffer</ar>
+<ar><k>suferinţă</k>
+suffering</ar>
+<ar><k>suferind</k>
+invalid</ar>
+<ar><k>sufla</k>
+blow</ar>
+<ar><k>suflet</k>
+soul</ar>
+<ar><k>sufragerie</k>
+dining room</ar>
+<ar><k>suge</k>
+suck</ar>
+<ar><k>sui</k>
+climb</ar>
+<ar><k>sumă</k>
+sum</ar>
+<ar><k>suna</k>
+ring</ar>
+<ar><k>sunteţi</k>
+you are</ar>
+<ar><k>suntem</k>
+we are</ar>
+<ar><k>supă</k>
+soup</ar>
+<ar><k>supăra</k>
+annoy</ar>
+<ar><k>suprafaţă</k>
+surface</ar>
+<ar><k>supt</k>
+sucked</ar>
+<ar><k>surd</k>
+deaf</ar>
+<ar><k>surprinde</k>
+surprise</ar>
+<ar><k>surprins</k>
+surprised</ar>
+<ar><k>surpriză</k>
+surprise</ar>
+<ar><k>surîde</k>
+smile</ar>
+<ar><k>surîs</k>
+smiled</ar>
+<ar><k>sus</k>
+up</ar>
+<ar><k>sută</k>
+hundred</ar>
+<ar><k>suta</k>
+hundredth</ar>
+<ar><k>sutălea</k>
+hundredth</ar>
+<ar><k>sîmbătă</k>
+Saturday</ar>
+<ar><k>sîmbure</k>
+pip</ar>
+<ar><k>sîn</k>
+bosom</ar>
+<ar><k>sînge</k>
+blood</ar>
+<ar><k>sînt</k>
+they are</ar>
+<ar><k>sînteţi</k>
+you are</ar>
+<ar><k>sîntem</k>
+we are</ar>
+<ar><k>tablou</k>
+painting</ar>
+<ar><k>taburet</k>
+stool</ar>
+<ar><k>tacîm</k>
+cover</ar>
+<ar><k>taină</k>
+secret</ar>
+<ar><k>talent</k>
+talent</ar>
+<ar><k>talentat</k>
+talented</ar>
+<ar><k>tamisa</k>
+Thames</ar>
+<ar><k>ştampila</k>
+stamp</ar>
+<ar><k>tare</k>
+strong</ar>
+<ar><k>tată</k>
+father</ar>
+<ar><k>taur</k>
+bull</ar>
+<ar><k>tavan</k>
+ceiling</ar>
+<ar><k>taxă</k>
+tax</ar>
+<ar><k>taxi</k>
+taxi</ar>
+<ar><k>tăcea</k>
+be quiet</ar>
+<ar><k>tăcere</k>
+silence</ar>
+<ar><k>te rog</k>
+please</ar>
+<ar><k>teamă</k>
+fear</ar>
+<ar><k>teatru</k>
+theatre</ar>
+<ar><k>ştecăr</k>
+electric plug</ar>
+<ar><k>tehnic</k>
+technical</ar>
+<ar><k>teleferic</k>
+cable railway</ar>
+<ar><k>telefon</k>
+telephone</ar>
+<ar><k>telefona</k>
+telephone</ar>
+<ar><k>telegramă</k>
+telegram</ar>
+<ar><k>televiziune</k>
+television</ar>
+<ar><k>televizor</k>
+television</ar>
+<ar><k>temă</k>
+theme</ar>
+<ar><k>temei</k>
+basis</ar>
+<ar><k>temperat</k>
+temperate</ar>
+<ar><k>temperatură</k>
+temperature</ar>
+<ar><k>temut</k>
+feared</ar>
+<ar><k>tendinţă</k>
+tendency</ar>
+<ar><k>şterge</k>
+wipe</ar>
+<ar><k>teritoriu</k>
+territory</ar>
+<ar><k>termen</k>
+term</ar>
+<ar><k>termina</k>
+finish</ar>
+<ar><k>şters</k>
+wiped</ar>
+<ar><k>text</k>
+text</ar>
+<ar><k>şti</k>
+know</ar>
+<ar><k>tăia</k>
+cut</ar>
+<ar><k>tigru</k>
+tiger</ar>
+<ar><k>ştiinţă</k>
+science</ar>
+<ar><k>timbru</k>
+stamp</ar>
+<ar><k>timp</k>
+time</ar>
+<ar><k>tinereţe</k>
+youth</ar>
+<ar><k>tipări</k>
+print</ar>
+<ar><k>ştire</k>
+news item</ar>
+<ar><k>ştiri</k>
+news</ar>
+<ar><k>titlu</k>
+title</ar>
+<ar><k>ştiut</k>
+known</ar>
+<ar><k>toaletă</k>
+dressing table</ar>
+<ar><k>toamnă</k>
+autumn</ar>
+<ar><k>toată</k>
+all</ar>
+<ar><k>toată lumea</k>
+everzbody</ar>
+<ar><k>toate</k>
+all</ar>
+<ar><k>toc</k>
+fountain pen</ar>
+<ar><k>tocană</k>
+goulash</ar>
+<ar><k>tocmai</k>
+exactly</ar>
+<ar><k>toţi</k>
+all</ar>
+<ar><k>ton</k>
+tone</ar>
+<ar><k>tonă</k>
+ton</ar>
+<ar><k>topi</k>
+melt</ar>
+<ar><k>tort</k>
+cake</ar>
+<ar><k>tot</k>
+also</ar>
+<ar><k>totodată</k>
+at the same time</ar>
+<ar><k>totuşi</k>
+nevertheless</ar>
+<ar><k>tovarăş</k>
+comrade</ar>
+<ar><k>tradiţie</k>
+tradition</ar>
+<ar><k>tradiţional</k>
+traditional</ar>
+<ar><k>traduce</k>
+translate</ar>
+<ar><k>traducere</k>
+translation</ar>
+<ar><k>tradus</k>
+translated</ar>
+<ar><k>trage</k>
+pull</ar>
+<ar><k>tramvai</k>
+tram</ar>
+<ar><k>ştrand</k>
+swimming pool (open-air)</ar>
+<ar><k>trandafir</k>
+rose</ar>
+<ar><k>transforma</k>
+transform</ar>
+<ar><k>transilvania</k>
+Tnansylvania</ar>
+<ar><k>transmite</k>
+pass on</ar>
+<ar><k>tras</k>
+pulled</ar>
+<ar><k>trata</k>
+treat</ar>
+<ar><k>tratament</k>
+treatment</ar>
+<ar><k>traversa</k>
+cross</ar>
+<ar><k>treabă</k>
+business</ar>
+<ar><k>treaptă</k>
+step</ar>
+<ar><k>trebui</k>
+have to</ar>
+<ar><k>trece</k>
+pass</ar>
+<ar><k>trecut</k>
+passed</ar>
+<ar><k>trei</k>
+three</ar>
+<ar><k>trei pătrimi</k>
+three fourths</ar>
+<ar><k>trei sferturi</k>
+three quarters</ar>
+<ar><k>trei sute</k>
+three hundred</ar>
+<ar><k>treia</k>
+third</ar>
+<ar><k>treilea</k>
+third</ar>
+<ar><k>treime</k>
+third</ar>
+<ar><k>treisprezece</k>
+thirteen</ar>
+<ar><k>treisprezecea</k>
+thirteenth</ar>
+<ar><k>treisprezecelea</k>
+thirteenth</ar>
+<ar><k>treizecea</k>
+thirtieth</ar>
+<ar><k>treizeci</k>
+thirty</ar>
+<ar><k>treizecilea</k>
+thirtieth</ar>
+<ar><k>tremura</k>
+tremble</ar>
+<ar><k>tren</k>
+train</ar>
+<ar><k>treptat</k>
+gradually</ar>
+<ar><k>trezi</k>
+wake up</ar>
+<ar><k>trăi</k>
+live</ar>
+<ar><k>tărie</k>
+strength</ar>
+<ar><k>trimis</k>
+sent</ar>
+<ar><k>trimite</k>
+send</ar>
+<ar><k>trist</k>
+sad</ar>
+<ar><k>tristeţe</k>
+sadness</ar>
+<ar><k>troleibuz</k>
+trolley</ar>
+<ar><k>trompetă</k>
+trumpet</ar>
+<ar><k>trăsnet</k>
+thunderbolt</ar>
+<ar><k>trăsătură</k>
+characteristic</ar>
+<ar><k>trup</k>
+body</ar>
+<ar><k>tău</k>
+your</ar>
+<ar><k>tu</k>
+you</ar>
+<ar><k>tuşi</k>
+cough</ar>
+<ar><k>tun</k>
+cannon</ar>
+<ar><k>tuns</k>
+haircut</ar>
+<ar><k>turc</k>
+Turk</ar>
+<ar><k>turcia</k>
+Turkey</ar>
+<ar><k>turist</k>
+tourist</ar>
+<ar><k>turn</k>
+tower</ar>
+<ar><k>turna</k>
+pour</ar>
+<ar><k>tutun</k>
+tobacco</ar>
+<ar><k>tutungerie</k>
+tobacconist?s</ar>
+<ar><k>tînăr</k>
+young</ar>
+<ar><k>tîrg</k>
+market</ar>
+<ar><k>tîrziu</k>
+late</ar>
+<ar><k>uşă</k>
+door</ar>
+<ar><k>ucenic</k>
+apprentice</ar>
+<ar><k>ucide</k>
+kill</ar>
+<ar><k>ucigaş</k>
+murderer</ar>
+<ar><k>ucis</k>
+killed</ar>
+<ar><k>ucraina</k>
+Ukraine</ar>
+<ar><k>ud</k>
+wet</ar>
+<ar><k>uda</k>
+wet</ar>
+<ar><k>ţuică</k>
+plum brandy</ar>
+<ar><k>şuiera</k>
+whistle</ar>
+<ar><k>uimi</k>
+surprise</ar>
+<ar><k>uita</k>
+forget</ar>
+<ar><k>uite!</k>
+look!</ar>
+<ar><k>ulei</k>
+oil</ar>
+<ar><k>ulei de floarea</k>
+sunflower oil</ar>
+<ar><k>ulei de floarea soarelui</k>
+sunflower oil</ar>
+<ar><k>ultim</k>
+last</ar>
+<ar><k>ultimul</k>
+the last</ar>
+<ar><k>uman</k>
+human</ar>
+<ar><k>umbla</k>
+walk</ar>
+<ar><k>umbră</k>
+shadow</ar>
+<ar><k>umed</k>
+damp</ar>
+<ar><k>umfla</k>
+inflate</ar>
+<ar><k>umil</k>
+humble</ar>
+<ar><k>umăr</k>
+shoulder</ar>
+<ar><k>un</k>
+a</ar>
+<ar><k>un milion</k>
+one million</ar>
+<ar><k>una</k>
+first</ar>
+<ar><k>una mie</k>
+one thousand</ar>
+<ar><k>una sută de mii</k>
+one hundred thousand</ar>
+<ar><k>şuncă</k>
+ham</ar>
+<ar><k>unchi</k>
+uncle</ar>
+<ar><k>undă</k>
+wave</ar>
+<ar><k>unde</k>
+where</ar>
+<ar><k>undeva</k>
+somewhere</ar>
+<ar><k>uneori</k>
+sometimes</ar>
+<ar><k>ungaria</k>
+Hungary</ar>
+<ar><k>unge</k>
+oil</ar>
+<ar><k>uni</k>
+unite</ar>
+<ar><k>unic</k>
+unique</ar>
+<ar><k>unii</k>
+some</ar>
+<ar><k>unire</k>
+union</ar>
+<ar><k>uniunea europeană</k>
+European Union</ar>
+<ar><k>uniunea sovietică</k>
+Soviet Union</ar>
+<ar><k>universal</k>
+worldwide</ar>
+<ar><k>universitate</k>
+university</ar>
+<ar><k>uns</k>
+oiled</ar>
+<ar><k>unsprezece</k>
+eleven</ar>
+<ar><k>unsprezecea</k>
+eleventh</ar>
+<ar><k>unsprezecelea</k>
+eleventh</ar>
+<ar><k>unt</k>
+butter</ar>
+<ar><k>untdelemn</k>
+edible oil</ar>
+<ar><k>unu</k>
+one</ar>
+<ar><k>uşor</k>
+light</ar>
+<ar><k>ură</k>
+hate</ar>
+<ar><k>ura</k>
+wish</ar>
+<ar><k>urca</k>
+climb</ar>
+<ar><k>ureche</k>
+ear</ar>
+<ar><k>urgent</k>
+urgent</ar>
+<ar><k>uriaş</k>
+giant</ar>
+<ar><k>urmă</k>
+track</ar>
+<ar><k>urma</k>
+follow</ar>
+<ar><k>urmare - prin</k>
+consequently</ar>
+<ar><k>urmări</k>
+follow</ar>
+<ar><k>următor</k>
+following</ar>
+<ar><k>următorul</k>
+the next</ar>
+<ar><k>urs</k>
+bear</ar>
+<ar><k>urî</k>
+hate</ar>
+<ar><k>urît</k>
+ugly</ar>
+<ar><k>usca</k>
+dry</ar>
+<ar><k>uscat</k>
+dry</ar>
+<ar><k>usturoi</k>
+garlic</ar>
+<ar><k>util</k>
+useful</ar>
+<ar><k>vă</k>
+you</ar>
+<ar><k>vă rog</k>
+please</ar>
+<ar><k>vacă</k>
+cow</ar>
+<ar><k>vacanţă</k>
+holiday</ar>
+<ar><k>vad</k>
+ford</ar>
+<ar><k>vagon</k>
+carriage</ar>
+<ar><k>vagon restaurant</k>
+restaurant car</ar>
+<ar><k>val</k>
+wave</ar>
+<ar><k>valabil</k>
+valid</ar>
+<ar><k>vale</k>
+valley</ar>
+<ar><k>valiză</k>
+suitcase</ar>
+<ar><k>valoare</k>
+value</ar>
+<ar><k>valută</k>
+hand currency</ar>
+<ar><k>vamă</k>
+customs control</ar>
+<ar><k>vameş</k>
+customs officer</ar>
+<ar><k>vapor</k>
+ship</ar>
+<ar><k>vară</k>
+summer</ar>
+<ar><k>variabil</k>
+changeable</ar>
+<ar><k>variat</k>
+varied</ar>
+<ar><k>varză</k>
+cabbage</ar>
+<ar><k>vată</k>
+cotton wool</ar>
+<ar><k>văd</k>
+I see</ar>
+<ar><k>vădit</k>
+obvious</ar>
+<ar><k>văduv</k>
+widower</ar>
+<ar><k>veac</k>
+century</ar>
+<ar><k>vechi</k>
+old</ar>
+<ar><k>vecin</k>
+neighbour</ar>
+<ar><k>vedea</k>
+see</ar>
+<ar><k>vedere</k>
+view</ar>
+<ar><k>veni</k>
+come</ar>
+<ar><k>veşnic</k>
+eternal</ar>
+<ar><k>venin</k>
+poison</ar>
+<ar><k>verde</k>
+green</ar>
+<ar><k>vesel</k>
+joyful</ar>
+<ar><k>vest</k>
+west</ar>
+<ar><k>veste</k>
+piece of news</ar>
+<ar><k>vestit</k>
+renowned</ar>
+<ar><k>viaţă</k>
+life</ar>
+<ar><k>vie</k>
+vineyard</ar>
+<ar><k>viţel</k>
+calf</ar>
+<ar><k>vierme</k>
+worm</ar>
+<ar><k>vişină</k>
+morello cherry</ar>
+<ar><k>viitor</k>
+future</ar>
+<ar><k>vilă</k>
+villa</ar>
+<ar><k>vin</k>
+wine</ar>
+<ar><k>vină</k>
+blame</ar>
+<ar><k>vinde</k>
+sell</ar>
+<ar><k>vine</k>
+he comes</ar>
+<ar><k>vineri</k>
+Friday</ar>
+<ar><k>vinovat</k>
+guilty</ar>
+<ar><k>vioară</k>
+violin</ar>
+<ar><k>virgulă</k>
+comma</ar>
+<ar><k>visa</k>
+dream</ar>
+<ar><k>viscol</k>
+blizzard</ar>
+<ar><k>vită</k>
+cattle</ar>
+<ar><k>viteaz</k>
+brave</ar>
+<ar><k>viteză</k>
+speed</ar>
+<ar><k>viu</k>
+alive</ar>
+<ar><k>viză</k>
+visa</ar>
+<ar><k>vizavi de</k>
+opposite</ar>
+<ar><k>vizită</k>
+visit</ar>
+<ar><k>vizita</k>
+visit</ar>
+<ar><k>vlad dracul</k>
+VIad the Devil</ar>
+<ar><k>vlad ţepel</k>
+Viad The Impaler</ar>
+<ar><k>vocabular</k>
+vocabulary</ar>
+<ar><k>vocativ</k>
+vocative</ar>
+<ar><k>voce</k>
+voice</ar>
+<ar><k>voi</k>
+you</ar>
+<ar><k>voie</k>
+will</ar>
+<ar><k>voinţă</k>
+will</ar>
+<ar><k>voinic</k>
+robust</ar>
+<ar><k>volum</k>
+volume</ar>
+<ar><k>voma</k>
+vomit</ar>
+<ar><k>vopsi</k>
+paint</ar>
+<ar><k>vor</k>
+they want</ar>
+<ar><k>vorbă</k>
+word</ar>
+<ar><k>vorbesc</k>
+I speak</ar>
+<ar><k>vorbi</k>
+speak</ar>
+<ar><k>vorbi greceşte</k>
+speak Greek</ar>
+<ar><k>vorbi pe şleau</k>
+speak plainly</ar>
+<ar><k>vorbiţi româneşte</k>
+do you speak Romanian</ar>
+<ar><k>vostru</k>
+your</ar>
+<ar><k>văr</k>
+cousin</ar>
+<ar><k>vrea</k>
+want</ar>
+<ar><k>vreme</k>
+time</ar>
+<ar><k>vărsa</k>
+spill</ar>
+<ar><k>vrut</k>
+wanted</ar>
+<ar><k>vulpe</k>
+fox</ar>
+<ar><k>vultur</k>
+eagle</ar>
+<ar><k>văzut</k>
+seen</ar>
+<ar><k>vîna</k>
+hunt</ar>
+<ar><k>vîndut</k>
+sold</ar>
+<ar><k>vînt</k>
+wind</ar>
+<ar><k>vînzătoare</k>
+sales assistant</ar>
+<ar><k>vîrf</k>
+peak</ar>
+<ar><k>vîrstă</k>
+age</ar>
+<ar><k>zahăr</k>
+sugar</ar>
+<ar><k>zahăr tos</k>
+castor sugar</ar>
+<ar><k>zarzavat</k>
+green vegetables</ar>
+<ar><k>zbor</k>
+flight</ar>
+<ar><k>zbura</k>
+fly</ar>
+<ar><k>zăcea</k>
+lie</ar>
+<ar><k>zdrobi</k>
+crush</ar>
+<ar><k>zece</k>
+ten</ar>
+<ar><k>zecea</k>
+tenth</ar>
+<ar><k>zecelea</k>
+tenth</ar>
+<ar><k>zero</k>
+zero</ar>
+<ar><k>zeu</k>
+God</ar>
+<ar><k>zgomot</k>
+noise</ar>
+<ar><k>zgomotos</k>
+noisy</ar>
+<ar><k>zgîria</k>
+scratch</ar>
+<ar><k>zi</k>
+day</ar>
+<ar><k>zi de naştere</k>
+birthday</ar>
+<ar><k>ziar</k>
+newspaper</ar>
+<ar><k>zice</k>
+say</ar>
+<ar><k>zidi</k>
+build</ar>
+<ar><k>zile</k>
+days</ar>
+<ar><k>zilnic</k>
+daily</ar>
+<ar><k>zis</k>
+said</ar>
+<ar><k>ziuă</k>
+day</ar>
+<ar><k>ziua</k>
+during the day</ar>
+<ar><k>zmeură</k>
+raspberries</ar>
+<ar><k>zonă</k>
+zone</ar>
+<ar><k>zăpadă</k>
+snow</ar>
+<ar><k>zăpăci</k>
+confuse</ar>
+<ar><k>zăpăcit</k>
+absent-minded</ar>
+<ar><k>zări</k>
+catch sight</ar>
+<ar><k>zău</k>
+really!</ar>
+<ar><k>zugrăvi</k>
+paint</ar>
+<ar><k>zvon</k>
+rumour</ar>
+<ar><k>zîmbi</k>
+smile</ar>
+<ar><k>ínfiinţa</k>
+establish</ar>
+<ar><k>îmbogăti</k>
+enrich</ar>
+<ar><k>îmbrăca</k>
+dress</ar>
+<ar><k>îmbrăcăminte</k>
+clothing</ar>
+<ar><k>îmbrăţişa</k>
+embrace</ar>
+<ar><k>îmbăta - se</k>
+get drunk</ar>
+<ar><k>îmbătrîni</k>
+get old</ar>
+<ar><k>îmbunătăţi</k>
+improve</ar>
+<ar><k>îmi</k>
+to me</ar>
+<ar><k>îmi pare bine</k>
+I am glad</ar>
+<ar><k>îmi pare rău</k>
+I am sorry</ar>
+<ar><k>împăca</k>
+reconcile</ar>
+<ar><k>împiedica</k>
+hinder</ar>
+<ar><k>împinge</k>
+push</ar>
+<ar><k>împins</k>
+pushed</ar>
+<ar><k>împletici</k>
+stagger</ar>
+<ar><k>împlini</k>
+accomplish</ar>
+<ar><k>împărat</k>
+emperor</ar>
+<ar><k>împrejur</k>
+round</ar>
+<ar><k>împrejurare</k>
+circumstance</ar>
+<ar><k>împrejurul</k>
+around</ar>
+<ar><k>împreună</k>
+together</ar>
+<ar><k>împărţi</k>
+divide</ar>
+<ar><k>împrumut</k>
+loan</ar>
+<ar><k>împrumuta</k>
+lend</ar>
+<ar><k>împuşca</k>
+shoot</ar>
+<ar><k>în</k>
+in</ar>
+<ar><k>în drum spre</k>
+on the way to</ar>
+<ar><k>în general</k>
+in general</ar>
+<ar><k>în jur</k>
+around</ar>
+<ar><k>în jurul</k>
+around</ar>
+<ar><k>în loc de</k>
+instead of</ar>
+<ar><k>în pace</k>
+in peace</ar>
+<ar><k>în pace şi linişte</k>
+in peace and quiet</ar>
+<ar><k>în străinătate</k>
+abroad</ar>
+<ar><k>în total</k>
+altogether</ar>
+<ar><k>înaintat</k>
+advanced</ar>
+<ar><k>înainte</k>
+beforehand</ar>
+<ar><k>înainte de</k>
+before</ar>
+<ar><k>înaintea</k>
+in front of</ar>
+<ar><k>înalt</k>
+tall</ar>
+<ar><k>înapoi</k>
+backwards</ar>
+<ar><k>încă</k>
+yet</ar>
+<ar><k>începe</k>
+begin</ar>
+<ar><k>început</k>
+begun</ar>
+<ar><k>încerca</k>
+try</ar>
+<ar><k>încercare</k>
+attempt</ar>
+<ar><k>încet</k>
+slowly</ar>
+<ar><k>înceta</k>
+cease</ar>
+<ar><k>încheia</k>
+close</ar>
+<ar><k>încheiere</k>
+conclusion</ar>
+<ar><k>închide</k>
+close</ar>
+<ar><k>închina</k>
+toast</ar>
+<ar><k>închipui</k>
+imagine</ar>
+<ar><k>închis</k>
+closed</ar>
+<ar><k>închisoare</k>
+prison</ar>
+<ar><k>încălca</k>
+infringe</ar>
+<ar><k>încălca legea</k>
+break the law</ar>
+<ar><k>încălcare</k>
+violation</ar>
+<ar><k>înclinaţie</k>
+inclination</ar>
+<ar><k>încălzi</k>
+warm up</ar>
+<ar><k>încoace</k>
+hither</ar>
+<ar><k>încolo</k>
+thither</ar>
+<ar><k>înconjura</k>
+surround</ar>
+<ar><k>încotro</k>
+whither</ar>
+<ar><k>încăpea</k>
+fit into</ar>
+<ar><k>încăput</k>
+fitted into</ar>
+<ar><k>încărca</k>
+load</ar>
+<ar><k>încredere</k>
+confidence</ar>
+<ar><k>încredinţa</k>
+entrust</ar>
+<ar><k>încuia</k>
+lock up</ar>
+<ar><k>încuraja</k>
+encourage</ar>
+<ar><k>încurca</k>
+tangle</ar>
+<ar><k>îndată</k>
+immediately</ar>
+<ar><k>îndatorat</k>
+indebted</ar>
+<ar><k>îndelungat</k>
+protracted</ar>
+<ar><k>îndemn</k>
+insistence</ar>
+<ar><k>îndemna</k>
+urge</ar>
+<ar><k>îndeosebi</k>
+especially</ar>
+<ar><k>îndeplini</k>
+fulfil</ar>
+<ar><k>îndepărtat</k>
+distant</ar>
+<ar><k>îndoi</k>
+fold</ar>
+<ar><k>îndoială</k>
+doubt</ar>
+<ar><k>îndrepta</k>
+put right</ar>
+<ar><k>îndreptăţit</k>
+justified</ar>
+<ar><k>îndruma</k>
+guide</ar>
+<ar><k>îndrăzni</k>
+dare</ar>
+<ar><k>îneca</k>
+drown</ar>
+<ar><k>înţelege</k>
+understand</ar>
+<ar><k>înţelept</k>
+wise</ar>
+<ar><k>înţeles</k>
+understood</ar>
+<ar><k>înţepeni</k>
+become stiff</ar>
+<ar><k>înfăţişa</k>
+present</ar>
+<ar><k>înfige</k>
+stick in</ar>
+<ar><k>înfiorător</k>
+frightful</ar>
+</xdxf>

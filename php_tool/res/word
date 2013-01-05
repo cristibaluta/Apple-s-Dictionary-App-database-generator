@@ -1,0 +1,11 @@
+<d:entry id="::id::" d:title="::word::">
+	<d:index d:value="::word::"/>
+	<div d:priority="2">
+		<h1>::word::</h1>
+	</div>
+	<div>
+		<ol>
+			<li>::definition::</li>
+		</ol>
+	</div>
+</d:entry>

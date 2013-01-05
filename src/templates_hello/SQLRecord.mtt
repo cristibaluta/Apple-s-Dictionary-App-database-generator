@@ -1,0 +1,1 @@
+INSERT INTO `hellos` VALUES (::id::,'::language::','::region::','::usage::','::hello::');

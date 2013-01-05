@@ -1,0 +1,7 @@
+<d:entry id="::id::" d:title="::phrase::" d:parental-control="1">
+	<d:index d:value="::phrase::"/>
+	<h1>::phrase::</h1>
+	<ul>
+		<li>::description::</li>
+	</ul>
+</d:entry>

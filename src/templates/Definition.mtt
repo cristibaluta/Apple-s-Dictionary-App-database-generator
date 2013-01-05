@@ -1,0 +1,8 @@
+<d:entry id="::id::" d:title="::word::">
+	::inflections::
+	<div><span class="source">
+		<li>::definition::</li>
+		<h4>Sursă: ::sourceName:: ( <span class="source">::shortSourceName::</span> ) | <span class="report"><a href="http://dexonline.ro/greseala?definitionId=::id::">Raportează greșeală de tipar</a></span></h4>
+		<br/>
+	</span></div>
+</d:entry>

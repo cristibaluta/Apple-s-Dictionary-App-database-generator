@@ -1,0 +1,30 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+d|entry {
+}
+
+body {
+	font-family: "Times", "Arial", "Verdana", sans-serif;
+}
+
+.report A:link {text-decoration: underline; color: #999999;}
+.report A:visited {text-decoration: none; color: #AAAAAA;}
+.report A:hover {text-decoration: underline; color: #FF3300;}
+.source {
+	color: #000000;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 150%;
+}
+
+h3 {
+	font-size: 100%;
+}
+
+h4 {
+	font-size: 70%;
+	color: #999999;
+}
